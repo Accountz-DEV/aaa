@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query project-ref="proj.131575c2-cb80-4c2d-9cf3-61284be225e4" id="v.q.transactions.sales_templ_all" xmlns="http://www.accountz.com/xmlbeans/model/view">
+    <condition value-class-name="java.lang.Boolean" column-class-name="com.accountz.gui.tables.col.trans.Hiden" hidden="true" operator-name="EQUALS" v1="false" v2="false" class-name-for-operator-group="java.lang.Boolean">
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields" field="HIDDEN" field-id=""/>
+    </condition>
+    <sorting>
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields"/>
+    </sorting>
+    <grouping>
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields"/>
+    </grouping>
+</query>

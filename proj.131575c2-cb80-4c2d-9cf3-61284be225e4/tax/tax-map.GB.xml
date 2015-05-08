@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tax-map country-code="GB" project-ref="proj.131575c2-cb80-4c2d-9cf3-61284be225e4" vat-avtive="true" xmlns="http://www.accountz.com/xmlbeans/model">
-    <tax-code id="st">
+    <tax-code id="st" label="vat.code.st">
         <tax-ref>ST_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="re">
+    <tax-code id="re" label="vat.code.re">
         <tax-ref>RE_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="mossSt">
+    <tax-code id="mossSt" label="vat.code.mossSt">
         <tax-ref>MOSS_ST_VAT</tax-ref>
         <usage>SALES</usage>
     </tax-code>
-    <tax-code id="mossRe">
+    <tax-code id="mossRe" label="vat.code.mossRe">
         <tax-ref>MOSS_RE_VAT</tax-ref>
         <usage>SALES</usage>
     </tax-code>
-    <tax-code id="rc">
+    <tax-code id="rc" label="vat.code.rc">
         <tax-ref>RC_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="ecSal">
+    <tax-code id="ecSal" label="vat.code.ecSal">
         <tax-ref>EC_SAL_VAT</tax-ref>
         <usage>SALES</usage>
     </tax-code>
-    <tax-code id="ecSalS">
+    <tax-code id="ecSalS" label="vat.code.ecSalS">
         <tax-ref>EC_SAL_S_VAT</tax-ref>
         <usage>SALES</usage>
     </tax-code>
@@ -43,33 +43,33 @@
         <tax-ref>EC_PUR_4_VAT</tax-ref>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="ze" editable="false">
+    <tax-code id="ze" editable="false" label="vat.code.ze">
         <tax-ref>ZE_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="ex" editable="false">
+    <tax-code id="ex" editable="false" label="vat.code.ex">
         <tax-ref>EX_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="flat" editable="false">
+    <tax-code id="flat" editable="false" label="vat.code.flat">
         <tax-ref>FLAT_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
     <!--The name stays "100" and is not changed to "all" for backward compatibility but it should be "all"-->
-    <tax-code id="100" editable="false">
+    <tax-code id="100" editable="false" label="vat.code.100">
         <tax-ref>100_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="na" editable="false">
+    <tax-code id="na" editable="false" label="vat.code.na">
         <tax-ref>NA_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
     </tax-code>
-    <tax-code id="u" editable="false">
+    <tax-code id="u" editable="false" label="vat.code.u">
         <tax-ref>U_VAT</tax-ref>
         <usage>SALES</usage>
         <usage>PURCHASE</usage>
