@@ -1,0 +1,21 @@
+{
+  "categoryCode":"",
+  "children":[
+  ],
+  "closed":false,
+  "filters":[
+  ],
+  "meta":{
+    "created":"2015-05-08T15:38:19.699+01:00",
+    "hidden":false,
+    "id":"acc.40871620-b03c-428f-833c-048c23669815",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "name":"VAT Control",
+  "note":"VAT Control. This holds VAT owed to or from HMRC (UK). The balance of an account of this type represents how much is currently owed (or vice-versa) when all output (sales) VAT and input (purchases) VAT plus VAT Return payments have been taken into account. To pay a VAT Return, add a Transfer transaction From Bank To VAT Control. Click on the Entry tab below to view all the entries that make up this account. If the final Running Balance figure is positive, money is owed to HMRC.",
+  "overdraft":"0",
+  "reconcilable":false,
+  "specifyFilter":false,
+  "typeID":"at.vat-control",
+  "wasUsed":"TRUE"
+}
