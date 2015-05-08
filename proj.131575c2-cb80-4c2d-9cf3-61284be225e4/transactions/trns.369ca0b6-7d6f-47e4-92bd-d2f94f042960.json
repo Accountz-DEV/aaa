@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"21.44252271797913",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:27.273+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-21.44252271797913",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:27.27+01:00",
+    "hidden":false,
+    "id":"trns.369ca0b6-7d6f-47e4-92bd-d2f94f042960",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"HSsgkvCMOa WeQQdU YeenLjC uMpBoLcLwgj qEOw ",
+    "notes":"YBpTgIiPYH EBaxXPv skqFp rbdIvDEte HKdLFqqyg vZXXPNS Ag qzcywrF Dvw ZiKfxYcoKT ",
+    "reference":"39941"
+  },
+  "trader":"su.bfea76d1-7687-4e54-83c4-756a131a6907",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":391028,
+    "validationErrorCode":""
+  }
+}

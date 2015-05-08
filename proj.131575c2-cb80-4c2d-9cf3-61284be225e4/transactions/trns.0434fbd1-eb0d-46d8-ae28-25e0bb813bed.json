@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"11.88768601496345",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-11.88768601496345",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:05.439+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:05.435+01:00",
+    "hidden":false,
+    "id":"trns.0434fbd1-eb0d-46d8-ae28-25e0bb813bed",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-07-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UPFJKkO WRXwjOxo sEinrmfgJ KmRUYzftFwe zLbn ",
+    "notes":"qGoyBNv IWWrL cQNCvllu dXxIBxS iwDEVhWlp dzTPDmDHd EQRw voRCN CK TBfTytS ",
+    "reference":"00581"
+  },
+  "trader":"su.51ee9e21-7644-44da-826a-aeaed646a9dd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":482558,
+    "validationErrorCode":""
+  }
+}

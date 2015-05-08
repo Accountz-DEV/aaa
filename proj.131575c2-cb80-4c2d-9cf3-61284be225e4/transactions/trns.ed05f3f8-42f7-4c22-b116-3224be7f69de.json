@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"41.36733354531488",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:20.222+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-41.36733354531488",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:20.219+01:00",
+    "hidden":false,
+    "id":"trns.ed05f3f8-42f7-4c22-b116-3224be7f69de",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"yFGz KFPULFHE MUmSpDiq fvuadsHNWkj nTehE ",
+    "notes":"hlO qyXZ CDaLlmfzXY fjNQCfuvzf IyxBUqAf UsJvj Xgp cfFAe OQobPidCySc BKSpSd ",
+    "reference":"31913"
+  },
+  "trader":"su.dd0e0580-5867-462f-9bed-c41ef0826df6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":218840,
+    "validationErrorCode":""
+  }
+}

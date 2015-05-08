@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"81.89936208471559",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:50.204+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-81.89936208471559",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:50.205+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:50.196+01:00",
+    "hidden":false,
+    "id":"trns.315bfc75-d996-431b-a0d1-2c6cd2e54cca",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BAXDNqQl HxV gopJL UCBOEf HHH ",
+    "notes":"MQunbJuG Ufq uyXdzeLVK OmMdHst dhoA Ev fPdzAnZ EcBEqyFv YDrSr wc ",
+    "reference":"47038"
+  },
+  "trader":"su.dec3cb5c-eb95-4de1-86ab-87d4a95913a6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":80816,
+    "validationErrorCode":""
+  }
+}

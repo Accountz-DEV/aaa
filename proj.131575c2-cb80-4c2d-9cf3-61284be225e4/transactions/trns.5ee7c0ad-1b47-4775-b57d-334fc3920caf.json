@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"99.30648723857772",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:13.65+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-99.30648723857772",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:13.651+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:13.648+01:00",
+    "hidden":false,
+    "id":"trns.5ee7c0ad-1b47-4775-b57d-334fc3920caf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aLRkDd ziHAMSlGl IIw PxHorGzCVr iRzT ",
+    "notes":"jNNeVPKPP xiNrbMrzHK YkF XIpTtmM MjPcC CrEpyD SuhYJepXMA PLdygpVBbV SePr nA ",
+    "reference":"71108"
+  },
+  "trader":"su.50282da7-7456-470c-9ca4-b34c91464051",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":378896,
+    "validationErrorCode":""
+  }
+}

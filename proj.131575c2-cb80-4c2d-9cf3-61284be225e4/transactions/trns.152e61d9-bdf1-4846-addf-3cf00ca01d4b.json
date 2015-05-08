@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"13.054933222825715",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:39.811+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-13.054933222825715",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:39.812+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:39.806+01:00",
+    "hidden":false,
+    "id":"trns.152e61d9-bdf1-4846-addf-3cf00ca01d4b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aGINYkta vGXCgr rx qSUshg OtIKObXjUcU ",
+    "notes":"ciw QxDvdYpNfna pg KK TMIk XmzxifZr odoDVJJH gtGg dVgdmsR utS ",
+    "reference":"18218"
+  },
+  "trader":"su.cdf4a3e5-6d87-459d-b1da-4062ed66a07f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":71114,
+    "validationErrorCode":""
+  }
+}

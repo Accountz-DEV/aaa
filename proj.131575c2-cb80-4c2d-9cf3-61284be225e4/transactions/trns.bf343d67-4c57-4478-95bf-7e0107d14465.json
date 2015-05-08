@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"54.652698487829454",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.308+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-54.652698487829454",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.308+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:03.306+01:00",
+    "hidden":false,
+    "id":"trns.bf343d67-4c57-4478-95bf-7e0107d14465",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"AcgYHkiFRh MqLkyDnuiDl trTwFzxSN MAQytn SQuGkNiuk ",
+    "notes":"pVLcIi if TAGG aopV MMYQpcpypYW iPI dqOaLoIc LiZtBbpgB Rvekg xCObVzjLvBA ",
+    "reference":"43212"
+  },
+  "trader":"su.44a8b28a-28ea-4c20-bfa3-3257fa09f284",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":313700,
+    "validationErrorCode":""
+  }
+}

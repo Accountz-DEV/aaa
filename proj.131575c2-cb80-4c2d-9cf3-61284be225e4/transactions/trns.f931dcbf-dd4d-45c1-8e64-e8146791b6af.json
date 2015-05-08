@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"29.501315229395974",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-29.501315229395974",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:16.294+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:16.289+01:00",
+    "hidden":false,
+    "id":"trns.f931dcbf-dd4d-45c1-8e64-e8146791b6af",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Mrk vCbEJhofRt eoCacWzz lPxGfGGylq ZQfsdx ",
+    "notes":"uTZbRJUbx nifKeOFpvyX KsOSRB gzXKoLIFMj GwzsowrkZ kGLT zOBP MBMRdrpH wt UknrSobeC ",
+    "reference":"04594"
+  },
+  "trader":"su.b399cb31-35b2-40f2-a78b-b3539fe5423f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":159656,
+    "validationErrorCode":""
+  }
+}

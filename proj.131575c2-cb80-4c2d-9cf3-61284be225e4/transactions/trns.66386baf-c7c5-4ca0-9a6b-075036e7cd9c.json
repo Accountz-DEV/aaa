@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"63.99370889041332",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:02.853+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-63.99370889041332",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:02.854+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:02.85+01:00",
+    "hidden":false,
+    "id":"trns.66386baf-c7c5-4ca0-9a6b-075036e7cd9c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tWc PsxtBhY VIjtIpIBYwa bbSyp ODYIa ",
+    "notes":"rbQlM KCwoFfo vussIyAU aYPcKjHLN oGTYlDm uP NL qV ere MBBDyBLA ",
+    "reference":"90214"
+  },
+  "trader":"su.82d3e3b2-d9fc-459d-8fd1-bb18be498242",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":202856,
+    "validationErrorCode":""
+  }
+}

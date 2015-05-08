@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"87.65482292576478",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-87.65482292576478",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:09.603+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:09.599+01:00",
+    "hidden":false,
+    "id":"trns.e51e0b49-64bf-4de8-bc69-20d45aa521ad",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Fqx YYLGFmkcBe HAtOEaCbvT iw PD ",
+    "notes":"YZC pF pFRvDSVxExr NTkPwomJB sEOa rhxXcXiIzU uoaGQR vJMEHsWO HSSEwai LGVBUj ",
+    "reference":"61953"
+  },
+  "trader":"su.d08eaf0b-b65d-4f7f-ad54-39bc4573fc2c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":486734,
+    "validationErrorCode":""
+  }
+}

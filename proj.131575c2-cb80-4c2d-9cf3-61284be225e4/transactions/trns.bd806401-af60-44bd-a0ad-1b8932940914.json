@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"9.61551565919494",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:23.369+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-9.61551565919494",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:23.37+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:23.366+01:00",
+    "hidden":false,
+    "id":"trns.bd806401-af60-44bd-a0ad-1b8932940914",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"rt BJ oIhi EDzJe MddR ",
+    "notes":"rDuG NgZO PfbZx RC omXzNxaLyb NcWCABHta mpVBCUYnTm hobDBVxR BgiLWxP KNtkyt ",
+    "reference":"21535"
+  },
+  "trader":"su.43b10f27-521b-45fe-a358-1d6adecaf8bb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":444002,
+    "validationErrorCode":""
+  }
+}

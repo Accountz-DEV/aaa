@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"1.0642127684434954",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:29.07+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-1.0642127684434954",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:29.071+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:29.068+01:00",
+    "hidden":false,
+    "id":"trns.e715c6db-845d-4bc1-9f81-a1a80d19b638",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"HEXBDxWvIZg Roi uFHNdrRVHp jwVu MnTRIFwgvGi ",
+    "notes":"aiNzLlPWX YMmABAwtFd hW OjhJiyebtU gNOL Dz IAEs VLSg PsucAAWE UjWPeT ",
+    "reference":"65935"
+  },
+  "trader":"su.8c8ab430-370c-45bf-927d-be4067eb8358",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":6188,
+    "validationErrorCode":""
+  }
+}

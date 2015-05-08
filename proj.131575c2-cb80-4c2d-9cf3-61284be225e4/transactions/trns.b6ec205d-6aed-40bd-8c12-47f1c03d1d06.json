@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"62.59034217719546",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:37.801+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-62.59034217719546",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:37.802+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:37.798+01:00",
+    "hidden":false,
+    "id":"trns.b6ec205d-6aed-40bd-8c12-47f1c03d1d06",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"dnRxFyFOl uS zfqORQqKAHT rphWHRcwC kfj ",
+    "notes":"YXkgk vBCFqgrHm xH UNaASwYuvVI GowrVtUh TTB TDy TCkvr POoFfaOGjY SnrYs ",
+    "reference":"79113"
+  },
+  "trader":"su.92e5ce1b-ee10-4427-a713-ba7733e9601e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":123890,
+    "validationErrorCode":""
+  }
+}

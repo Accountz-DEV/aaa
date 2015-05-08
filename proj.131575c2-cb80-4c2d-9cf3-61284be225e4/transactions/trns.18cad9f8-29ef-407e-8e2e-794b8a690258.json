@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"75.97919042133408",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:57.914+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-75.97919042133408",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:57.91+01:00",
+    "hidden":false,
+    "id":"trns.18cad9f8-29ef-407e-8e2e-794b8a690258",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"MEVWaz PD NSOuSGCWFTI qzNyhmlDDzq RmIUKEAsX ",
+    "notes":"GIHrT VFHHVLk yVywWiLn JYnqUiQOatA NIeFLxKtiES sd KwOjFK pVerhVO yDifyftedGI mRsCY ",
+    "reference":"68977"
+  },
+  "trader":"su.384a1fb2-6bc0-4d5c-8a3c-c27da014e330",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":419522,
+    "validationErrorCode":""
+  }
+}

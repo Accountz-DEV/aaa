@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"49.484443172637285",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:24.673+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-49.484443172637285",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:24.675+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:24.669+01:00",
+    "hidden":false,
+    "id":"trns.240de4f4-c945-4e88-8708-e636bf73d299",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"uLGRN TlHaQiJzGY qVdNhAxRZHX aLhaX evxUfhbrcjq ",
+    "notes":"avqbVKzwNih JzKCTQhIM kDupt japEQemNgp HXGyojng AmVzUSwxsRp cZItiu xhB UXkfjkYO XyfFzaWMt ",
+    "reference":"87491"
+  },
+  "trader":"su.6459268a-5472-4e7e-9104-b0c5e9586c5e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":333140,
+    "validationErrorCode":""
+  }
+}

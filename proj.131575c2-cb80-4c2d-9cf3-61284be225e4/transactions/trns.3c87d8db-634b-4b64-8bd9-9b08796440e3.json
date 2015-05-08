@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"11.21736332239809",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:51.275+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-11.21736332239809",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:51.276+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:51.273+01:00",
+    "hidden":false,
+    "id":"trns.3c87d8db-634b-4b64-8bd9-9b08796440e3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kcH UmjKUoFB jM SMmjGCJf OJdrwEQx ",
+    "notes":"cafPRAJ mxMasImSZJV qLpdVJ JYsIBjKNnf vHvnWrpmk NcbP BqqTCL EWCsJfxqClA VV mkRio ",
+    "reference":"69918"
+  },
+  "trader":"su.e50d4d6a-7028-4e28-9f10-cf56266db77c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":302450,
+    "validationErrorCode":""
+  }
+}

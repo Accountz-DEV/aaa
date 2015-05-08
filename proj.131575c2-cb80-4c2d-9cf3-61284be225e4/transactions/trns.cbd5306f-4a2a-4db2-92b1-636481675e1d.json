@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"70.38045263894911",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:04.144+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-70.38045263894911",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:04.145+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:04.142+01:00",
+    "hidden":false,
+    "id":"trns.cbd5306f-4a2a-4db2-92b1-636481675e1d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"WxxKDTafzZz bb krEiISbHQl TKMBWbPzRNr PULvSe ",
+    "notes":"FD sCyAHuAoBx Lc gdKUYzxf hWu iUdXttg CDNe hJAxqkdvUim WZ bn ",
+    "reference":"70425"
+  },
+  "trader":"su.f584d3d4-091e-4137-ac9c-c8f97eb13575",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":370598,
+    "validationErrorCode":""
+  }
+}

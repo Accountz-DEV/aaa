@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"0.9842722209725707",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:23.609+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-0.9842722209725707",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:23.611+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:23.605+01:00",
+    "hidden":false,
+    "id":"trns.f36562d5-0f72-4819-a12c-5a084d22101e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LbNYm vfXnuoJPL MISoQaqMc GZSzbovJV AHileTDArWb ",
+    "notes":"lswmuSgbys qnCUtdAC wkWz NkdFTaT PPGmTQc uCq SUckJ AKPMPGp pXU iFSm ",
+    "reference":"32632"
+  },
+  "trader":"su.8ea92350-c031-4d91-8cee-df060f876102",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":444470,
+    "validationErrorCode":""
+  }
+}

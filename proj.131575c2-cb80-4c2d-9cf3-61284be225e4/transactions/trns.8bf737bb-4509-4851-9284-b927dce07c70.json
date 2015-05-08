@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"12.09137581959302",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:16.45+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-12.09137581959302",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:16.451+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:16.448+01:00",
+    "hidden":false,
+    "id":"trns.8bf737bb-4509-4851-9284-b927dce07c70",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"xonn GuqcFnG njCZZsZve GhgfRpUAga HpXt ",
+    "notes":"hFM DfJNEf qpSwAobh RHfv GADMko girYZfai ndCtSP Igy No MituAK ",
+    "reference":"59639"
+  },
+  "trader":"su.fd41f3eb-231a-45cc-a10e-ecbbea45d0a8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":104000,
+    "validationErrorCode":""
+  }
+}

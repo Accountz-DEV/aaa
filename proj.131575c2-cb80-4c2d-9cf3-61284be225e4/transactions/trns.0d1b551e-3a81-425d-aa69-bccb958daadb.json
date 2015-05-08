@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"89.08651635328135",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-89.08651635328135",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:18.303+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:18.299+01:00",
+    "hidden":false,
+    "id":"trns.0d1b551e-3a81-425d-aa69-bccb958daadb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FajPu SlODbjgFwE nzKz SB TpoERx ",
+    "notes":"xu prbVjyERt cgtoQGLuoVe TzhcrMRH vLyJJaDKgXC AyqMi tv tXBDmCNf DE rwoh ",
+    "reference":"87619"
+  },
+  "trader":"su.a4abc516-1445-4482-b1dc-d48076ae8a4e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":271976,
+    "validationErrorCode":""
+  }
+}

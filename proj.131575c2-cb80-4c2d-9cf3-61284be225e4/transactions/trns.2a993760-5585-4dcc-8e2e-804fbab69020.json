@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"16.840450896301007",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:01.935+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-16.840450896301007",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:01.936+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:01.932+01:00",
+    "hidden":false,
+    "id":"trns.2a993760-5585-4dcc-8e2e-804fbab69020",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"KNoEXYx qfhgHBUSdZ sxKh vZeExY nbz ",
+    "notes":"MVmjSiPx gzzUypzBQ TicIt ecGfEA xMPTiNubXd xpdisIOsAX Zz mEgdC PJL DvJBcOg ",
+    "reference":"80617"
+  },
+  "trader":"su.f01e1dec-0976-4f2f-83a1-f39e9f8aca39",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":368060,
+    "validationErrorCode":""
+  }
+}

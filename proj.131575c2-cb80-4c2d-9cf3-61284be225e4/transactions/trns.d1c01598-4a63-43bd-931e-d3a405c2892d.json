@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"30.437824875095675",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:53.532+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-30.437824875095675",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:53.533+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:53.529+01:00",
+    "hidden":false,
+    "id":"trns.d1c01598-4a63-43bd-931e-d3a405c2892d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-03-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"AgRP tLcWGfngy iMmPqLdZr kN DSfwK ",
+    "notes":"XTmnQDJp wGGYPTS ESiK MI lfK CHOb iGpsCbTyd GQv AuLmgBnA TLkgqe ",
+    "reference":"15540"
+  },
+  "trader":"su.b9319fcb-b3e5-4a7b-9ce0-4c736cb91646",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":83228,
+    "validationErrorCode":""
+  }
+}

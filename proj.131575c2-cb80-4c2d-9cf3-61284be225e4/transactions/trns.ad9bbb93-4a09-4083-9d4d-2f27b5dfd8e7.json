@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"20.406113215807743",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-20.406113215807743",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:30.253+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:30.249+01:00",
+    "hidden":false,
+    "id":"trns.ad9bbb93-4a09-4083-9d4d-2f27b5dfd8e7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qKZ PLUqiN QKAoAFjiso UcDK eQmFGdd ",
+    "notes":"QBnhI upQy LFszmyGH BATqtrcU RdeMEbgA RgBsUnwaLt NIUv vxbU Ceb AZYGTFRH ",
+    "reference":"96828"
+  },
+  "trader":"su.09419255-b20c-4c36-ae26-9bc708de9fb4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":228452,
+    "validationErrorCode":""
+  }
+}

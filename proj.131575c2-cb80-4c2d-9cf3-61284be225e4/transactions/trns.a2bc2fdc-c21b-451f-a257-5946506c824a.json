@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"30.704423975598395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:08.99+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-30.704423975598395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:08.991+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:08.986+01:00",
+    "hidden":false,
+    "id":"trns.a2bc2fdc-c21b-451f-a257-5946506c824a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UJLhinv Pinf oCDzxNZ mjzkglfb cnKOBTgLyc ",
+    "notes":"kTwaJN hIbBEQOrGNF YNnMKOn ePhqSax YYGKbgP od vP iq jq uVHDOvrwq ",
+    "reference":"18179"
+  },
+  "trader":"su.013eb4de-e54f-41ad-bb53-464eaece89f8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":318758,
+    "validationErrorCode":""
+  }
+}

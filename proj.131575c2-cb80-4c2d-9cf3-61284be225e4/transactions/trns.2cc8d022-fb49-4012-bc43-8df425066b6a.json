@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"86.81641311823289",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:26.385+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-86.81641311823289",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:26.386+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:26.382+01:00",
+    "hidden":false,
+    "id":"trns.2cc8d022-fb49-4012-bc43-8df425066b6a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FFTSqMamA TX SRskejoND gvoU ALiMUiKr ",
+    "notes":"QgLTKnn mh sWSlmv YzsNdLojVwl OZltugWF iD Dmr oTfQNk iww tjXPj ",
+    "reference":"21998"
+  },
+  "trader":"su.59bfd207-74b2-4577-aa35-f28ff19cc6ab",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":279716,
+    "validationErrorCode":""
+  }
+}

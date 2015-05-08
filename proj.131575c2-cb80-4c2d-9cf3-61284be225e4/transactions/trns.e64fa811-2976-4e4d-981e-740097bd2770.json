@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"57.50767286415548",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-57.50767286415548",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:46.923+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:46.92+01:00",
+    "hidden":false,
+    "id":"trns.e64fa811-2976-4e4d-981e-740097bd2770",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-07-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iP XLoz QbBhiy roxGJhDT YKmpEDo ",
+    "notes":"eRC VFgoESaQ ZPZhBXUNRJF rBQiYnDzzJp iqDsMbZr ToQdwoBlDcQ Roqju krddgN SAKnsvdUzi Dml ",
+    "reference":"37064"
+  },
+  "trader":"su.3f6a866a-139a-4745-b890-5095b6fc36be",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":409874,
+    "validationErrorCode":""
+  }
+}

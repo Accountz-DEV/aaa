@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"74.8947594227229",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:20.546+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-74.8947594227229",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:20.547+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:20.543+01:00",
+    "hidden":false,
+    "id":"trns.eae437db-4d9c-41dd-917c-f4041db83264",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JFcX INZMjONrW XpYMuhcFt yhCd teUJlibF ",
+    "notes":"IkNSYgnEhiU cvRvGiEa NBirdc pk AgRp UMq wGwMcBLm NKI QlnWuEveGf VuNRafuqgcr ",
+    "reference":"25364"
+  },
+  "trader":"su.61684521-c976-486c-a13e-218d52b39d6a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":53240,
+    "validationErrorCode":""
+  }
+}

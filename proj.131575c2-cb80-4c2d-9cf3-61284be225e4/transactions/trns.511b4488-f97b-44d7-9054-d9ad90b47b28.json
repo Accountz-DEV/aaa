@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"62.618015675792016",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:38.521+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-62.618015675792016",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:38.522+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:38.519+01:00",
+    "hidden":false,
+    "id":"trns.511b4488-f97b-44d7-9054-d9ad90b47b28",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SN cgbTDyg es JUxhQhE Flk ",
+    "notes":"XFYYaaJGUp mqBK NmXkFJukLsm JAqRjjW LwrqajrFNPR hnsAW liSCo qGqZHUW DNEGnQ xrkHIIvu ",
+    "reference":"42901"
+  },
+  "trader":"su.4372dcdd-98ad-4312-afbd-df6d4dac6ad2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":346316,
+    "validationErrorCode":""
+  }
+}

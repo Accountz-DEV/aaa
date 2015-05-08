@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"58.00656952121345",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:41.346+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-58.00656952121345",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:41.346+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:41.343+01:00",
+    "hidden":false,
+    "id":"trns.512b270c-e707-45ec-884c-d9ec80e75032",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"yQMJzKv rsrbW VEDm GwNws EjsCcMGaIzu ",
+    "notes":"FsWnNIPNVk il YFWfD RxfLPj kMte LkFv hTXtmsFcDng ngZ ABW sk ",
+    "reference":"01673"
+  },
+  "trader":"su.68966a00-3d5c-4e2c-8f45-c1ebb1415443",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":404744,
+    "validationErrorCode":""
+  }
+}

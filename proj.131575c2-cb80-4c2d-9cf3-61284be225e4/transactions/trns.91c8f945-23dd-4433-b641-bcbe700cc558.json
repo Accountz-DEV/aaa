@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"86.66131651445504",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:20.894+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-86.66131651445504",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:20.895+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:20.891+01:00",
+    "hidden":false,
+    "id":"trns.91c8f945-23dd-4433-b641-bcbe700cc558",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OQbvB oLANqz ZTU wJCNFiQQUhv eCZoDBKCRt ",
+    "notes":"NNn VyrWw Eh jgiaP zqZqS oWnPcEox iS Er UMOWwPIYM DRAPSNZg ",
+    "reference":"03225"
+  },
+  "trader":"su.24189541-cee2-4e96-a279-1eac10285dae",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":329810,
+    "validationErrorCode":""
+  }
+}

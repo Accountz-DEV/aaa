@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"81.23026999889218",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-81.23026999889218",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:15.214+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:15.21+01:00",
+    "hidden":false,
+    "id":"trns.6a64ff68-9530-49c8-997f-0fafbc9a674c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PwzmnmlH QsMUnnBPbV lqt Ttd UEChpKkAQr ",
+    "notes":"eprzILfJK CuFdnQfT qM nzJdo vji nLNLvgu xfjWMkwSOkg ciYXGE anODONQlDSs mkVm ",
+    "reference":"32529"
+  },
+  "trader":"su.097bc64c-9cfc-4482-bd2e-dcb98101b78c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":491810,
+    "validationErrorCode":""
+  }
+}

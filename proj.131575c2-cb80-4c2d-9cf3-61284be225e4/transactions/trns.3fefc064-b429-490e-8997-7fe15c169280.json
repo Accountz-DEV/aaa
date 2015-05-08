@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"32.671528516576345",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:40.136+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-32.671528516576345",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:40.137+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:40.133+01:00",
+    "hidden":false,
+    "id":"trns.3fefc064-b429-490e-8997-7fe15c169280",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"uEKfhq HN pKCQpqc ccdnATUtEk ZuHBSIFU ",
+    "notes":"npns oNrsy ltppxU vK dVSViSQJjnP NE eWCNEECTO puROocx wwjwy aDywoL ",
+    "reference":"04687"
+  },
+  "trader":"su.61c8a057-1ee3-48ce-8459-89f9e605964b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":71636,
+    "validationErrorCode":""
+  }
+}

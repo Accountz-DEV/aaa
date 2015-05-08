@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"85.03594857470495",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:12.128+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-85.03594857470495",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:12.128+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:12.125+01:00",
+    "hidden":false,
+    "id":"trns.84032152-6914-40ac-89df-49975941aa80",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TbcxQCbGJ WAnbdBHAJ mM SwwnoPADD fASYiXvYfDq ",
+    "notes":"CZ KUNSQq slftlq OejFXaFC FbXrcKUV dyTV QcMpGM CrTUBcaZ DfT pMgAcW ",
+    "reference":"08595"
+  },
+  "trader":"su.56dbe61f-332b-4dc7-853a-5c081ff9557f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":211136,
+    "validationErrorCode":""
+  }
+}

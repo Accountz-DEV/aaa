@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"44.234259078517766",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.544+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-44.234259078517766",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.544+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:45.542+01:00",
+    "hidden":false,
+    "id":"trns.a1fe5077-e42f-420d-b6bc-785ab96109b4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CI nl anVAVs BATLjA QqMsDT ",
+    "notes":"oegdicnMACx Jtmgx ldcM xKRXSTH jXqGpeJvMFw YpYCxfRTy vSMO jAiZabYRL wCbclBb ICvknlr ",
+    "reference":"46027"
+  },
+  "trader":"su.6c3eb963-5f76-4cb1-ba7b-3b7a70cb43da",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":131180,
+    "validationErrorCode":""
+  }
+}

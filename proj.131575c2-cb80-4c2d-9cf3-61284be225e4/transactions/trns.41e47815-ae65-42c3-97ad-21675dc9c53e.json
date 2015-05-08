@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"32.65347900106905",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:54.986+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"-32.65347900106905",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:54.987+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:54.982+01:00",
+    "hidden":false,
+    "id":"trns.41e47815-ae65-42c3-97ad-21675dc9c53e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FvD NYllYbTqq yAdOfQp PN eZVGTjBTqDR ",
+    "notes":"eJcgO EEMfsV GxbHwxHfX RTi oYGB Pdhx jjbXR tG HsH jdMeY ",
+    "reference":"27526"
+  },
+  "trader":"su.33e14f8c-a86f-443c-9264-aaabcd84a63f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":139784,
+    "validationErrorCode":""
+  }
+}

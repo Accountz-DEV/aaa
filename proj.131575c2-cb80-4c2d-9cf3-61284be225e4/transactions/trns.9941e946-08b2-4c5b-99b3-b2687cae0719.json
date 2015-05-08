@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"35.8928220690393",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-35.8928220690393",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:11.909+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:11.907+01:00",
+    "hidden":false,
+    "id":"trns.9941e946-08b2-4c5b-99b3-b2687cae0719",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"inKNZSCHn FcTjYwy gRwMGja koImDujFlya VfxYyx ",
+    "notes":"oGpeysJZIwN PLIXcxOsr bNFE IDELKMNZGB YIHoQdRheY AzwkEqrzdS gd YUjwkmNCO cDjix To ",
+    "reference":"84866"
+  },
+  "trader":"su.41cc04b0-4339-4af7-a503-fcfafdc11623",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":99320,
+    "validationErrorCode":""
+  }
+}

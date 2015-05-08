@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"70.43229110542822",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-70.43229110542822",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:11.022+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:11.018+01:00",
+    "hidden":false,
+    "id":"trns.e22b2c7f-42c8-4200-a92a-78935a2f8075",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"WAnR OHfQjuXgtcC NEtVDxxzFH jxHyRNFyM IAdceAeTGy ",
+    "notes":"aueIGUOWxI oyhjUEdd fZTCxse oZ iAeC UHx OpPYZNMSzc fohD zeIn VfCAio ",
+    "reference":"51086"
+  },
+  "trader":"su.b30a04f2-b213-4322-ad91-85c091ebd714",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":266288,
+    "validationErrorCode":""
+  }
+}

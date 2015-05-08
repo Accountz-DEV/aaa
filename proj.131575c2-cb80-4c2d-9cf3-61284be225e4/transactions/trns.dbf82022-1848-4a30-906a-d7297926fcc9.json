@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"8.594822426253668",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:13.7+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-8.594822426253668",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:13.701+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:13.698+01:00",
+    "hidden":false,
+    "id":"trns.dbf82022-1848-4a30-906a-d7297926fcc9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"EWTTmhLir DkM lgJKeXiNTZy vtNVGIb HKIBaIjZ ",
+    "notes":"sLunFEq uHgFDmZqxos FZJoTBs PK sVbTwzh BQA IF oVi VHSvgN QAkvcb ",
+    "reference":"80250"
+  },
+  "trader":"su.926fbf0b-4461-4f6b-a870-66509d6c7367",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":378986,
+    "validationErrorCode":""
+  }
+}

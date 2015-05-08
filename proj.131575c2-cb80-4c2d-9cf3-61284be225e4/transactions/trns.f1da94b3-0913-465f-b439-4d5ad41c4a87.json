@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"91.36574599132682",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:35.933+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-91.36574599132682",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:35.934+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:35.93+01:00",
+    "hidden":false,
+    "id":"trns.f1da94b3-0913-465f-b439-4d5ad41c4a87",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"kMtDAcET FUX OaQ kyQCKbAJEVv PH ",
+    "notes":"unmpiREvMYI gb sTBQP SSETcxrcNO qWlELwAy swz uBnV VAz DsNrWdCap weXEMgTAvsS ",
+    "reference":"53344"
+  },
+  "trader":"su.f1d5f0c8-dbb6-481e-9a51-a0f9a4e6fae1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":233978,
+    "validationErrorCode":""
+  }
+}

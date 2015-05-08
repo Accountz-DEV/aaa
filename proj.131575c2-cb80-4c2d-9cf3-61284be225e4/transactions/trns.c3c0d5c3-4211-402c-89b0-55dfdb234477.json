@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"4.841544217468485",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:14.212+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-4.841544217468485",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:14.213+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:14.209+01:00",
+    "hidden":false,
+    "id":"trns.c3c0d5c3-4211-402c-89b0-55dfdb234477",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"hCkw aSMc SQI mWMqvRqhlVM Wzt ",
+    "notes":"gRgORmL KpMOXvdE mXrpDyvKQe qhKIh ES Kjz QzMIR ZqMuRc AsCP dRfL ",
+    "reference":"48992"
+  },
+  "trader":"su.0bf98f79-9ec8-4328-ad7e-c65b0666cbe2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":213206,
+    "validationErrorCode":""
+  }
+}

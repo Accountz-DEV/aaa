@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"61.45916967410741",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:10.425+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-61.45916967410741",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:10.426+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:10.422+01:00",
+    "hidden":false,
+    "id":"trns.21d96f16-0171-4ad3-a7e8-fb5570d14450",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BOnn YwEQhtQvMe DYfMHliM NVoWCq XCxxtOcBK ",
+    "notes":"XeBiJzTqy oZ BwlXDiTLcp UYGINVk Px svdzsbrN rMR ZeHyOuSlPMI ea PJo ",
+    "reference":"61143"
+  },
+  "trader":"su.f1ea9a0b-67ed-434a-806c-f2460b417136",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":154400,
+    "validationErrorCode":""
+  }
+}

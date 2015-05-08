@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"12.854510139491094",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-12.854510139491094",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:15.157+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:15.151+01:00",
+    "hidden":false,
+    "id":"trns.84ef4fb3-beea-44e0-9dd3-7e3569e8e54b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"AxenAbQoww hrFFiaDFeI ESbZSFsGf vgOcvSIg WIOp ",
+    "notes":"ro KpLtw zma zXpTcUJRw Jgg fAAeOxIM eHJfAWqb hnQc AkLKR nAcpapYBot ",
+    "reference":"51109"
+  },
+  "trader":"su.e085ba3c-3ccc-410d-aeb6-7c7453c87b7f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":435650,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"22.176176670717783",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-22.176176670717783",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:21.033+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:21.029+01:00",
+    "hidden":false,
+    "id":"trns.5181069a-35eb-4d60-b612-00f46bb1c7c8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jlE VmwzwwiXnZu KZDKBMDxdL hmkxWc LLtQRpt ",
+    "notes":"ruVexb gPGQBp aInxh eWr QP zZxUh BcRSXIkWC gvQqVG VG uPJaPaXdvD ",
+    "reference":"14423"
+  },
+  "trader":"su.a3624164-bcad-4740-a54f-a610b81eee83",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":330098,
+    "validationErrorCode":""
+  }
+}

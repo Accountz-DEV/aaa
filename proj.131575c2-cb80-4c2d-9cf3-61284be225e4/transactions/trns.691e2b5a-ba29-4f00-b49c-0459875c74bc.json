@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"75.61326946042553",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:47.361+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-75.61326946042553",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:47.362+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:47.357+01:00",
+    "hidden":false,
+    "id":"trns.691e2b5a-ba29-4f00-b49c-0459875c74bc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-03T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UetwX sfVuwOecs GtqZeExUM gyKZwUo MDxoXJlU ",
+    "notes":"nI JaZ Lsybd pONlg rYVNryrQBn MBQju THP uMlbs Mn gLaYw ",
+    "reference":"26122"
+  },
+  "trader":"su.986d63fd-9ec7-4232-a610-2036c6baf0c2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":22460,
+    "validationErrorCode":""
+  }
+}

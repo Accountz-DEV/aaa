@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"81.55763372526619",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:43.574+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-81.55763372526619",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:43.575+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:43.571+01:00",
+    "hidden":false,
+    "id":"trns.dc9c2fec-848d-4ebf-a16d-eec476b775ab",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QMflbZPlLG GSBiV Htw iQ vBxhp ",
+    "notes":"DR wFA icTK lIznGGQzfm kXbKGchVSd ttqh qcO of VYTyQbL nRYh ",
+    "reference":"92759"
+  },
+  "trader":"su.4bf1b223-08aa-4d71-a5af-5a41350f5292",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":241016,
+    "validationErrorCode":""
+  }
+}

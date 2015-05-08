@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"88.15349348319582",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:31.266+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-88.15349348319582",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:31.267+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:31.262+01:00",
+    "hidden":false,
+    "id":"trns.06321f28-1c20-4feb-a813-8743892ef98b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QPc gZfPozCc Wt oNqgUbM ySyIJNdWQ ",
+    "notes":"uGVNHPiFZ GymUMKgg ZQWkeaczdt ENyRPBHRfsv cqK SwJ Wd RCSBAmaP XGf xjubsWbLL ",
+    "reference":"46450"
+  },
+  "trader":"su.2a2eb49e-f230-4d6d-a586-f220a089962c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":340016,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"42.44204334128504",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:39.759+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-42.44204334128504",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:39.759+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:39.757+01:00",
+    "hidden":false,
+    "id":"trns.21aea4ac-d867-4d28-ada7-254c50b0e026",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nnnt mc zrPVyA EGxLKkvqxHf rsKQr ",
+    "notes":"opGDKXro BQovRrD RzMbLNB lQzQU fXdyret VhlI eBXwX EAmsAJ wP qTT ",
+    "reference":"97147"
+  },
+  "trader":"su.057f1ead-65f3-4fff-b5e3-f03ae014f62e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":15602,
+    "validationErrorCode":""
+  }
+}

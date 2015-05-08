@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"74.52609678191156",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-74.52609678191156",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:55.784+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:55.781+01:00",
+    "hidden":false,
+    "id":"trns.14f26780-6e1b-4a59-8679-fefb8c278cfd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SRYcRbrbeW kPKTiVce WrFml OQsb SgQhZQnV ",
+    "notes":"xGupjm MlQXfutez qNHrDCMWP kIycRRiWOY jsCxEAcgU QEpFVa OGieNa pNb vGEuCZr BKyOPBUhxi ",
+    "reference":"34020"
+  },
+  "trader":"su.26876d84-d6f8-4dc0-9893-c4d6031f532f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":473630,
+    "validationErrorCode":""
+  }
+}

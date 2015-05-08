@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"92.50048584877075",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-92.50048584877075",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:13.071+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:13.065+01:00",
+    "hidden":false,
+    "id":"trns.c67e8d5b-5133-472a-93a1-1e30284d7eeb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qTzSdQsk jZdwOQJiMtf gZwFoQ ZTfxwS Gx ",
+    "notes":"qlOOYPGAtho An ZVwqRSp lzYTMLeUPI XA LNRCM lHN Hgfdixp jWvnUmZqOS OlDvdo ",
+    "reference":"04880"
+  },
+  "trader":"su.38c165e8-c56c-4f87-92b9-07714aa104c4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":267584,
+    "validationErrorCode":""
+  }
+}

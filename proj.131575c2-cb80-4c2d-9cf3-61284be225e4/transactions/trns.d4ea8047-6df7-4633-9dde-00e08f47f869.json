@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"99.98181834592175",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:24.003+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-99.98181834592175",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:24.004+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:23.999+01:00",
+    "hidden":false,
+    "id":"trns.d4ea8047-6df7-4633-9dde-00e08f47f869",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gxNqnXyFXwk TJlIObgzSKN kKtwVZCeDFa fhWEI rFVT ",
+    "notes":"xn aPYsTm QGIFkg HEzDSOrLzf Uape oiYTjOjB KxYljqnM IfmNyzBk MnS PKI ",
+    "reference":"82505"
+  },
+  "trader":"su.fa66d706-736c-4e66-a4ed-32f035a80463",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":56030,
+    "validationErrorCode":""
+  }
+}

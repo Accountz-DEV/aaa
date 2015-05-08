@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"11.65228080524704",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:55.483+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-11.65228080524704",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:55.484+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:55.48+01:00",
+    "hidden":false,
+    "id":"trns.7ec91e67-d2db-4bf1-950b-c25b8555e8df",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JjICm QPEObvJGSv ZfT FQbb PilGHqlIpf ",
+    "notes":"nHPqZMtCx uEbgzoDQQs fFLWity WvTruKsldLC AXE Wdw fUrasyxB yCOHEqmuVH nSJTOXl KHmPN ",
+    "reference":"94333"
+  },
+  "trader":"su.61c8a057-1ee3-48ce-8459-89f9e605964b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":30200,
+    "validationErrorCode":""
+  }
+}

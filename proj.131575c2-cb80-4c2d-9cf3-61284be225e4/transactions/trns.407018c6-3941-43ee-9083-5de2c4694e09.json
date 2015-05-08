@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"18.70747190621289",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:09.758+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-18.70747190621289",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:09.759+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:09.755+01:00",
+    "hidden":false,
+    "id":"trns.407018c6-3941-43ee-9083-5de2c4694e09",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZKB MmQgcc dRnPiazaR BBuGd HFELpZeWt ",
+    "notes":"pcobHFsY Ln hTV fYEY nyWUMglLBr iVdtIVmW QQvVNTrN Xgty fzbAaaSSV FdfOn ",
+    "reference":"17231"
+  },
+  "trader":"su.213883f2-c67a-4eed-a709-c2b4f42f7813",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":487112,
+    "validationErrorCode":""
+  }
+}

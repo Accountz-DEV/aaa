@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"87.4169446509575",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.063+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-87.4169446509575",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.064+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:22.06+01:00",
+    "hidden":false,
+    "id":"trns.0d457d42-9ee6-4eeb-beed-f6777eba3f79",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wgolN VgEXfob KCdfnPYWky OHS HIqjKfStW ",
+    "notes":"GoFi ChmMFeRK pKLxQv ZBRrniJPI fbT nkWaorVo Vs liAZmoPRT tuuAvfRceD dbGUKQU ",
+    "reference":"89073"
+  },
+  "trader":"su.11930631-d393-4e3f-ba13-b4fd8a4d6155",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":54194,
+    "validationErrorCode":""
+  }
+}

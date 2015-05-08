@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"81.36432545233535",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.752+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-81.36432545233535",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.753+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:49.749+01:00",
+    "hidden":false,
+    "id":"trns.06a6ba61-4aed-4f8b-8d32-b41d3016a563",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iCLFb GLEftsgifT txPbRBHwh AxtHXnUV qTvVW ",
+    "notes":"fE OAczskBWyR dd ng rfHc Yiud JFXgc igNp WColKMt DdZ ",
+    "reference":"99126"
+  },
+  "trader":"su.db939341-8b00-4b4c-bac1-d888443f8abf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25070,
+    "validationErrorCode":""
+  }
+}

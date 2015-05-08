@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"63.25886796156218",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.3+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-63.25886796156218",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:46.296+01:00",
+    "hidden":false,
+    "id":"trns.d237862c-b4d0-4d09-b168-9322d33d15e7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZWg KsgSyEMuaj MZfmx rqAiZg iFAZtZk ",
+    "notes":"GGbfyxgfPY tanz bzcNrPB NVnKnMO UM epkTjQwzerG onMzVEqgQET bXXTvxo wip kFUvbOLr ",
+    "reference":"61827"
+  },
+  "trader":"su.4c407d9d-0afc-495f-a6ae-1930e3dea595",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":520322,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"24.0852566881792",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:39.355+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-24.0852566881792",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:39.356+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:39.351+01:00",
+    "hidden":false,
+    "id":"trns.d1c990e6-164b-464d-ad16-f3ccabe81c03",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"WuNBq qoATCxpQ iOhFr NIiY WFhRdJSxqQN ",
+    "notes":"CHh elOUXH ncSQx uSAg OfCH OhowCTm CRrEpHSsT DsoLQqik fleB gBXTH ",
+    "reference":"50393"
+  },
+  "trader":"su.4172ab72-56d7-432d-b585-eb8a938350a7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":14774,
+    "validationErrorCode":""
+  }
+}

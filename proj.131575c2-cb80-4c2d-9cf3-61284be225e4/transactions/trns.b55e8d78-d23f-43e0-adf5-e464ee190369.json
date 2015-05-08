@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"84.40690939483684",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:26.68+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-84.40690939483684",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:26.677+01:00",
+    "hidden":false,
+    "id":"trns.b55e8d78-d23f-43e0-adf5-e464ee190369",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TsY QJRaioHXwoO uXXnEpT ifIQh MzBgonOF ",
+    "notes":"eCRtmd VsnVK MSDyhh ocKBlXaTqy EbKo yhmuTrYyDU MAq ZQdEzhg GmBLzpvb SBNY ",
+    "reference":"09777"
+  },
+  "trader":"su.21dd6c84-74ee-42a7-95eb-9c63aa60f8f8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":335012,
+    "validationErrorCode":""
+  }
+}

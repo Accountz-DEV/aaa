@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"75.07909772258282",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-75.07909772258282",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:49.321+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:49.317+01:00",
+    "hidden":false,
+    "id":"trns.18aeb929-bbce-47f1-8961-6a4d1a31df6e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OG zCUSsCiA RzVcWXXAJZC mthaGIQtZnA umqxnSimmCn ",
+    "notes":"AJhwpoInJ XMn XAVvF zgbjwnx hsKmBp fQWDLNUNrbf PvNZWaPOw LvbnP rs baMi ",
+    "reference":"02215"
+  },
+  "trader":"su.9dfc9d10-35fe-4b37-988d-bf1ebe171240",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":245732,
+    "validationErrorCode":""
+  }
+}

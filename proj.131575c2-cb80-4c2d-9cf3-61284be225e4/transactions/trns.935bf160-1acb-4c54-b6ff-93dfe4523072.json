@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"49.842576290730776",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:59.472+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-49.842576290730776",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:59.467+01:00",
+    "hidden":false,
+    "id":"trns.935bf160-1acb-4c54-b6ff-93dfe4523072",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"zTyHAE KPlDELdi ZruRb TQXnC cScbDXBWHXX ",
+    "notes":"EPiCs PTuJ TeyqAy Mha lYMR bonODBToakm qOSPUtRF NRoqoqZwFhM uXpjFYW VQRaa ",
+    "reference":"05090"
+  },
+  "trader":"su.ace32bee-0888-42cd-a0e9-c70c6d385325",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":310352,
+    "validationErrorCode":""
+  }
+}

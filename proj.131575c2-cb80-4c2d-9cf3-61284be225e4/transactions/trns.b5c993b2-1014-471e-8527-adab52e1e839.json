@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"36.47264133810556",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:36.696+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-36.47264133810556",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:36.696+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:36.694+01:00",
+    "hidden":false,
+    "id":"trns.b5c993b2-1014-471e-8527-adab52e1e839",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"hma daB SLGPqvciW WvIX DkHi ",
+    "notes":"ztPeNmY xjV MDpmOAQExvV YojOOegkcF hMamu Yah lXvsx glA zcsig MzU ",
+    "reference":"74078"
+  },
+  "trader":"su.3836b9a8-9964-40a2-b404-5648adbb456b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":511412,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"12.444791154229195",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-12.444791154229195",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:26.94+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:26.935+01:00",
+    "hidden":false,
+    "id":"trns.b24d3f97-2c39-489d-a425-b0f1b965afcb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"niDvYvIO OhsPX BupeQUugY XuHr gjRONtmtDwu ",
+    "notes":"yhl NUAPBc nKWrxJO KcjLJcC Xf xZT RLBtVLMh tdcCSzMQAow IjiyFUH TaCLaAR ",
+    "reference":"90801"
+  },
+  "trader":"su.ad4c37d6-69f3-46ad-a70e-616f2fc28586",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":335534,
+    "validationErrorCode":""
+  }
+}

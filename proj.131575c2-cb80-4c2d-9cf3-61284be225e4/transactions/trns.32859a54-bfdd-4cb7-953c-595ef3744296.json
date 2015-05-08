@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"66.58965944752833",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:34.288+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-66.58965944752833",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:34.29+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:34.284+01:00",
+    "hidden":false,
+    "id":"trns.32859a54-bfdd-4cb7-953c-595ef3744296",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SaBkTJ oygGr rVRRS KYDbcKEyWbG dteb ",
+    "notes":"Lw KPvGMjUri tnVu VK NNMjOjzXlD wtDA CLUPt SRyTo gcUL UpIhTL ",
+    "reference":"16578"
+  },
+  "trader":"su.6dbd3156-d521-4f87-9807-677a6f3ebad3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":66344,
+    "validationErrorCode":""
+  }
+}

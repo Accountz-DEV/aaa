@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"98.76062776847779",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:10.064+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-98.76062776847779",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:10.061+01:00",
+    "hidden":false,
+    "id":"trns.ed0367f3-5ecf-4a94-8061-a28eec3792f0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PXgXJFCtn jULENZXCuOU NVYCkakk aUPbRyfvw Wx ",
+    "notes":"LuVw sjRwehDh wGggFeAeng Bz mhJMo Tr zrWJYCOXheN KpjKI igNTH HrMEbf ",
+    "reference":"11435"
+  },
+  "trader":"su.ef4295f2-4c08-4cd1-bfcc-8b53e2e0fb79",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":208994,
+    "validationErrorCode":""
+  }
+}

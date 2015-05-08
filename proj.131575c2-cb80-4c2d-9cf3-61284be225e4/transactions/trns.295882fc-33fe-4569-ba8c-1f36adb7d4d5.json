@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"40.2531513407647",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-40.2531513407647",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:23.618+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:23.612+01:00",
+    "hidden":false,
+    "id":"trns.295882fc-33fe-4569-ba8c-1f36adb7d4d5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"BXvZkUj TbZBn FkKXqvzzOO rWJibx LFtH ",
+    "notes":"ToACltNbl vZzmbLNRVVb UnwCJcF xcYCKeCF nsNNrqwiCiX HJo McqGjEc rocG XALYw QNTnN ",
+    "reference":"17323"
+  },
+  "trader":"su.f5854cc5-c040-4f2f-90f3-1a967f48d25a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":165848,
+    "validationErrorCode":""
+  }
+}

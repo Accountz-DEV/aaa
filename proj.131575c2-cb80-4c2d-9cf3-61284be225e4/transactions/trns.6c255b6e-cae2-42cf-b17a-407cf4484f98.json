@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"34.01589331539292",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:46.743+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-34.01589331539292",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:46.744+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:46.74+01:00",
+    "hidden":false,
+    "id":"trns.6c255b6e-cae2-42cf-b17a-407cf4484f98",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"jPGvCSK SeBFPht GEz wwyrRvVTT zyLMnAbwBA ",
+    "notes":"xBANoGjCb oGGVFTOvcD aAmzmJG kXGXKMTu orl XQ EZIHI WDxcuttbHv XyZP vI ",
+    "reference":"29898"
+  },
+  "trader":"su.32dd29d0-2c7c-448e-8a86-a2c2dc0c1bbb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":131576,
+    "validationErrorCode":""
+  }
+}

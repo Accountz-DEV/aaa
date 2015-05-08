@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"13.955553679816102",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:39.433+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-13.955553679816102",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:39.434+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:39.429+01:00",
+    "hidden":false,
+    "id":"trns.9e27fcf2-9b1d-44e1-9781-e610a178c2d0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"dWjbDz qOgchJcp LSpBNWr DU YIBIjTN ",
+    "notes":"EAJyaTxBy NnfIZMMAUNC yOSyKg sqyCOpGGe RAI CbaLzp gYveFLmmVm Hegn ormBMn hvpOMGYko ",
+    "reference":"45912"
+  },
+  "trader":"su.95c57dea-e05f-454b-b3a8-c1ed2e3abf17",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":236876,
+    "validationErrorCode":""
+  }
+}

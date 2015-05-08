@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"93.35329778731544",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:50.875+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-93.35329778731544",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:50.875+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:50.871+01:00",
+    "hidden":false,
+    "id":"trns.6d2de220-d72d-4e72-b3da-91eb3ae4461f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ppJiZTd KJvGVSkSnjc ODSZQHG dT HvdMfiF ",
+    "notes":"RY nYSXAB pLKyoPJ NvoFFS mXnpkweB lq ynw vM osr gSUiAdvv ",
+    "reference":"75815"
+  },
+  "trader":"su.d0d154c8-be11-448b-8e31-61bafe49a6da",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25268,
+    "validationErrorCode":""
+  }
+}

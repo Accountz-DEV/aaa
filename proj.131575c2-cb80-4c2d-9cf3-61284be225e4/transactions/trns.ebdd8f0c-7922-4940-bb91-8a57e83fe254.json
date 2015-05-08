@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"87.09930644627907",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:33.685+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-87.09930644627907",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:33.685+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:33.683+01:00",
+    "hidden":false,
+    "id":"trns.ebdd8f0c-7922-4940-bb91-8a57e83fe254",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"EAXMPzon eBQ HLLrSYOzvi gak Aw ",
+    "notes":"St dtGG LGcwqft YWyySeQMH fRtNcFD JdPFlOrh mciXXzQ yDybeas smzdBh foTyRBjRn ",
+    "reference":"43623"
+  },
+  "trader":"su.38b6ca7c-135a-4921-becc-0817e8458c3c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":119804,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"6.404347210386197",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.499+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-6.404347210386197",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.5+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:22.496+01:00",
+    "hidden":false,
+    "id":"trns.3ae41682-064f-4298-96c7-32dbe4027934",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ScBrPN kMw IdUpixucON SHT UHKi ",
+    "notes":"vKBzKD Bov lDM wcgvT XPSQh jGtuAAV dLEAsD VJWtp cxRATAP pxxfldJrbiL ",
+    "reference":"02489"
+  },
+  "trader":"su.4d0c2cc4-b8a7-4d13-96f5-aa6ebec78635",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":55094,
+    "validationErrorCode":""
+  }
+}

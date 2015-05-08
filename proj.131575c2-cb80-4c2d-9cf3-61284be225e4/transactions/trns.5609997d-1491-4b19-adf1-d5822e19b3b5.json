@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"34.45108347126219",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:08.099+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-34.45108347126219",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:08.099+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:08.097+01:00",
+    "hidden":false,
+    "id":"trns.5609997d-1491-4b19-adf1-d5822e19b3b5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"szFpEQyfNPZ nIWzjS jjrURXStVul fqkujty YDw ",
+    "notes":"FSptOunn PHcu xL xMlYPA OZ LsQ OO JG zyvEhgru mkYV ",
+    "reference":"19547"
+  },
+  "trader":"su.11ff7240-9afe-408b-b179-f2484f7cbb0d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":151628,
+    "validationErrorCode":""
+  }
+}

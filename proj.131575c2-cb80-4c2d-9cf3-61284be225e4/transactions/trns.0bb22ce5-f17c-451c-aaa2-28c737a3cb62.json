@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"42.55067741268971",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:44.293+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-42.55067741268971",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:44.293+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:44.29+01:00",
+    "hidden":false,
+    "id":"trns.0bb22ce5-f17c-451c-aaa2-28c737a3cb62",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-05-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"sXcx xrplazfwm ShfgKrc cbGXiKd FqzWHNqhorO ",
+    "notes":"ERFdqcatlP TrdMtm gda jr JIkupVx Oc oGmvWbP uZSS pk wrbrainyo ",
+    "reference":"89572"
+  },
+  "trader":"su.905caaa0-2009-4ac5-8bd9-a22c0d37e98a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":518432,
+    "validationErrorCode":""
+  }
+}

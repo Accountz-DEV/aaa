@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"48.095776899551225",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:17.191+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-48.095776899551225",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:17.192+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:17.187+01:00",
+    "hidden":false,
+    "id":"trns.a97ecfe5-522f-48e8-9f17-a53044cea660",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cJ XMZkWLK QJ EENnBv engadKbNi ",
+    "notes":"BDn AeQgZ AxQ dumaYiAIn jvqgJZvOeb eu tAaLEPtQr jAjSuB LSug BNxU ",
+    "reference":"30185"
+  },
+  "trader":"su.8dc320c3-698d-47c1-b474-83ca423eb206",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":437792,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"31.665486105632247",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.038+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-31.665486105632247",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.039+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:45.036+01:00",
+    "hidden":false,
+    "id":"trns.1bd3f592-7b78-44f9-9e32-e3aceabe6289",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ChvEJIQ DDGmyu gyQOwgzjc ERyZXlwza NfV ",
+    "notes":"bRCAN TwRFBmm YFWpk ANLwGLH vxKtcr dhtz Gni nChgT LX IS ",
+    "reference":"95127"
+  },
+  "trader":"su.276279b4-fe16-4274-95fd-ac6003344848",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":19832,
+    "validationErrorCode":""
+  }
+}

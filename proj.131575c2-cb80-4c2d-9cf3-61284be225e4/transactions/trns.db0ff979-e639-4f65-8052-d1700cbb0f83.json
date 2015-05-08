@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"21.780362098337804",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:21.041+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-21.780362098337804",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:21.038+01:00",
+    "hidden":false,
+    "id":"trns.db0ff979-e639-4f65-8052-d1700cbb0f83",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"zSRAlaPZx wEA iNWYSvIw BCmLByr lRoXcNzMgsV ",
+    "notes":"upwVYzKkPDG VAEJz Jy nVkvwFVwNLl kDKsgkyPtOO OHjKtnNqYe yv BssAsot LEqaLK WOdoBxS ",
+    "reference":"96921"
+  },
+  "trader":"su.ab2962c9-41bf-433f-a4e2-dec064a4dd9a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":330116,
+    "validationErrorCode":""
+  }
+}

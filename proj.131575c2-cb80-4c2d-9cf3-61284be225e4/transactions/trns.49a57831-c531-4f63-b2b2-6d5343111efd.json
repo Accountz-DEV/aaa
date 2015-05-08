@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"43.93116767202262",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.627+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-43.93116767202262",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:51.624+01:00",
+    "hidden":false,
+    "id":"trns.49a57831-c531-4f63-b2b2-6d5343111efd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Da yEivrlDXEa fjHukqAmSUO OZPcvXfC hjVqnPmGH ",
+    "notes":"QgJDkrdQrtu sIH MZCEbuJl ApcvvBZF fxmQAi grOEoJct JBY lSnHKgh gdVmFXnit tur ",
+    "reference":"89310"
+  },
+  "trader":"su.42ca113a-5a41-444a-812b-a90c2fc840f2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":26690,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"25.545715074302223",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.923+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-25.545715074302223",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.924+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:21.92+01:00",
+    "hidden":false,
+    "id":"trns.ec777690-6c97-496f-8b29-4e45a531a583",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dSDTov HDjShQvj tgIDOiyz FOAUgq UKgYrWif ",
+    "notes":"sgmsrIJ aGiyefgOTRP fGzLK WDUwS GMCH RDH AvusjnBrT REwNkPs RE kuvMcv ",
+    "reference":"62706"
+  },
+  "trader":"su.4822b9ba-b149-4cb7-b19b-515199e29a6e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":986,
+    "validationErrorCode":""
+  }
+}

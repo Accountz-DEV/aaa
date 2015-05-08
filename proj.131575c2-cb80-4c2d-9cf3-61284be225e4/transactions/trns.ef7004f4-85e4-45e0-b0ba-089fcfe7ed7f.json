@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"65.30150359753746",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:05.579+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-65.30150359753746",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:05.58+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:05.576+01:00",
+    "hidden":false,
+    "id":"trns.ef7004f4-85e4-45e0-b0ba-089fcfe7ed7f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iVjSJcSg WzkrgRRf jp XkqeWRYr By ",
+    "notes":"iixYmNrPhN GhrW ygDexctCwsN QI uQTsmcn WjZq MS ctiN du ymQfs ",
+    "reference":"06171"
+  },
+  "trader":"su.e278b876-8a09-4b24-9cf5-1409604e53fd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":482900,
+    "validationErrorCode":""
+  }
+}

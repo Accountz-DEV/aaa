@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"11.103054672824387",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-11.103054672824387",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:17.963+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:17.959+01:00",
+    "hidden":false,
+    "id":"trns.efef3cda-9238-4c2e-b1d1-2efad3a49ffd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jhxA vxbwPnxRck vwa CFnLHS EERpFnSPk ",
+    "notes":"XiZddxk WAPgkkRPa YsGucz RWpYweotSd MRTeQdOEq RrMYeDLNBO wnaNnJZw dzanltci lwj bZV ",
+    "reference":"04403"
+  },
+  "trader":"su.6d292c6e-6f72-451b-8bfa-d04395425f57",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":216500,
+    "validationErrorCode":""
+  }
+}

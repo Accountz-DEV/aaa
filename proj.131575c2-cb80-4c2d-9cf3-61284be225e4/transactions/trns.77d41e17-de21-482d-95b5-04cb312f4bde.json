@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"8.895160783222522",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.766+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-8.895160783222522",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.767+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:21.759+01:00",
+    "hidden":false,
+    "id":"trns.77d41e17-de21-482d-95b5-04cb312f4bde",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"pnmaYcL oyRpNxOfw De BPZz tGXbLeO ",
+    "notes":"QbLWRWj kuMJsz CcSwmWcfc NSYHDxKV QhKJR kV qm hzRI BKs lVb ",
+    "reference":"65110"
+  },
+  "trader":"su.9ffa8999-1c8e-479d-8c9a-24c989886cb9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":788,
+    "validationErrorCode":""
+  }
+}

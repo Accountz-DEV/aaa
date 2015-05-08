@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"64.05453622734387",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:40.492+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-64.05453622734387",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:40.488+01:00",
+    "hidden":false,
+    "id":"trns.836dfc4e-8ab6-4f97-994d-c25775125b17",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"XqgTHYDPK GPVkrRo SwzWoEYi qArKlzd KyGv ",
+    "notes":"egFkGMN pPJFcgYIaa mwgrnbuJPHN HgmhgRx PhYsQ YBEeanHCj ATpONYUQpbQ WMOkkwwnT dw iMBi ",
+    "reference":"50614"
+  },
+  "trader":"su.1f4e68e7-46bc-4dfb-8007-93f654ed5cd5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":515192,
+    "validationErrorCode":""
+  }
+}

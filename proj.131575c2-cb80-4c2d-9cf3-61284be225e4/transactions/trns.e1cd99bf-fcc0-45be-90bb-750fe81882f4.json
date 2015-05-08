@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"57.46130415307136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:36.679+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-57.46130415307136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:36.68+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:36.677+01:00",
+    "hidden":false,
+    "id":"trns.e1cd99bf-fcc0-45be-90bb-750fe81882f4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Cm WuEhKTs BCH XAjWhrUyhL fbhe ",
+    "notes":"ivWeYDFjkZo TZmOZyrQwlQ GA oXecOuMozIw Ifh aTUbGPbS Qj WrSUczxTeS MynYFi UkpcAC ",
+    "reference":"45694"
+  },
+  "trader":"su.ae2b7f5b-698f-4324-af0b-c844e0c817ec",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":511358,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"43.20646082013406",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:21.086+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-43.20646082013406",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:21.087+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:21.083+01:00",
+    "hidden":false,
+    "id":"trns.43192702-9489-4e3d-9a18-3044db43e172",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BE RoDb xQfzHALG zjuUZCFU gdzrIW ",
+    "notes":"SXQmfQ TtwCIG gMcLdvYGP bjOo UVvDZZZX XZ uHKlKHZnQs dcvcJUb yvf HajgWAII ",
+    "reference":"16698"
+  },
+  "trader":"su.9c1d8d22-e398-47b3-8a4d-73bdf7354ffd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":330206,
+    "validationErrorCode":""
+  }
+}

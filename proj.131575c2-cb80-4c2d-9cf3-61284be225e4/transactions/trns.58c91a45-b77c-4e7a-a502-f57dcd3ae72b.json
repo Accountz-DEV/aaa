@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"10.77126782998661",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:45.965+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-10.77126782998661",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:45.966+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:45.962+01:00",
+    "hidden":false,
+    "id":"trns.58c91a45-b77c-4e7a-a502-f57dcd3ae72b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"dhPaymajti WGWPbQ nG xg CqKfqhSZxM ",
+    "notes":"fptDFwAhqo LPlVxauTXxT PVSTYVoz Mn tD lyFkKAdI OQsZ rpgp bwEDPIilNd RmyMC ",
+    "reference":"08678"
+  },
+  "trader":"su.78831b40-d105-4df4-9a60-4fededbc47d4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":76928,
+    "validationErrorCode":""
+  }
+}

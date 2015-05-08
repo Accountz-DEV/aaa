@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"33.82049617983286",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:51.749+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-33.82049617983286",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:51.746+01:00",
+    "hidden":false,
+    "id":"trns.cb01c532-a9a2-4630-bf1c-b791a17e3d04",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"fx motCL mEm vjPv unMbty ",
+    "notes":"MkDCcLN CIaKaj nMQxfqXWnvT oImqcP dpvkwCuW BjIfjVsJ SWOjwZeA ZLik dQYXF VBHt ",
+    "reference":"29421"
+  },
+  "trader":"su.8d70c627-d264-4fd3-b618-20a0c46252ab",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":82004,
+    "validationErrorCode":""
+  }
+}

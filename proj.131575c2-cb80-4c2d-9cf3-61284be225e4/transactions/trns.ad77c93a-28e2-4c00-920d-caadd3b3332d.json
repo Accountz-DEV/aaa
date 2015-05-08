@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"26.306533542677556",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:14.976+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-26.306533542677556",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:14.972+01:00",
+    "hidden":false,
+    "id":"trns.ad77c93a-28e2-4c00-920d-caadd3b3332d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SsQMX RQFoyzdEKlQ wBCy KxXsfZk GJLnVn ",
+    "notes":"InyDC giqSqvf kqvIFyWto sIkli HpB GQ SJsnIrNbp zIIQFwljhx Lg kqMO ",
+    "reference":"71832"
+  },
+  "trader":"su.e2fc8ccb-3342-4bbf-a4f7-29e4c83be8d6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":48308,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"12.573791616686258",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.715+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-12.573791616686258",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.716+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:03.711+01:00",
+    "hidden":false,
+    "id":"trns.4c4dca6e-30d4-4e74-941a-14656eab7eb2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JQZeBg UAm HELxYBCMpRH JEF qUDpptTq ",
+    "notes":"tzMyGWfOUe IMBaLlk EQhfjwrS HkNxxljB OK OSVZQccJ mq Gdbyv bUjAsB cuf ",
+    "reference":"04332"
+  },
+  "trader":"su.f0fb264b-6b35-441f-a8e6-12cac7a65660",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":314654,
+    "validationErrorCode":""
+  }
+}

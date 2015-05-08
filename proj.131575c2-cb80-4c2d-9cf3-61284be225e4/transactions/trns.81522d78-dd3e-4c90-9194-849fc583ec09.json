@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"13.631796802745876",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-13.631796802745876",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:50.715+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:50.71+01:00",
+    "hidden":false,
+    "id":"trns.81522d78-dd3e-4c90-9194-849fc583ec09",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WPpXYjcdcKu HPBpXXIBS tjW vmmPFQvOJ OI ",
+    "notes":"yeqiKBOOPbL zcPqQnEgVGu XWMPNkoam BNOnHWnDSC TMpWg Tlbv HGapoyLp HAFXKpvf tsGMqD CcQPO ",
+    "reference":"88312"
+  },
+  "trader":"su.438f3f45-5b2f-4ece-b59e-40190b27401b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":525020,
+    "validationErrorCode":""
+  }
+}

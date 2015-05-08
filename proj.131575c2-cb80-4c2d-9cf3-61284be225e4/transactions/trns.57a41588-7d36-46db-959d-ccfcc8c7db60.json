@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"86.87612127537592",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-86.87612127537592",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:32.82+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:32.817+01:00",
+    "hidden":false,
+    "id":"trns.57a41588-7d36-46db-959d-ccfcc8c7db60",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"nxpMgPoN SUZKxXiQ DiLrmFk gmesqVb RJ ",
+    "notes":"fjhgqwDL sgXnjWDnFs LdDANvjmLHR WBVFmEBNvUB KBdQkxgz mQNIlQ WosT KM jebjNGeh eTv ",
+    "reference":"54446"
+  },
+  "trader":"su.96cac7cd-7311-424f-b192-04775d198672",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":452336,
+    "validationErrorCode":""
+  }
+}

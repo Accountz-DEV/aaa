@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"80.34339204956042",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:04.261+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-80.34339204956042",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:04.262+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:04.259+01:00",
+    "hidden":false,
+    "id":"trns.01244ac9-a106-4bb5-9bb2-61f268b65686",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-09-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CWdT czwVFeFty ZFGsVl HGl EwDO ",
+    "notes":"UqAP klI FGN mHm CUDfsxAGw CClYdqNgT MkesU HupcOVoBO THOCxb cHMitO ",
+    "reference":"32357"
+  },
+  "trader":"su.635988fd-fd03-43df-a0a2-edbd6b5499bd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":203450,
+    "validationErrorCode":""
+  }
+}

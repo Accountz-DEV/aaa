@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"34.2518956961153",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-34.2518956961153",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:52.271+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:52.267+01:00",
+    "hidden":false,
+    "id":"trns.c71865c8-fddb-4cf3-acb2-346c8dfe66f8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"bEmw ODtmZmylp vri OgynplOugze QGFL ",
+    "notes":"YEnPudkwjNl wBhnXmkntq YNhSaSwkuO BXoks JqHJfHhHad yKOLlDfSJ fDAtHZJKgAE knvu YpbgT Pcaz ",
+    "reference":"44409"
+  },
+  "trader":"su.f56c31e0-08a4-4a0d-b7a3-86d46406b949",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":526100,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"64.87540000167407",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.108+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-64.87540000167407",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.108+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:45.105+01:00",
+    "hidden":false,
+    "id":"trns.998c4fcc-73f0-4959-874e-626f7bc34bce",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SYllzj jWBGq KHjXgc wiWNZBqv rhrs ",
+    "notes":"hTzelXAE RoNrAghZw aZJOCD MKzPtwthN HMFEhF SatcwSr Mus GFPAlL zzCommWNmSm oYLL ",
+    "reference":"34689"
+  },
+  "trader":"su.7aee7738-0ebe-44d3-a467-ce587817cdbc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":20012,
+    "validationErrorCode":""
+  }
+}

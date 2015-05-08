@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"99.1310267056952",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:59.342+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-99.1310267056952",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:59.344+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:59.338+01:00",
+    "hidden":false,
+    "id":"trns.23fad246-4e8b-4e8f-a6e8-1f739bd46ef5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QL DBrhYKtA ruARNeCDpI SRS qIReMISQk ",
+    "notes":"URgx Jx SV wK VwXYYNK mCRwK FWBnaNqd CLnQNvj FgHctcuaIMU IeU ",
+    "reference":"22618"
+  },
+  "trader":"su.8ca28004-24d1-46df-aa3b-64fcd9fdc2bf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":255344,
+    "validationErrorCode":""
+  }
+}

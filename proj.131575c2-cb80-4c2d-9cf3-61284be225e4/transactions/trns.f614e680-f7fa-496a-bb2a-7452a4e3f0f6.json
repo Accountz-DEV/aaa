@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"53.45838552206399",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:36.672+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-53.45838552206399",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:36.674+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:36.668+01:00",
+    "hidden":false,
+    "id":"trns.f614e680-f7fa-496a-bb2a-7452a4e3f0f6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"eZRyfTM EMkHcsA TerKj RRr ZP ",
+    "notes":"nr IOp cANmQU nfXHpl AyGpMM Xdv ZwD NtdR Fd VVOWH ",
+    "reference":"60997"
+  },
+  "trader":"su.e207f2ac-4428-4e96-977d-92ab434c0cfe",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":344678,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"38.272642932895984",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:23.117+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-38.272642932895984",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:23.118+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:23.113+01:00",
+    "hidden":false,
+    "id":"trns.65d011b1-5930-4874-856b-35ba52d38494",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aDiUB VKvULvQlq JOrVcs PDDNj mymBuEsST ",
+    "notes":"kuOfe vslTAcvpJJ pQ xVz fnDwbG SOECNbBeU ZNEjBnrR ueurK tdU DeX ",
+    "reference":"39787"
+  },
+  "trader":"su.4604c768-cda6-4b8b-a095-659d45c60936",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":499280,
+    "validationErrorCode":""
+  }
+}

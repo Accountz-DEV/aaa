@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"75.713207932124",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:37.447+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-75.713207932124",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:37.448+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:37.444+01:00",
+    "hidden":false,
+    "id":"trns.bba5067a-2b20-4a61-a6b0-e001321cb850",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pzzqGpVMjJV ry wreVRHbzl MAk Kn ",
+    "notes":"ABsYN TLksQcR uRaw XdMycJaRY NdJUYpvRNL DimH qw bWUSt CMiXqPwh NRemQWF ",
+    "reference":"55777"
+  },
+  "trader":"su.7ce95388-0626-4f05-a3dd-581362aabda3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":13280,
+    "validationErrorCode":""
+  }
+}

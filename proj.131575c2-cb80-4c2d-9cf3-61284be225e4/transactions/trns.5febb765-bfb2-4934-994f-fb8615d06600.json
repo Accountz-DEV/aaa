@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"75.81327053052277",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-75.81327053052277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:05.995+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:05.991+01:00",
+    "hidden":false,
+    "id":"trns.5febb765-bfb2-4934-994f-fb8615d06600",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lEDFAl NJN oDQGAKkjgaI tuWxpDY aFCUeQtJmuZ ",
+    "notes":"gNzQOf hKWCUz mMeR wxYPIVgG FgDfAB QZkxZBF VxLVbICCva iASYIqxm hbxbgo iejmoo ",
+    "reference":"59619"
+  },
+  "trader":"su.2d4fbb18-dcba-404a-8968-e1e73638aa73",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":427496,
+    "validationErrorCode":""
+  }
+}

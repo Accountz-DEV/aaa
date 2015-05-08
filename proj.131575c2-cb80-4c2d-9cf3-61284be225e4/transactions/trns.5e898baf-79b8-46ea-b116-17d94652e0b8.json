@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"90.22989126908415",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:28.12+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"-90.22989126908415",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:28.121+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:28.118+01:00",
+    "hidden":false,
+    "id":"trns.5e898baf-79b8-46ea-b116-17d94652e0b8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"HSzKsk BRMzABHz qlhAM InTXCG UXahkSA ",
+    "notes":"UMyAoYYChfh bpGb CdrjEuxg pw xKcPkaHVFu hwuAabb xibbGPBpX hF EoLDQl zT ",
+    "reference":"32322"
+  },
+  "trader":"su.870774bf-b5e5-4c9d-9144-e61ee4e131e2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":114908,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"15.530415816308219",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:18.675+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-15.530415816308219",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:18.676+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:18.671+01:00",
+    "hidden":false,
+    "id":"trns.6fa166b6-ef99-4ede-81a9-f97ea57755e7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZZbpsDGsz tCjtr yhRCPgd bFpo UNDIVA ",
+    "notes":"noTGkuehHH LWyaVWzt lCOxwB IX NBxqhTl OgEM UST nTezfPb XsfeOaHeno ZrWeHosZMl ",
+    "reference":"86716"
+  },
+  "trader":"su.286922f6-b177-4fc4-8f19-6cab377bf52e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":272696,
+    "validationErrorCode":""
+  }
+}

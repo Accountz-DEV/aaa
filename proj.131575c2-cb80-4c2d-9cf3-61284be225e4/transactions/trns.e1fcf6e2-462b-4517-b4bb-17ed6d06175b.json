@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"91.40850271108384",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-91.40850271108384",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:19.894+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:19.886+01:00",
+    "hidden":false,
+    "id":"trns.e1fcf6e2-462b-4517-b4bb-17ed6d06175b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"AYej wmarCty UCXxcaBBvXm vDeALBdtv Fqru ",
+    "notes":"GqU FsUxk goW tqjjFj EPAq vJwDUoI hhLfOFBItM JZXoOpIjt DY zTyL ",
+    "reference":"65039"
+  },
+  "trader":"su.aa121a48-d757-4af1-8669-f2074ad1faf7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":162410,
+    "validationErrorCode":""
+  }
+}

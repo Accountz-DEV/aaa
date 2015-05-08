@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"36.13622487350578",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:08.831+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-36.13622487350578",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:08.832+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:08.827+01:00",
+    "hidden":false,
+    "id":"trns.081713c6-ba04-42fe-9db1-140660e48176",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NqAY xfIoMU rBLWdUlXdRK wEECCVua vFnJyonVYG ",
+    "notes":"RZfwDVG CvHPXEE qdEmcQ NoQPEBkNCoJ yLHPdHUkK mP rpUJYWl IcBEYm GAPDFal sJ ",
+    "reference":"76001"
+  },
+  "trader":"su.b4598505-84a1-4e54-97c5-2e058fdf950a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":42332,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"23.112203951927402",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-23.112203951927402",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:28.267+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:28.264+01:00",
+    "hidden":false,
+    "id":"trns.b5394e4e-752d-4b06-89f9-2e2c231554e6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-09-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BhDtDuKKW zzSwxLAwqVD FgxajYTrw FcbMY JqChTOP ",
+    "notes":"ACGiXf GdZ XooBLNVV Xrojxe KCUYPFUrIh ho DKFxjsUUF rYSS ddgNWPP GrMiqcuyh ",
+    "reference":"84805"
+  },
+  "trader":"su.d8eadfa4-414b-4031-bda4-30cfdf6cb949",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":226616,
+    "validationErrorCode":""
+  }
+}

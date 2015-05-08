@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"1.9189643479852414",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-1.9189643479852414",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:47.094+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:47.09+01:00",
+    "hidden":false,
+    "id":"trns.526b5661-d3d1-450f-ad88-031a4ef325bf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TCFXtUjJLU DsaCCG oEqyBaTPijo tswVXaN BVxo ",
+    "notes":"DqkLRuzW pNZvgdLkxm aIxAYzYGsTt aNWaU SUmKvc XPFNE lRBOjXycu BeZibAc suqaCTvX xTNW ",
+    "reference":"03839"
+  },
+  "trader":"su.b00bb0e1-a7f8-4ae7-8e02-0af12d505a54",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":187826,
+    "validationErrorCode":""
+  }
+}

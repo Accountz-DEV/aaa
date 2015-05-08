@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"9.884946126080552",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-9.884946126080552",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:11.862+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:11.859+01:00",
+    "hidden":false,
+    "id":"trns.23087f4b-5441-4d66-a6be-3687ee9f9578",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-29T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"AhAD KevIwITEi SjCasqrRQ aHkP kyTHWuox ",
+    "notes":"TbDszGXohc XRGw EZbex CMPhWYgJCXd ifjSIngxQ rxNCahYggTv RTzjzjOZ MZCh OSgeryWvq LeeoG ",
+    "reference":"92924"
+  },
+  "trader":"su.9af411fb-7614-41b7-971f-10fc1ccdcae2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":99176,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"18.912868168266073",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:40.564+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-18.912868168266073",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:40.565+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:40.561+01:00",
+    "hidden":false,
+    "id":"trns.eedbe92c-886e-4ced-857d-05c6bfb370cf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"yRxiC dazs HZEPvb QmEzIoGTXe vLvAcPvlyj ",
+    "notes":"wjGcIuflZU EeN XlCUj mcUW Aa PSJZRbziE zLk qSgOf fuGl EuCtv ",
+    "reference":"87802"
+  },
+  "trader":"su.4ecbf12b-8971-4926-b32f-9ace243a8ec2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":403322,
+    "validationErrorCode":""
+  }
+}

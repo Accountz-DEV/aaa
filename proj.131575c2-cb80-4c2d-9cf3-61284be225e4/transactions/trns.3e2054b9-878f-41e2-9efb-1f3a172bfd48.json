@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"38.08476051593557",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-38.08476051593557",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:27.084+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:27.08+01:00",
+    "hidden":false,
+    "id":"trns.3e2054b9-878f-41e2-9efb-1f3a172bfd48",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PQnil aCdTWRqgjVP JftzlabYh zKlgwvyL kAPXHSqftbG ",
+    "notes":"bXsVJ UYgqa bsxEeauIo VwO NVErRqRQe wh BMQ VJ qrfzUvhe giNeOR ",
+    "reference":"11894"
+  },
+  "trader":"su.89540a49-a893-485d-9b6a-dad161434e53",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":335786,
+    "validationErrorCode":""
+  }
+}

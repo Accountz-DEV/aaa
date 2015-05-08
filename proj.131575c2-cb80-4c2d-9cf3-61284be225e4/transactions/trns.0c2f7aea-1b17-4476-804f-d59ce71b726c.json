@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"85.68562858527086",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:31.958+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-85.68562858527086",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:31.954+01:00",
+    "hidden":false,
+    "id":"trns.0c2f7aea-1b17-4476-804f-d59ce71b726c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Nskl ZPCCVQUQG kWefYOu RCfaVmSFWG byuiSuyM ",
+    "notes":"cRNwg twKGGdufOCg FwByuHurnBl QGsvIbtSIeW JgRgB SgbJKPe VnBpzubTpCU IdoJSPS pteeQ pK ",
+    "reference":"01288"
+  },
+  "trader":"su.bad98dfa-31b4-4b8b-ac71-887c7c719871",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":63842,
+    "validationErrorCode":""
+  }
+}

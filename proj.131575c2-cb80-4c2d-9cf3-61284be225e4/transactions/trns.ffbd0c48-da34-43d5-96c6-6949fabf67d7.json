@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"6.15275270603478",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:02.019+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-6.15275270603478",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:02.014+01:00",
+    "hidden":false,
+    "id":"trns.ffbd0c48-da34-43d5-96c6-6949fabf67d7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lWZVWHaH bH MiIds yqkzHxK cxRTYQdkbwG ",
+    "notes":"sTQQPI vXWHs OxPTMDvASO HptwrtFZkjP jjNLGbB rBhAewqrxq fBugxFBEJx Al yipBuf sIlE ",
+    "reference":"54984"
+  },
+  "trader":"su.ebdb39ad-0bb8-43dd-ab0e-127e2bbdddec",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":423680,
+    "validationErrorCode":""
+  }
+}

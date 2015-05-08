@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"6.757523695713285",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:27.481+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-6.757523695713285",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:27.482+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:27.478+01:00",
+    "hidden":false,
+    "id":"trns.8586ac37-1274-4724-9a7e-8c507f4fd446",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UBG HlaDpZw ncs Wm HLnpqSjgaoo ",
+    "notes":"qnuIRaPnoE BbqHObr bhalFpE LBhDQSSv mIeid TBnrhsPG dC LXqnuXpUC ejL GeALlc ",
+    "reference":"36154"
+  },
+  "trader":"su.b964d74f-ad7e-41a8-ba5c-42d3c016e15e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":503456,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"15.60716253333796",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:21.905+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-15.60716253333796",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:21.906+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:21.901+01:00",
+    "hidden":false,
+    "id":"trns.cb53422d-4850-43fa-9b72-5fbd8152db5c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"vpIr NKM wtngD cmL KWpYSsVxalY ",
+    "notes":"BEhIU msN CSnQbe uA SZAOibiUh GdI vZTDVKlfjyG XJOHZOU pyCRd bANioIP ",
+    "reference":"05924"
+  },
+  "trader":"su.b41b64ad-bead-4f5e-816c-5d301e52e00b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":164480,
+    "validationErrorCode":""
+  }
+}

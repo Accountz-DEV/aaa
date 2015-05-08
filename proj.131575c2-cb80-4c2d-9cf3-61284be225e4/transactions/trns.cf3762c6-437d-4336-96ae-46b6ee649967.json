@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"36.99338877868256",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:52.91+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-36.99338877868256",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:52.911+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:52.906+01:00",
+    "hidden":false,
+    "id":"trns.cf3762c6-437d-4336-96ae-46b6ee649967",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"meo nULcQEjwaRC OuWr nHNSGxVoe DdMpHP ",
+    "notes":"qgJr Pmk MfhBtChvx bqcoFkmE EetMbG GUMHN LZh zIYvAx QD BoOS ",
+    "reference":"83100"
+  },
+  "trader":"su.729fceb3-9035-49db-b45d-54661db426fb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":415652,
+    "validationErrorCode":""
+  }
+}

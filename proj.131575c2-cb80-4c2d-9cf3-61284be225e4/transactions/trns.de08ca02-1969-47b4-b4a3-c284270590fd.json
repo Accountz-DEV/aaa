@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"2.3779287046634567",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:36.991+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-2.3779287046634567",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:36.992+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:36.99+01:00",
+    "hidden":false,
+    "id":"trns.de08ca02-1969-47b4-b4a3-c284270590fd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"LQFLXVFM JvSAqXZ MuQaQGTiGB MDLc qbKDCho ",
+    "notes":"vwIMBEPpNO zdHtFD ZVHk lyvcx Yz rbDRZfyBIfV NSOYoe ECfnvbuXC Ip bCOK ",
+    "reference":"88698"
+  },
+  "trader":"su.a495db5f-f899-4856-b2e4-931cc5829e25",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":400046,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"30.277723160710522",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:19.892+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-30.277723160710522",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:19.893+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:19.89+01:00",
+    "hidden":false,
+    "id":"trns.7cf91c91-5c9f-4038-98fd-21ebfe9614c9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"fxWU jtuWuAaS uqYM ppE EOP ",
+    "notes":"gIsvFrjt bWnVTVuFB bfH iQICy DwijYAKzzK dyN sbhOOACggzB Mqwtlz YARMyfi uq ",
+    "reference":"59073"
+  },
+  "trader":"su.e29f58ef-aba8-45b1-bea2-2d4514dd89d3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":384836,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"71.89022660964832",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.085+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-71.89022660964832",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.086+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:51.083+01:00",
+    "hidden":false,
+    "id":"trns.4652150e-fe53-454e-b346-154fd88f11e5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"xh tafhoNjV EaCNfwPm nYDlVMKVrP aEZobw ",
+    "notes":"RQkxJXF cVhIuzj NfrufZ Tucl CNn fzdvQEvxpM kwysvRtnLMM DRBvxc eiQ SdWo ",
+    "reference":"94651"
+  },
+  "trader":"su.acd96bc0-59e7-43bc-b5ed-90934bc0435d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25700,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"25.16993575539913",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:33.372+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-25.16993575539913",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:33.374+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:33.368+01:00",
+    "hidden":false,
+    "id":"trns.137dec4c-8990-4621-8adb-fd60e28db67d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TwVa TbHX KHStElQv pqrIhnQwB SeFVV ",
+    "notes":"NZjBFzsrf nsvL TUAUQWVhE RlOjgRkGhz Dtbv jHKHN gGoWxxLdCr NukuOA BOBSaczDWf kN ",
+    "reference":"96604"
+  },
+  "trader":"su.f273fd51-8ee4-4fd6-8f17-7cc267f8597a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":509090,
+    "validationErrorCode":""
+  }
+}

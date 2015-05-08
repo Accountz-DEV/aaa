@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"73.1590815283417",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-73.1590815283417",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:29.695+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:29.69+01:00",
+    "hidden":false,
+    "id":"trns.edf176e2-84a6-49ce-8e4d-a72aa3e0e648",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"kFARxot ySBaJOKfvoM JmPXyPhl UmGfVhzWrB OMJDNzaNjOk ",
+    "notes":"rjY YIucDmBhi Zu CpVY nZdytkT ZXeszUvgUm MRNZpp MEIR YaOdrNEEXVp SCKQFa ",
+    "reference":"99028"
+  },
+  "trader":"su.6057efcb-32fd-4cf7-9989-c3f52ea7adf3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":171608,
+    "validationErrorCode":""
+  }
+}

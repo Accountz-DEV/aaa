@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"39.83547021897708",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:48.046+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-39.83547021897708",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:48.042+01:00",
+    "hidden":false,
+    "id":"trns.853920df-b998-4c72-9b17-4431b5b8da43",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-23T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"jXQRnKVvgZS WGkVr Wc NsQJBZfbVit ITEvinmbjdi ",
+    "notes":"ip wZuRIlrf CIwcbVuuk uBQy FFxzRWUNM ugnFYuO kRPnMlUNPr nSpE pxoI fHeDuiejDGL ",
+    "reference":"09061"
+  },
+  "trader":"su.00d4eb94-c742-44d9-8d80-e5fd237dcded",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":78674,
+    "validationErrorCode":""
+  }
+}

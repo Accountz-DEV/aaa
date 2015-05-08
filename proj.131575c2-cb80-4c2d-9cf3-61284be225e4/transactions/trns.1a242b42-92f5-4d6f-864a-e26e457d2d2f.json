@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"24.165181522750935",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:22.065+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-24.165181522750935",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:22.066+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:22.061+01:00",
+    "hidden":false,
+    "id":"trns.1a242b42-92f5-4d6f-864a-e26e457d2d2f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iNAzvgQDZ DWnIQEUzV LXsdEfU duutEB byv ",
+    "notes":"ntAtrvfsur yVzsPaJv txFZiwn KRahov tNohMarha fN Emsi sfbp HNuGSICUBDb PCSV ",
+    "reference":"66363"
+  },
+  "trader":"su.c201b190-2e8d-4d18-99d7-31b7885e8ade",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":1220,
+    "validationErrorCode":""
+  }
+}

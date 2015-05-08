@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"16.102302839165283",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.08+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-16.102302839165283",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:49.077+01:00",
+    "hidden":false,
+    "id":"trns.e324c17a-86ed-497e-ab8d-ca936ad0a1a7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wvANcugDK ToQFDib nER NDLJI htlYgBLFk ",
+    "notes":"JLpJGT SqUMrXe VNvGN VPaDaoeE wvhpDsqaO LMto QUhvvDdNkRY NmPTPm vqfnq YOnX ",
+    "reference":"06753"
+  },
+  "trader":"su.62daa377-30ca-4add-b45e-aed16c26769d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":23900,
+    "validationErrorCode":""
+  }
+}

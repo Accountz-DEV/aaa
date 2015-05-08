@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"90.73196740195858",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:54.664+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-90.73196740195858",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:54.665+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:54.659+01:00",
+    "hidden":false,
+    "id":"trns.7643e1b2-4959-4fec-94f1-a8ca06c7e467",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"gP uCM AieBUXDckv YhQHCqseF iOyoggnmM ",
+    "notes":"yMWa XlmFDuiEer nrONoDaTwm TJLTAvhntSQ dPZ UKsQjEkN VedkL FCilLK bq dpznW ",
+    "reference":"80422"
+  },
+  "trader":"su.34ee116d-eb3e-4aeb-b96a-91f7fa67791b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":417200,
+    "validationErrorCode":""
+  }
+}

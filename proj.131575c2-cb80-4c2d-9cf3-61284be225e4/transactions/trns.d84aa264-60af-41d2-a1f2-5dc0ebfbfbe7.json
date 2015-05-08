@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"88.53649167784323",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:28.832+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-88.53649167784323",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:28.833+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:28.829+01:00",
+    "hidden":false,
+    "id":"trns.d84aa264-60af-41d2-a1f2-5dc0ebfbfbe7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"RSED wPjnorhAyWR LtPnkdKU FSOSfzMu dbRfvx ",
+    "notes":"xmbYHtTxsxr GQWTRh ssJlsetjIf WAIIo GTZRnrj FVl rQInmQdt sWIm BMF jtidWEFpjE ",
+    "reference":"57078"
+  },
+  "trader":"su.922dc681-3c80-4cfb-ab4b-c119c00ed820",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":337244,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"93.14956126193827",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:01.894+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-93.14956126193827",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:01.895+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:01.891+01:00",
+    "hidden":false,
+    "id":"trns.5324caa3-3870-4ffe-a0c1-e018dff6aa92",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"dGy dcOnnwF igBXCki PQMBHG JpBCdeAiC ",
+    "notes":"KdTJMQMSft SzUOfW AixX CrKcLx Nc hEdDVsfi ubnbPLt ieSnbesC XKkWeTYU nWlZDw ",
+    "reference":"19426"
+  },
+  "trader":"su.08fa586a-d0b7-4b0f-92b5-4c6a31aca603",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":312980,
+    "validationErrorCode":""
+  }
+}

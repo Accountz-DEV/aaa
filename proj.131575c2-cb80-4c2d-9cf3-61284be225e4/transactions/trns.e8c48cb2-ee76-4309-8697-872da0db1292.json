@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"56.73396035935657",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:58.765+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-56.73396035935657",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:58.766+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:58.762+01:00",
+    "hidden":false,
+    "id":"trns.e8c48cb2-ee76-4309-8697-872da0db1292",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"td pIuNwQ SbAveniY xYBUj xmk ",
+    "notes":"DoCKDbAaI KmfGGgJnq PFHwKvNUowq FSUNfDBOX JRdhXzgjgua tiGt NSNmiaYt Jmd dcWdPtDwcP xPR ",
+    "reference":"83557"
+  },
+  "trader":"su.fac8c496-9cb9-42d1-a01e-1fee180ed45d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":143366,
+    "validationErrorCode":""
+  }
+}

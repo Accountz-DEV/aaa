@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"66.1470652312357",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:56.787+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-66.1470652312357",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:56.785+01:00",
+    "hidden":false,
+    "id":"trns.f2926045-ade9-4738-8227-759eb95616a3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QyxQRolCyW lBopHMYL wAAnIEWih PAUiIrMpN BMcbnMrKsq ",
+    "notes":"UnBGfq JEZByTHVwtG JRoSFvC UCfToc gku GANOLSdgUwu mcDLp jkGpSW SIQX iMsE ",
+    "reference":"29455"
+  },
+  "trader":"su.17516a94-c6f9-442a-8f6d-220a33f2dca5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":30668,
+    "validationErrorCode":""
+  }
+}

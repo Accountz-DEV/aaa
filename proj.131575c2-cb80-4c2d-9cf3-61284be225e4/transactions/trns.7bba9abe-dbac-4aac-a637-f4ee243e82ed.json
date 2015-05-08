@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"57.04460715470654",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:23.413+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-57.04460715470654",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:23.41+01:00",
+    "hidden":false,
+    "id":"trns.7bba9abe-dbac-4aac-a637-f4ee243e82ed",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"rIiOCDc ZFIGdPqXs DYcBLujIu yqzNC SICmUkXIFd ",
+    "notes":"piZkgGA sjqPTnaSWO kqUiopnY ACpMNvmIo HEebaO lnFZcm eyzHjYJY yNrBnPfZ ot fpvpXuut ",
+    "reference":"80471"
+  },
+  "trader":"su.ea59e75b-b64b-4ae9-91f5-f4078b7a422c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":387680,
+    "validationErrorCode":""
+  }
+}

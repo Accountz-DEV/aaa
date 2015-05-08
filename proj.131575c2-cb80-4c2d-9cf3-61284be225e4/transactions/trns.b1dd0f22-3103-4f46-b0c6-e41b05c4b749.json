@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"4.652255384523873",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-4.652255384523873",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:01.518+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:01.512+01:00",
+    "hidden":false,
+    "id":"trns.b1dd0f22-3103-4f46-b0c6-e41b05c4b749",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-05-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FzicA RnBTbHRVLxY CzlL lNv oC ",
+    "notes":"XnAQalkvrjN bJWqssV FUOpnqUsrO IOaWWJtFzuT cnBOouyCvXA ZT utGkLN mmnjf dy KH ",
+    "reference":"37325"
+  },
+  "trader":"su.d13ff32a-4334-4d98-a919-9f88bafab204",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":35906,
+    "validationErrorCode":""
+  }
+}

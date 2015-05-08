@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"56.535129293926666",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:15.936+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-56.535129293926666",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:15.937+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:15.932+01:00",
+    "hidden":false,
+    "id":"trns.e758b5b3-af93-4322-857b-a7d4d5d1c89a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"acLvFOW IKY IMrfayqEd MTTuSiHSKm YItiu ",
+    "notes":"qDyljXM XBSNAvocs BnpWSPROKt TWnI RvfG UFSaK piFsofeSB cNevAT aBRUUWnTs ozqogn ",
+    "reference":"59190"
+  },
+  "trader":"su.eead13fe-d00b-4ffe-869f-054dee20b6a5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":103064,
+    "validationErrorCode":""
+  }
+}

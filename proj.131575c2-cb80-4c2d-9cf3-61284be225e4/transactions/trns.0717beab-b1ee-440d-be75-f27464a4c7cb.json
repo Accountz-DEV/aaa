@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"34.689858900666934",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:02.472+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-34.689858900666934",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:02.474+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:02.468+01:00",
+    "hidden":false,
+    "id":"trns.0717beab-b1ee-440d-be75-f27464a4c7cb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"pbJQg VnFGzbGt xuVNlBtdFTl DI bK ",
+    "notes":"WiUlhRny ZSPRxqd WXLsQMqsNU gI Sz BEBOX iEDmlGJQF XkmQaFePa NJHwsF hwNHiE ",
+    "reference":"36060"
+  },
+  "trader":"su.5e9c4a34-4769-4679-86c3-7ce1cc31db46",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":146624,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"47.43855458154223",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-47.43855458154223",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:46.187+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:46.184+01:00",
+    "hidden":false,
+    "id":"trns.4faed9dc-f9ea-4bee-b78b-b1cbc5daff58",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tkZMoZHmEeu UQgwVLn qmtOhEFW eWEtN dAAuLEs ",
+    "notes":"wbKpHbxE CjkQ jP boTJpWt PRojQ SAWclq xPlkbMMy WMwfOlb CEcmspiGGY PHmkOEF ",
+    "reference":"71508"
+  },
+  "trader":"su.9c9e83e7-5981-4954-a7f8-49bcab95dc10",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":353246,
+    "validationErrorCode":""
+  }
+}

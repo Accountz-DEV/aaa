@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"30.88468518834684",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:41.328+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-30.88468518834684",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:41.329+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:41.326+01:00",
+    "hidden":false,
+    "id":"trns.7bb15f28-6bf0-4596-af6d-ce9b7a4b64a8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PB gp awYBv lslMVPMn fqlH ",
+    "notes":"ogbCqZ bCB GjkEAt RsqzoW XasuLU LIgEVnPkdOn JpU AGpOAUeacv UNij GNbcoCrNE ",
+    "reference":"98484"
+  },
+  "trader":"su.74cfa2d7-2819-4542-8e3a-5b9305c77903",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":72050,
+    "validationErrorCode":""
+  }
+}

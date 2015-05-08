@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"30.054210693179073",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:52.576+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-30.054210693179073",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:52.577+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:52.573+01:00",
+    "hidden":false,
+    "id":"trns.f2bb872c-4f15-4a5a-968c-d521161c8cf4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"rTtVTQUC Jv PAChhY MWSuKjifQAl eSFoPEh ",
+    "notes":"ATrLPBsRS EZYJidx dM fN Ehx fBpDufyI WMI zm BTFnBcxCBDY ZqEd ",
+    "reference":"12497"
+  },
+  "trader":"su.f5b07764-04d8-4382-ba63-c70db9768cf9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":526766,
+    "validationErrorCode":""
+  }
+}

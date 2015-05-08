@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"27.75245071385043",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:57.121+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-27.75245071385043",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:57.123+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:57.118+01:00",
+    "hidden":false,
+    "id":"trns.0951ecb9-056b-4914-b3ce-45782822606f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kxcbnIdvohj eG RBxRKvVf LiUWRq SPcVw ",
+    "notes":"tQhdJL wLUfkwJj nJPQ rUcI XIFBuMi Jd sHx nixx HdMszy QSAWwO ",
+    "reference":"42775"
+  },
+  "trader":"su.1337fc06-a802-46df-839f-7b5f09df43ab",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":141998,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"67.1936776322185",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:24.399+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-67.1936776322185",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:24.396+01:00",
+    "hidden":false,
+    "id":"trns.c07be9d2-dec8-4e55-876f-19324e5cf83b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"cjreq VQ EzjjvFOuwr poVzBimtrss jB ",
+    "notes":"fvJkyARf fLpEniCzu TagYIELq RGGjTfb bIueyw sGWYG Xbldiwzo BndVbDq uifDOB MZF ",
+    "reference":"96569"
+  },
+  "trader":"su.bfbe403a-7204-41db-9e8e-cebc94f26fce",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":277880,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"34.153197845121895",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:57.022+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-34.153197845121895",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:57.023+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:57.019+01:00",
+    "hidden":false,
+    "id":"trns.6e5ba071-8603-4c10-826b-997f085fa261",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"qURduDGJIWU uxSmCP rmhLkfmqx VF mJmlwaJwVcv ",
+    "notes":"BUeux KjhkFy KRHsuB iyzvkVi Vn JIWQ oX EYcWXjs obAZvq cuBel ",
+    "reference":"44120"
+  },
+  "trader":"su.9b1c15d8-d2ae-4003-90cd-91a3d6a990bc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":197402,
+    "validationErrorCode":""
+  }
+}

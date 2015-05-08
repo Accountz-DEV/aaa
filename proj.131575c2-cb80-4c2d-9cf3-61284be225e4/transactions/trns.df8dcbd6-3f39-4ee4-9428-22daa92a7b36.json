@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"50.76459177928025",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.257+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-50.76459177928025",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.258+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:30.254+01:00",
+    "hidden":false,
+    "id":"trns.df8dcbd6-3f39-4ee4-9428-22daa92a7b36",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"YWBjfbNkh SG FOXwVsVZE YuYtdCksjDM kMyHoGKg ",
+    "notes":"Ha eZZdK mLGFlVq mnEbzcVH azfawQ gb ESo zRkYcOrurjB AOc thd ",
+    "reference":"45431"
+  },
+  "trader":"su.4d2cefec-93dd-4738-a2be-70c60d7fb0cf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":283298,
+    "validationErrorCode":""
+  }
+}

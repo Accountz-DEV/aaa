@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"85.12859310671863",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:39.172+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-85.12859310671863",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:39.172+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:39.17+01:00",
+    "hidden":false,
+    "id":"trns.f4e68503-e112-44ea-85cf-f7e3e101aabd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nI WlUqHM iTqatQwgyz ezITlJZf yzdgsJRjxNS ",
+    "notes":"bXD TnLAVsS cRVtjkh lWgXMtVUWmx QnFvkjviaQ JJkI DarmUx mAL UlkNVyO tzw ",
+    "reference":"49207"
+  },
+  "trader":"su.8f1069eb-c8e3-4e4c-adb3-8915e950ba00",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":402476,
+    "validationErrorCode":""
+  }
+}

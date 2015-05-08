@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"36.25258607990411",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-36.25258607990411",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:43.595+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:43.592+01:00",
+    "hidden":false,
+    "id":"trns.34b5dc03-c8ac-4f17-9047-dffcd81056ca",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lOwpxxbuwPv UC zptZxCtqk KVSCALkJA JGOJPPHW ",
+    "notes":"IF pJBwUgnDeiP VIhdOrVcqE gzxnauMColP XjtJigGVPU LaAd NiZxYRUG eTYMBDa lsZPjcq frefKOB ",
+    "reference":"46519"
+  },
+  "trader":"su.2972d4c9-e25c-4192-8069-bc2cff44213b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":295664,
+    "validationErrorCode":""
+  }
+}

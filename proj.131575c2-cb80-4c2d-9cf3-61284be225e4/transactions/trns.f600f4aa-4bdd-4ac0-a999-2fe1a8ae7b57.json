@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"88.1297835288258",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:18.667+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-88.1297835288258",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:18.668+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:18.665+01:00",
+    "hidden":false,
+    "id":"trns.f600f4aa-4bdd-4ac0-a999-2fe1a8ae7b57",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"VxSCk owM OR BhF KVWHnFG ",
+    "notes":"nNJZEsvfo wElWw URnKlMy CgqxhJXjPlq hMNHAyI nHqSRP nP Fv ea nmmS ",
+    "reference":"70305"
+  },
+  "trader":"su.e92eea08-55c9-4379-bd9d-b449c502fb91",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":51422,
+    "validationErrorCode":""
+  }
+}

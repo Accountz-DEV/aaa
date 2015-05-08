@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"94.55582108583882",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:14.319+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-94.55582108583882",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:14.32+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:14.317+01:00",
+    "hidden":false,
+    "id":"trns.8afe66cd-972c-40ad-925e-dbafd064447c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"avbCgZitmS ksmkfr VUT hKPxJ ceqjPRjlKJ ",
+    "notes":"pWwcGsHer CuoNzDw xRs qeAOIZV NtbKReU UqBQE AbYbd hBp JM nmu ",
+    "reference":"86024"
+  },
+  "trader":"su.8f1069eb-c8e3-4e4c-adb3-8915e950ba00",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":101912,
+    "validationErrorCode":""
+  }
+}

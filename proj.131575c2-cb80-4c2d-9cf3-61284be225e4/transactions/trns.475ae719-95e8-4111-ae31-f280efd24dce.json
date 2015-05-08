@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"61.162219420722565",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:00.273+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-61.162219420722565",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:00.273+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:00.271+01:00",
+    "hidden":false,
+    "id":"trns.475ae719-95e8-4111-ae31-f280efd24dce",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"YKGgpAs uQfVIIryqTz yhibPxkl OnOBo Pkva ",
+    "notes":"VlkYXrhfdXC Gglcvt MeF bRLY iWY Ud rh NjJAkbNVQPH eLoSIdMdPnX uauS ",
+    "reference":"76867"
+  },
+  "trader":"su.2dc86e76-0299-4b6a-8554-c4102844223f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":199850,
+    "validationErrorCode":""
+  }
+}

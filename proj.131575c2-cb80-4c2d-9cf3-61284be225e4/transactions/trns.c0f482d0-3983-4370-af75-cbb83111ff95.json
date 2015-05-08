@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"4.074869136335346",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"-4.074869136335346",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:32.967+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:32.963+01:00",
+    "hidden":false,
+    "id":"trns.c0f482d0-3983-4370-af75-cbb83111ff95",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"DfwIfJnZW iXKZvnwQx WBuSKXaLgE COsj BijqyUJcCwG ",
+    "notes":"rnvNEmBLBJh kuwIixTFSDI nghmHnogSmh WAWLtlp ZEul TtZARkzY eljZc uDzkh rVRmqP GqWit ",
+    "reference":"98027"
+  },
+  "trader":"su.55717144-c50c-4b2c-b6fb-3cc1301ad079",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":396464,
+    "validationErrorCode":""
+  }
+}

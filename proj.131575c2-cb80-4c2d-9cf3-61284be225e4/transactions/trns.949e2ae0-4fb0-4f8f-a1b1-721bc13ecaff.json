@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"10.125373160258622",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:55.197+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-10.125373160258622",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:55.194+01:00",
+    "hidden":false,
+    "id":"trns.949e2ae0-4fb0-4f8f-a1b1-721bc13ecaff",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jDITLV gBajTQS zpzil zWBtCxnuDVW GjsmSw ",
+    "notes":"wXLfu UGTXgv SGcZZfIr dEDkDCOLOu mgSBfBJf cbB gCAyRwmqK sY aAzdjar dqO ",
+    "reference":"61326"
+  },
+  "trader":"su.dc35d5d5-772c-4b90-9b05-7b5e28f3b19f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":529214,
+    "validationErrorCode":""
+  }
+}

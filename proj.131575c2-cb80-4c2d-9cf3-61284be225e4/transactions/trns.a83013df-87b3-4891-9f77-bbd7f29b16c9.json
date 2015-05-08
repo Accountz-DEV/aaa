@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"31.66729657723002",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:59.262+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-31.66729657723002",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:59.263+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:59.259+01:00",
+    "hidden":false,
+    "id":"trns.a83013df-87b3-4891-9f77-bbd7f29b16c9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"xlEmFPmiwQR lHjTR vN XVOf hT ",
+    "notes":"tOqxK vdLcOTHeg MfFeLrYyC nnW zM jBr TXgowtg unoax JVTDNwyA WJgywljf ",
+    "reference":"57618"
+  },
+  "trader":"su.33399a96-e3ad-4974-973b-0e0d2c0675b6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":255200,
+    "validationErrorCode":""
+  }
+}

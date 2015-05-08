@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"78.78409884007523",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:15.168+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-78.78409884007523",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:15.169+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:15.164+01:00",
+    "hidden":false,
+    "id":"trns.69eabb9a-a359-4488-9d7c-4436037373ba",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"eIlRru VpwZvgr LCsICVEvT VxnuE tIWVZXFdUsR ",
+    "notes":"MQEQ jq mwKQeYbA om Bft smkoya GBPkXVKLyhw YTGt fVtBxlaFVat uUyvvIxmZ ",
+    "reference":"64958"
+  },
+  "trader":"su.5739c80d-c9a9-436e-bc7c-27b024bf2f81",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":324608,
+    "validationErrorCode":""
+  }
+}

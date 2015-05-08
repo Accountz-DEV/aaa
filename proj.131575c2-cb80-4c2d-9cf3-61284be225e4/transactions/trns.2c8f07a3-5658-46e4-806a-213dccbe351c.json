@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"60.67818619495284",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:16.502+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-60.67818619495284",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:16.503+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:16.5+01:00",
+    "hidden":false,
+    "id":"trns.2c8f07a3-5658-46e4-806a-213dccbe351c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CXCUafJWlR rntRgez wYoElr culvqAMIP Xlc ",
+    "notes":"zMguS TbgGY AvPiFaemM kucDhkbBoWz cjyT bwYBm DsIoV nfIJcE YTsA wiwvy ",
+    "reference":"88524"
+  },
+  "trader":"su.e2751c2e-cc46-4fb5-9c3f-0320688cc5c9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":270410,
+    "validationErrorCode":""
+  }
+}

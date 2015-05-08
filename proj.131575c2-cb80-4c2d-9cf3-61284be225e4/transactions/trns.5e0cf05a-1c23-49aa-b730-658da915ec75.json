@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"73.72288674158008",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.551+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-73.72288674158008",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:46.549+01:00",
+    "hidden":false,
+    "id":"trns.5e0cf05a-1c23-49aa-b730-658da915ec75",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"VcQc ptsHVPBIv TkvpmnR kQCx EJkVBhy ",
+    "notes":"DTcq LgusfotGkFv yfPzr Ta dKBreqkaZ ZIwFCxMQLVe uOzFsPzykF lVQEIsMELZ weYvvpFJ khoml ",
+    "reference":"49731"
+  },
+  "trader":"su.dc147c11-969d-4183-b794-8fe9ab64b5ac",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":520808,
+    "validationErrorCode":""
+  }
+}

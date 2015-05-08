@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"61.32973455983346",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:50.804+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-61.32973455983346",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:50.805+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:50.8+01:00",
+    "hidden":false,
+    "id":"trns.6f062644-5c7d-45c2-9f3c-9433c19bb180",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"jWxEGBjr SBuwxRjFlpM hJv XBw MdHZyFjGdu ",
+    "notes":"CFAPlSXLgq xWhcPqxIW qVgmwquFDWU DgZycXyjWeh CVO xU hr GNL SXFMthGdYYz EGYtnRolZ ",
+    "reference":"07121"
+  },
+  "trader":"su.6bc27f0a-dcd4-42bf-a247-acc27e32ac2e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":413510,
+    "validationErrorCode":""
+  }
+}

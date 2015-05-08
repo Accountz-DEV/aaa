@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"48.95719874983415",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:37.435+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-48.95719874983415",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:37.436+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:37.432+01:00",
+    "hidden":false,
+    "id":"trns.8c204692-71ce-4d9a-8b5e-4281d39f8f43",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tgTL ABFEcQsVtIX UHqVwSH jDZ lzHbhyadl ",
+    "notes":"XprRTv lrZVQ GbZs bULATz fG eNfpF uMO uOA mw PpPTkL ",
+    "reference":"70134"
+  },
+  "trader":"su.7509875d-89d8-400c-b9f1-b67a07091239",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":68486,
+    "validationErrorCode":""
+  }
+}

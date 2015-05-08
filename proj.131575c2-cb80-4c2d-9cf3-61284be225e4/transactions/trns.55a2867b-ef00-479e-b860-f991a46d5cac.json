@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"42.96494080509861",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-42.96494080509861",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:53.403+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:53.397+01:00",
+    "hidden":false,
+    "id":"trns.55a2867b-ef00-479e-b860-f991a46d5cac",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"KYXJVO vGHud NAlroMfevFM LUr nM ",
+    "notes":"sJKfGnv nqLYHnT aPXA iWhsZbCJiZt odHNeSFEj niFsbYATboL PMAajMOgwD BGveE uLgYWJLhUqd JAcGTI ",
+    "reference":"09897"
+  },
+  "trader":"su.07588ce7-b28d-41cd-8fae-47fcaf1be246",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":194270,
+    "validationErrorCode":""
+  }
+}

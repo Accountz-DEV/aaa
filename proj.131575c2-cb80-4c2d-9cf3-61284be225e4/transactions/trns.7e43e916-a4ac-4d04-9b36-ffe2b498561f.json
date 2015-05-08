@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"19.47423448623351",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:45.072+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-19.47423448623351",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:45.074+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:45.068+01:00",
+    "hidden":false,
+    "id":"trns.7e43e916-a4ac-4d04-9b36-ffe2b498561f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-03T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"AH uL eWccPPzVp xhMFmwtzso KzBQbWDctD ",
+    "notes":"wMcORAghAVh WnKQt omdtu AHBepUw gDOhB BP UgPupl HpY fzxiQ DjkGa ",
+    "reference":"91542"
+  },
+  "trader":"su.5d8c2a4a-9288-4d4d-8a38-2556118ed54f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":520034,
+    "validationErrorCode":""
+  }
+}

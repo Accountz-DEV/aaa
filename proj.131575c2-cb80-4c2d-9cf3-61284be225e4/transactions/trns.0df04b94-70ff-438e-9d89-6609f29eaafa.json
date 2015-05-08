@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"73.87662263338855",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:29.785+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-73.87662263338855",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:29.787+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:29.781+01:00",
+    "hidden":false,
+    "id":"trns.0df04b94-70ff-438e-9d89-6609f29eaafa",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"XtQTZqIPc txmaCFn Jv yOISVVsg Rf ",
+    "notes":"BfcvXGNttfw lpHexox uo QWfEl olyTLDdTuX pWlgHgv RowlSNuaqX Ouyjl JfdKyZmIDQC ViTAp ",
+    "reference":"81085"
+  },
+  "trader":"su.986d63fd-9ec7-4232-a610-2036c6baf0c2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":61538,
+    "validationErrorCode":""
+  }
+}

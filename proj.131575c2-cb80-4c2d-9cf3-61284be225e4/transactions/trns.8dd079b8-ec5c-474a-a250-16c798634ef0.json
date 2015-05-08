@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"20.12611919517703",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:19.317+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-20.12611919517703",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:19.319+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:19.313+01:00",
+    "hidden":false,
+    "id":"trns.8dd079b8-ec5c-474a-a250-16c798634ef0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZTpt Ue CEkXGYkt PZYWEYKrLw rdnHWI ",
+    "notes":"UgI ExN Qsv ETPLk ovxLKZFIi hHM ouwp VSSFnNOc egvO MrAstT ",
+    "reference":"01597"
+  },
+  "trader":"su.9559ef00-aee0-45ad-a866-0d9f6865a293",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":328838,
+    "validationErrorCode":""
+  }
+}

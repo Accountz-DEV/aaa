@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"24.495574135740316",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-24.495574135740316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:17.007+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:17.002+01:00",
+    "hidden":false,
+    "id":"trns.221a80c4-7c28-4a63-84c4-3b128255197e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"RBMaIW rTPMs hy pVpIg IyAsBtF ",
+    "notes":"BEUBvglfh Jl nxeqxs oPjPXBBIwUy gtQdtL hcWWEPfwzCr bmPIaU EcA iuzvIOrKV iMoBRUtOELG ",
+    "reference":"26173"
+  },
+  "trader":"su.0d29ab11-b791-4ea2-85ab-98aa22731a64",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":50306,
+    "validationErrorCode":""
+  }
+}

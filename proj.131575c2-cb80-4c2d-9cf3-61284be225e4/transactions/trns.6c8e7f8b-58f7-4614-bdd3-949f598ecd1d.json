@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"8.44449995645411",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-8.44449995645411",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:06.915+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:06.91+01:00",
+    "hidden":false,
+    "id":"trns.6c8e7f8b-58f7-4614-bdd3-949f598ecd1d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-07-03T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WplZRTlwRo pbfNxd iEMW xdiNfz uqNzaXns ",
+    "notes":"bM pzrcGG RDr dPzyHmG PhTsDYgv ombGgBKngf Uvp wxCr Mgfi DArqDNPR ",
+    "reference":"59770"
+  },
+  "trader":"su.e13c1080-3852-4c29-8c32-5d53a28e6573",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":40460,
+    "validationErrorCode":""
+  }
+}

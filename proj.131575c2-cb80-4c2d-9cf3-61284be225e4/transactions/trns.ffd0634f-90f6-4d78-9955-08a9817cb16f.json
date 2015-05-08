@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"88.52626837586119",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:10.579+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-88.52626837586119",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:10.581+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:10.573+01:00",
+    "hidden":false,
+    "id":"trns.ffd0634f-90f6-4d78-9955-08a9817cb16f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OgPJHiKC GEZpOHY Exy JsFHFq XXta ",
+    "notes":"aRuyB lo PVc VClZHamjV KrXBQi dwSdBIjIJR xFRN cigsg jKm mXoCR ",
+    "reference":"71057"
+  },
+  "trader":"su.61c92636-9159-4aeb-9930-743671eb3ddf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":98906,
+    "validationErrorCode":""
+  }
+}

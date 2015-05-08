@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"60.49701673144402",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:41.406+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"-60.49701673144402",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:41.407+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:41.404+01:00",
+    "hidden":false,
+    "id":"trns.033f0ad7-2c44-42a6-913e-bbd324cca0c4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"cqXAAjdX XGmdmcBASb oIazpZYT hHefHuxyw qtpMzsjwbr ",
+    "notes":"CRvALJzGP JQk qZRi PtoRe UqSmHQTz JwW wIGTVzm CX Iceg faAREbUpuhe ",
+    "reference":"06416"
+  },
+  "trader":"su.7c213302-e1a2-47ac-8fa1-fc8a8ab7007a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":127040,
+    "validationErrorCode":""
+  }
+}

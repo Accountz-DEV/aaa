@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"35.24003631178234",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-35.24003631178234",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:19.937+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:19.934+01:00",
+    "hidden":false,
+    "id":"trns.a3db6c06-734e-4539-a354-3605294bc43f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"HcxE MQYQCtPKQq YKVot gyN QBBxDx ",
+    "notes":"uFYxvTZpYFJ xVBttdCpQ HVeYBcVhP yt mjvXTpt bbORDetjs qdUAVijcmx wYubk LoaInpFV zzuR ",
+    "reference":"03160"
+  },
+  "trader":"su.67e1b6f6-be31-4057-816a-828d09f96802",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":162500,
+    "validationErrorCode":""
+  }
+}

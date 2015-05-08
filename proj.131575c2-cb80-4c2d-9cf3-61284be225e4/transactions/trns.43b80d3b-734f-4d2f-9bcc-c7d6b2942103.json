@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"31.59384876937863",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-31.59384876937863",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:57.877+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:57.874+01:00",
+    "hidden":false,
+    "id":"trns.43b80d3b-734f-4d2f-9bcc-c7d6b2942103",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NcxreNP IkJQjfOFjP hchA nlReG uSkXjB ",
+    "notes":"UvWTJzjJ ghya YGFUjBdXNm wSZBVrfhC aXLQYcruT jOPscOxurB qjUT jKPMMQdJz OHCpB cxM ",
+    "reference":"10284"
+  },
+  "trader":"su.b4e4cc35-da07-4e03-8f14-cf996bbd6e71",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":364172,
+    "validationErrorCode":""
+  }
+}

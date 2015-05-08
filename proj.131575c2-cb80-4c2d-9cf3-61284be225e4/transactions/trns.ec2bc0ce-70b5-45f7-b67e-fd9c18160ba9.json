@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"28.07902250092965",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:41.461+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-28.07902250092965",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:41.462+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:41.457+01:00",
+    "hidden":false,
+    "id":"trns.ec2bc0ce-70b5-45f7-b67e-fd9c18160ba9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"FDoVvVJn ZIujTCqWjqb vdYjFaj WpoXKUwipB uCFuoJXcmp ",
+    "notes":"vwdo caKy ITpjCq MbksnwdrmKk WAV vtxOzX ZENeswyfRVL fFEoYm JNhEQId lg ",
+    "reference":"34103"
+  },
+  "trader":"su.5fbf9560-21b2-4c06-af93-245348994ef5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":182912,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"67.3305270437469",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.632+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-67.3305270437469",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.633+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:45.629+01:00",
+    "hidden":false,
+    "id":"trns.96aa40bb-5bcf-4111-97f5-a222c7213cbe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"vkvEhsG kPZqMB AgJEfYWxV JNjAXKXQiR Bo ",
+    "notes":"fPjob MUxL vobM JSAFeX UZOkkUoMte FZ oF Fb wtDfOvbIP CmhmVI ",
+    "reference":"86526"
+  },
+  "trader":"su.6dbd3156-d521-4f87-9807-677a6f3ebad3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":21020,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"69.24331802588587",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:23.934+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-69.24331802588587",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:23.931+01:00",
+    "hidden":false,
+    "id":"trns.58f1e8b2-c966-43ff-8b1c-d7ba8044993d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Mj pqIqKksh vXDaPZ VfAv hqDWFrzzM ",
+    "notes":"emkOGcNdcNi tpzgYzHTzum vkVkBhT oYPKscYqlvt PFJgchSjX ip tluXciw KET vvvhBxo tiFucq ",
+    "reference":"27584"
+  },
+  "trader":"su.f726a77b-4ff6-49c1-856f-03d1a88dc140",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":222116,
+    "validationErrorCode":""
+  }
+}

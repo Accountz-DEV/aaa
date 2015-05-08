@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"60.622195392375",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:53.221+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-60.622195392375",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:53.222+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:53.218+01:00",
+    "hidden":false,
+    "id":"trns.3020611b-edfc-4481-bc7c-4498c06fbadf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"wnNKnx vPgmsW xlrEYsSuuPd BTaif gqaklJ ",
+    "notes":"jccFSrVq TtRsEi HvKnGGHYSws DoDZWTe mlHwdzXP uH WLt Iz LKD FVy ",
+    "reference":"61891"
+  },
+  "trader":"su.220d9b14-61bc-41b4-8a53-5e922207e0dd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":249440,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"39.99865932804008",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:02.122+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-39.99865932804008",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:02.123+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:02.118+01:00",
+    "hidden":false,
+    "id":"trns.a32bb017-c6cf-41f0-bfa4-2d36b5f3138b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UTscquqBz kjiOgcKQsYT gUjuogplN Cggfon Mg ",
+    "notes":"bTStxb AoQHiZ SBZfBrRH bQrJfVnvTg QF SriDA sghvklAvcg NDLqq vzQjSDTrU ubkuImz ",
+    "reference":"44355"
+  },
+  "trader":"su.cb61dc0f-1288-42ef-973c-81862c350200",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":90770,
+    "validationErrorCode":""
+  }
+}

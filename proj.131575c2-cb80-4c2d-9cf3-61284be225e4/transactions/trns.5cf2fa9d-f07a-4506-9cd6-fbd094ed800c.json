@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"69.58267731987155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.154+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-69.58267731987155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.156+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:21.149+01:00",
+    "hidden":false,
+    "id":"trns.5cf2fa9d-f07a-4506-9cd6-fbd094ed800c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QctpHS NJFHlC KRdz vkGC AmAZJf ",
+    "notes":"fbZw KnAisv WgONN KWHQrE OfWZSR zkdDlrSN Eha PUpng cxgjJEO iCfVdw ",
+    "reference":"01191"
+  },
+  "trader":"su.05202d99-2455-493d-bcdb-d79f6ef76e3e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":338,
+    "validationErrorCode":""
+  }
+}

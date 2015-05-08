@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"52.813714594642605",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:41.257+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-52.813714594642605",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:41.258+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:41.253+01:00",
+    "hidden":false,
+    "id":"trns.72f2e16b-8df9-41ac-b170-e925e82356dd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kUkPHhFtY pcQ TlyPgZH JssUABv hAW ",
+    "notes":"AM bxIx KoYXiWj bgebmVMz RHWR qfxaYSuWVG hkQ WC Py GOBBXtXky ",
+    "reference":"12428"
+  },
+  "trader":"su.9a80de68-7c97-48eb-b6c8-ad04fd3519e4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":182552,
+    "validationErrorCode":""
+  }
+}

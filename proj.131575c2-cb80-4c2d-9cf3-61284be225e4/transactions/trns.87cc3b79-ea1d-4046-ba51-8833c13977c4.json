@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"80.24029337046878",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:39.762+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-80.24029337046878",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:39.763+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:39.758+01:00",
+    "hidden":false,
+    "id":"trns.87cc3b79-ea1d-4046-ba51-8833c13977c4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"DtZIztM ChURYPaPf OhjKd NFTvXvNpkSl IdQ ",
+    "notes":"jWDkVpsIh gm dXBFFvxGjJ etfEls qqIoQP QKtxN zXnv cl KECSOx Co ",
+    "reference":"03311"
+  },
+  "trader":"su.f453c42e-bb7b-49a9-b052-5359bdd39925",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":71024,
+    "validationErrorCode":""
+  }
+}

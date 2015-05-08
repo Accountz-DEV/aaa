@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"39.37772835086846",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:35.197+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-39.37772835086846",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:35.193+01:00",
+    "hidden":false,
+    "id":"trns.c070f71f-a138-4778-838d-973fc6df92dc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SfzvKBxz jCqOdmSAy YIBUKlgs yvtaohU naTrHQXyRvC ",
+    "notes":"CdX hkns vRhdYKo SoXbr iWfNXCcq YdsYUMCUcPQ ewKfNo RFZaolARgDE Vhk IeFiat ",
+    "reference":"53779"
+  },
+  "trader":"su.3b1dda08-b3de-4e29-afaa-05f52a524208",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":11030,
+    "validationErrorCode":""
+  }
+}

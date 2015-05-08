@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"89.16518964881465",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:58.581+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-89.16518964881465",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:58.582+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:58.579+01:00",
+    "hidden":false,
+    "id":"trns.dd7c0682-dd3d-4b17-8934-86fdba8bd5ea",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"qeEUPb HRLyzO JpYzsvFsdg zSxGECCFwBh TqgvdWhKyjr ",
+    "notes":"YJFmnfFB lbQH EXp nw kciDE YD CnbhU mP kfoB jbGszCXosSn ",
+    "reference":"26180"
+  },
+  "trader":"su.05056cd3-a7ad-48c3-8e3b-9969488ca482",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":531752,
+    "validationErrorCode":""
+  }
+}

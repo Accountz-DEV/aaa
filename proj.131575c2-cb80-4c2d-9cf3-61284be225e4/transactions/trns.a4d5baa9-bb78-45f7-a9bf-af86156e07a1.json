@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"61.234285975984925",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:30.625+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-61.234285975984925",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:30.625+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:30.622+01:00",
+    "hidden":false,
+    "id":"trns.a4d5baa9-bb78-45f7-a9bf-af86156e07a1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"md MQNXg ICkTSHXMcj ZG jO ",
+    "notes":"BP KtqHLQ eZHVkMjrY RcFfQH hsltDoyIqta XcTfxxCs nnCengAlA rH MpEGAF Ls ",
+    "reference":"84686"
+  },
+  "trader":"su.78817065-a7a7-4f1f-9f57-4b827131a8d8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":450032,
+    "validationErrorCode":""
+  }
+}

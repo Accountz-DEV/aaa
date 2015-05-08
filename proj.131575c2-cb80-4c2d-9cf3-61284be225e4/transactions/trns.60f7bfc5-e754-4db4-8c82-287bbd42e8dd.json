@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"33.27147162772183",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:45.812+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-33.27147162772183",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:45.813+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:45.809+01:00",
+    "hidden":false,
+    "id":"trns.60f7bfc5-e754-4db4-8c82-287bbd42e8dd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cdrUWGBcMH ey DMLEroVepgs ZM LFOgssajPJe ",
+    "notes":"qhHEdC eEsGZUkB LJLbNVvW fssH HV Rxnf JCyo tkpt VGCl QSDOyViJgN ",
+    "reference":"91071"
+  },
+  "trader":"su.d5f14e97-d011-4bcb-8d7d-4e80635fd798",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":297770,
+    "validationErrorCode":""
+  }
+}

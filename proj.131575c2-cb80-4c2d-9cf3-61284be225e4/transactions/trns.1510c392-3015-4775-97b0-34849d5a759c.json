@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"79.34479605164063",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:28.684+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-79.34479605164063",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:28.684+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:28.68+01:00",
+    "hidden":false,
+    "id":"trns.1510c392-3015-4775-97b0-34849d5a759c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"GzsFq tQePgjiEsVN JhL gv XuyD ",
+    "notes":"mtx vkirU SzzHqkHeYJB ujmc CpCuNl rEUB icFDvabuXLY OgGAnW KEWy cXGlacFn ",
+    "reference":"05385"
+  },
+  "trader":"su.09aaedc4-1d2e-4514-832f-13db807543cb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":336920,
+    "validationErrorCode":""
+  }
+}

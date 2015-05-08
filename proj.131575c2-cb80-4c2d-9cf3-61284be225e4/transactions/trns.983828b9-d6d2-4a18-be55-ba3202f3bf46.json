@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"95.04366044487882",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:45.328+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-95.04366044487882",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:45.329+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:45.325+01:00",
+    "hidden":false,
+    "id":"trns.983828b9-d6d2-4a18-be55-ba3202f3bf46",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"APTU gjDAE nVxq MpgfyVBCg bGuxpjvNQr ",
+    "notes":"mGl zTuUrQx ZfWOb CfA GFG JVzKmc PztJaYMa WyMCONEml AFXsMU crhz ",
+    "reference":"53258"
+  },
+  "trader":"su.46b8071c-befc-491a-ae43-57a07c51efc6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":186548,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"88.66095836906443",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:00.445+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-88.66095836906443",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:00.446+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:00.442+01:00",
+    "hidden":false,
+    "id":"trns.a2459408-a85f-41ed-8364-54834d92aa76",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"DbwpDnzm EhGZ TXiXKOeBdP eSuOsoO nlcTwKBpjyV ",
+    "notes":"QMp SaNOfXwpM KKs QKxWnPHIelz AtbeWLtBk UNgsHG QKBrsz DwUWAs zhp mrt ",
+    "reference":"19523"
+  },
+  "trader":"su.9b84ec95-042b-480a-ae31-df6b25c570cb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":367214,
+    "validationErrorCode":""
+  }
+}

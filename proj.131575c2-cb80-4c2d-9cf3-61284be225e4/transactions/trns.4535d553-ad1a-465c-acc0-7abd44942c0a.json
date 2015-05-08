@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"77.24765099208778",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:57.348+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-77.24765099208778",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:57.349+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:57.344+01:00",
+    "hidden":false,
+    "id":"trns.4535d553-ad1a-465c-acc0-7abd44942c0a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-23T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"zBmlgs pHUzgrnSXR rkZolKFBZCv ndHzdsVN XioJryUgpyC ",
+    "notes":"pJcqpw GJC iCDYLA vzcupKalRvv ps ITxcrR uW Btmw YNN CKRoKLTscdZ ",
+    "reference":"31280"
+  },
+  "trader":"su.45abc502-3a3a-407b-a010-e529fa5c3f6a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":308102,
+    "validationErrorCode":""
+  }
+}

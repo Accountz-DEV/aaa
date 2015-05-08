@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"61.62535433519582",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:06.361+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-61.62535433519582",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:06.363+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:06.358+01:00",
+    "hidden":false,
+    "id":"trns.cda1353b-67ea-484c-b257-19382e1a0f7a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Le FJ yUAOljM XzILsFqT bz ",
+    "notes":"qWUYZCYK hWtIui PFKlCyzvPu FT OIwqt JJaFKiNwae Py HoL lzHrm UzBTXM ",
+    "reference":"84042"
+  },
+  "trader":"su.3bb1532a-5791-4c88-9bd8-7bf4985c588f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":205682,
+    "validationErrorCode":""
+  }
+}

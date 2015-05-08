@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"11.157258254954039",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-11.157258254954039",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:03.982+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:03.977+01:00",
+    "hidden":false,
+    "id":"trns.26ebeb92-e7ab-463b-8aee-bbe96f3cf3bb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-08-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NsLkYPGrph LnY ZHLDaOVcr UUbht GUM ",
+    "notes":"JPqZvs kfZ XDoqrYnVHu SnQM WblUUEgHc ZDogjzBd KxGCSWyZ THsiauRvb ENEcmv RxZXPwQfRY ",
+    "reference":"89167"
+  },
+  "trader":"su.748e877a-24a6-44ea-b44b-56411d12e333",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":425660,
+    "validationErrorCode":""
+  }
+}

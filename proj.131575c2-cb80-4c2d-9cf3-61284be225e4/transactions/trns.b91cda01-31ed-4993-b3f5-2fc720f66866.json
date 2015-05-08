@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"54.94084907463939",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:52.101+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-54.94084907463939",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:52.102+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:52.098+01:00",
+    "hidden":false,
+    "id":"trns.b91cda01-31ed-4993-b3f5-2fc720f66866",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"msMXXLnhWD eIyt Ux mPKbQgI du ",
+    "notes":"QKXpcxJDSe gYvnfIRyzkz oDdces mPfiXXCksdr gfVcgOF GEjWHK RdeRY eUip UbH ZCZkVQNyy ",
+    "reference":"41535"
+  },
+  "trader":"su.fb3eefdd-dcf9-41de-b108-d67a36f958cc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":358916,
+    "validationErrorCode":""
+  }
+}

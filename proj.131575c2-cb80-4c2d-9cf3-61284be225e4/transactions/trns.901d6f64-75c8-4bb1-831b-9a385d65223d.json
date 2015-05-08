@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"1.9308220455121927",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:33.601+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-1.9308220455121927",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:33.602+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:33.598+01:00",
+    "hidden":false,
+    "id":"trns.901d6f64-75c8-4bb1-831b-9a385d65223d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Hjt nb xwOfkTI HmRpTtdw Mp ",
+    "notes":"SJpcDDcV sYxclov kfLIsSWFjB zbQDVIE roPVqyBQv fpg PjnQ WRaNEcG rM GJDl ",
+    "reference":"89655"
+  },
+  "trader":"su.45abc502-3a3a-407b-a010-e529fa5c3f6a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":231242,
+    "validationErrorCode":""
+  }
+}
