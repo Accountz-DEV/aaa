@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"80.01791413332026",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"-80.01791413332026",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:10.803+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:10.8+01:00",
+    "hidden":false,
+    "id":"trns.a928f980-075b-4c62-8b3e-c9dc7ead08b9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iiiBeJAhM kGZ POoAnZHJJX mGCTUzhmFMA iMUTCUPauak ",
+    "notes":"jdhbN HlojDjIQgc fXfY kUfcPHEhcsa GHjRgvZ mA FnP pc IwbLFRXaU esiR ",
+    "reference":"10518"
+  },
+  "trader":"su.aab4dc59-9d07-4986-b73f-32cc2a1729f4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":876740,
+    "validationErrorCode":""
+  }
+}

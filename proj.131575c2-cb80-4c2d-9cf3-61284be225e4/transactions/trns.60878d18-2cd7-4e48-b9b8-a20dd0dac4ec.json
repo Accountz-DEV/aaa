@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"56.32436821182502",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:49.664+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-56.32436821182502",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:49.622+01:00",
+    "hidden":false,
+    "id":"trns.60878d18-2cd7-4e48-b9b8-a20dd0dac4ec",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"EgEBPf gJycnwIj mbewRqHY YoyjYVcviG CahjZ ",
+    "notes":"bKgZaivV ylGhMgiOMBC BhMOq SrusV PCGuieB QirxHAyDl oLwHqICGshE UHGr VYISsPLT ap ",
+    "reference":"83415"
+  },
+  "trader":"su.2f4bcc3f-0819-4651-af64-0b991afc1a12",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":800402,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"25.651665726493576",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.753+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-25.651665726493576",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.754+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.749+01:00",
+    "hidden":false,
+    "id":"trns.82e62b6b-2aa8-4725-8575-ba32aebeaa34",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-02T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"MGEJQKEwZa XleQ nAP FpXZ Sd ",
+    "notes":"vMNXCBO EIha dNivUw QrVf HkeC lUibiXD XkwmIBV semLg en eUDJ ",
+    "reference":"80907"
+  },
+  "trader":"su.3e442877-df2b-48eb-a656-49f039b5e22c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679496,
+    "validationErrorCode":""
+  }
+}

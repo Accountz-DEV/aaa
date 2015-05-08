@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"32.123987017188036",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:48.008+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-32.123987017188036",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:48.009+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:48.003+01:00",
+    "hidden":false,
+    "id":"trns.ee2d0fe8-e031-41d2-ac52-8e5dc4bab3b2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ymBprf pz hglqE Dn FnAIme ",
+    "notes":"mPL UP AervBFdDSvj mtta yCHMV VBiBeaJq sogBjJ fchciwo LaSnOcacmn LBbkUg ",
+    "reference":"17801"
+  },
+  "trader":"su.4ebd5651-9404-45ad-8092-db46a8d55efc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":855644,
+    "validationErrorCode":""
+  }
+}

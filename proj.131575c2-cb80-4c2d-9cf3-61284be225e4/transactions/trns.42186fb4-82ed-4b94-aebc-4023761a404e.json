@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"35.20709804069478",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:25.425+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-35.20709804069478",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:25.426+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:25.422+01:00",
+    "hidden":false,
+    "id":"trns.42186fb4-82ed-4b94-aebc-4023761a404e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SE qXFVpaaT PndO YDI rZCm ",
+    "notes":"EgUSMyY advP RrEpAuBtpr kGopEu GO aiPmXFM WLwDbUIprt FaDppRIo pC SxpArZ ",
+    "reference":"84765"
+  },
+  "trader":"su.9af411fb-7614-41b7-971f-10fc1ccdcae2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":720554,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"74.22530937359038",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:31.217+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-74.22530937359038",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:31.219+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:31.214+01:00",
+    "hidden":false,
+    "id":"trns.60916e13-9deb-413e-a870-db81cd76fc66",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"mBfweHXQdY DiFs UiBpzDAMzcW LT tp ",
+    "notes":"zBWnW dLXCBqXaIIP vtookKE QBToSYyDxZr JjkXk wAKf On NSsYtlZP dfOcJdnzo kmC ",
+    "reference":"08861"
+  },
+  "trader":"su.6ac1816e-17c9-4cab-85a6-511b7ec5fb20",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":840308,
+    "validationErrorCode":""
+  }
+}

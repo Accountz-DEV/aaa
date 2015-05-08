@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"89.09073003685081",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:24.958+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-89.09073003685081",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:24.958+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:24.955+01:00",
+    "hidden":false,
+    "id":"trns.7b323e39-788d-4ca1-9fb3-eb0affe0a9ba",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"FfnSy qx aN IiBp oYHyImsOK ",
+    "notes":"FDdta QolRcxVxgWI TuZKB uY OD kVdxhkGUqUa bneiPSS VphKfZHIZ OMSo Wt ",
+    "reference":"88343"
+  },
+  "trader":"su.8a5b03ca-83ef-4082-a813-f94cead92529",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":666104,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"70.78682857950773",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:55.374+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-70.78682857950773",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:55.375+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:55.371+01:00",
+    "hidden":false,
+    "id":"trns.356f845a-73f3-4af0-b622-b010e3db521b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"uBsfCHG BTgnLufng pYDCeLvcmqm ZlDT eDEB ",
+    "notes":"ZkB GWNhQgVGHRA rMOmOncmcg ohDwbQZO iC mMCtCd fK ugNILSsPMb Id yrFkllgao ",
+    "reference":"64399"
+  },
+  "trader":"su.2de21107-6e6a-457a-9094-73ac5d9a78e1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":806018,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"21.645184685029704",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:21.176+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-21.645184685029704",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:21.177+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:21.173+01:00",
+    "hidden":false,
+    "id":"trns.476c1aaa-1933-467f-a708-12ab635ccba0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"edYn SwjOf XAx gp cvWuHlxtS ",
+    "notes":"EefMNnYiKw jhyJNOD LGOPDMruQrd xbsdUiHw AoueepLq uaIXhutRjGl bUBEi YKY LBspo vhdw ",
+    "reference":"36969"
+  },
+  "trader":"su.c5afd207-8340-43e4-ab5d-40f85aec9dee",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":553100,
+    "validationErrorCode":""
+  }
+}

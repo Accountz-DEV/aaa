@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"92.76679963124874",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:29.553+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-92.76679963124874",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:29.554+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:29.55+01:00",
+    "hidden":false,
+    "id":"trns.970ebb8b-aad3-4b44-837a-833fc75ad77b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ga wuMjmf XkYTzgVtMW vcs UjiiuGv ",
+    "notes":"ZYVzAu UnjOv fdwjFYi tYRtz wniCPS fRBegggqfbc Nhd yMsZDnrisY OjLpB HmjH ",
+    "reference":"73667"
+  },
+  "trader":"su.93a76c0f-6bb1-4fd6-8db5-00ab562a4e6a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":725000,
+    "validationErrorCode":""
+  }
+}

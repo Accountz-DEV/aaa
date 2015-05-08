@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"70.67785638604448",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:37.017+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-70.67785638604448",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:37.017+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:37.014+01:00",
+    "hidden":false,
+    "id":"trns.f5d41a08-ac92-42a9-a6b9-4d6c910eec50",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"xmtUnr fqIpuCcfB lmgVD XQG Maq ",
+    "notes":"EbkmBfoubQT Irk Cr xfnCzwkYshY rdpt oB FJ NueMfLBY tSkiCQA DAlUd ",
+    "reference":"14998"
+  },
+  "trader":"su.b603445f-38ae-4ea1-bc92-e8b1a57cecaa",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":731750,
+    "validationErrorCode":""
+  }
+}

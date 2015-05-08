@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"54.939304683817326",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-54.939304683817326",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:19.118+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:19.115+01:00",
+    "hidden":false,
+    "id":"trns.a97fe5b0-5a44-48c5-b15c-f05e5269ae7f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Un mGcO wsADm VjkKbsxmpQS cPZEpuZrr ",
+    "notes":"JLvmDaFSK kvWYYXd MkyhJsz uAnrJGjwTjB bTXYQow TDLKymDfxLH YpF rOyhRwDdXsr TILVlueg vDkbAbObQ ",
+    "reference":"79630"
+  },
+  "trader":"su.f033b7c8-d7f0-42fd-9f9e-3483391bccfc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":771764,
+    "validationErrorCode":""
+  }
+}

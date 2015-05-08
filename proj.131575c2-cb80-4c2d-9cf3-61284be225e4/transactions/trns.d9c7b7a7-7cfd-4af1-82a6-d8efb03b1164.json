@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"49.50119502436099",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:54.145+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-49.50119502436099",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:54.146+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:54.142+01:00",
+    "hidden":false,
+    "id":"trns.d9c7b7a7-7cfd-4af1-82a6-d8efb03b1164",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ROHUTbXz psQQtlHBc usswdv zZB QGEnOGTpmkE ",
+    "notes":"NijbVKXC OZlllHudnOK LgeA ra YXbtU gr nMXpBR UW PLOnesL JSpYlehrF ",
+    "reference":"86114"
+  },
+  "trader":"su.dd703879-e166-49f8-8e74-02f60c6022cf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":584600,
+    "validationErrorCode":""
+  }
+}

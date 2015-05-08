@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"76.3050624293076",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"-76.3050624293076",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:36.102+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:36.099+01:00",
+    "hidden":false,
+    "id":"trns.7da6cbfd-3217-49c2-8a35-1381b5e5c7a2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ch iKh AZDlq EcbkzDoVX OUIuu ",
+    "notes":"gdtRmbxf GdHXoPXcVxq lCDBwX GiFmAWRikUn QE YqukFffEsn GHEDcg KNETqzkkduy JQt ccO ",
+    "reference":"59260"
+  },
+  "trader":"su.47b32545-80c0-40e7-b364-1e76a05bf731",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":787226,
+    "validationErrorCode":""
+  }
+}

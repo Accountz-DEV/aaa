@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"25.38518993918739",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:53.03+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-25.38518993918739",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:53.031+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:53.028+01:00",
+    "hidden":false,
+    "id":"trns.a41de26b-369b-4109-85f2-4f734366b593",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dDFOpSu qqIOYAk EbWWuz XIwhcb VSGgCB ",
+    "notes":"wgiMhOfBC oCA zWT cHHS EqdvfS HPe ubkbwb tnvtB Yb gXP ",
+    "reference":"42387"
+  },
+  "trader":"su.240876b8-d572-4c20-afac-4aad406ad738",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":803084,
+    "validationErrorCode":""
+  }
+}

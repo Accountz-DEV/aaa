@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"17.37223917895441",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:15.654+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-17.37223917895441",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:15.652+01:00",
+    "hidden":false,
+    "id":"trns.1befb6ad-82f8-4702-8775-ee054197b39d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"yxruJrQcUm CdSnYQVyKdq DkJxivDV lOodsw FIKhW ",
+    "notes":"SACrz nFXgtvWb JPud ZhvT HWekhmOlKO FpdlYVkf whUnzNag THgLaPex RRS yDRLidJk ",
+    "reference":"21002"
+  },
+  "trader":"su.d4a1c1b3-0d95-4894-a554-847824b07a6d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":657212,
+    "validationErrorCode":""
+  }
+}

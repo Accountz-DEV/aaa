@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"58.38977396568382",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-58.38977396568382",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.7+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.695+01:00",
+    "hidden":false,
+    "id":"trns.ae1f2454-d60a-4bfe-b27c-4a51a88c2dd9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"UVi dFHnWHmCQq nGgAoMZ FkNZuRcOrn xjmdBYUWdh ",
+    "notes":"ZSKHJsFS byvT rBGxCNtMm BnuuUk HcwuBz ODFrrtoPFXa yJhlbvya ZoAZDEOlV PecMQesc uF ",
+    "reference":"68512"
+  },
+  "trader":"su.131523a5-0564-4eb4-ad5b-93e32fd17d1a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679388,
+    "validationErrorCode":""
+  }
+}

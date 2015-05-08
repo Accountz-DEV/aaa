@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"45.46706908410384",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-45.46706908410384",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:53.748+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:53.743+01:00",
+    "hidden":false,
+    "id":"trns.7b32641e-3e50-4c64-a278-e5bad2333023",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"vYZcLc mmIA olpBrHPgi ZFLoZPKaOXt qqZiT ",
+    "notes":"lkUN xhcQ xcx GnjHcBqNa WrWIjJ cUH gQrVxQZhjH jCHnyICJ XNsfvAe oGoHQ ",
+    "reference":"53207"
+  },
+  "trader":"su.1b3a1185-c3bf-4ce2-b90c-c3ba5b757c1e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":639716,
+    "validationErrorCode":""
+  }
+}

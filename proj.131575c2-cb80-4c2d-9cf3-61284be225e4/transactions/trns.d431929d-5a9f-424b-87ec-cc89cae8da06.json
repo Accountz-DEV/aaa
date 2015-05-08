@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"25.515298866611225",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:13.067+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-25.515298866611225",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:13.068+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:13.065+01:00",
+    "hidden":false,
+    "id":"trns.d431929d-5a9f-424b-87ec-cc89cae8da06",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"GB drXjrukDl uXwHpmTxRg FK QxPOtXiGyoh ",
+    "notes":"nWSltXbDQe HwzR fOAB yaUfuExUM fUHLJcY HYPTUs SzCajsHqXj Au GUizdvOJIDH PtinCfTl ",
+    "reference":"59121"
+  },
+  "trader":"su.3228eb21-e22b-48a2-9e8b-853a99aa3d9c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":879386,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"64.29922401140277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:25.17+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-64.29922401140277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:25.171+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:25.167+01:00",
+    "hidden":false,
+    "id":"trns.0b62e479-51b9-4677-bf68-cb7a9c238ed2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"mPH UjpIIaDnS KEvpscs wDbzA VJgF ",
+    "notes":"eZNkfFt GOVDsED tFakQlHH UbsUuACNrH lu VmNd jeeJBOE RKd fiZovdh EzangoqW ",
+    "reference":"05150"
+  },
+  "trader":"su.a4aa702d-1bc7-4f6f-9a64-399fffd0444c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":777272,
+    "validationErrorCode":""
+  }
+}

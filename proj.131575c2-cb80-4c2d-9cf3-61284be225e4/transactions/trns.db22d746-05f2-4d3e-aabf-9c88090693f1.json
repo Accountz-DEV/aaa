@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"33.41097009276338",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-33.41097009276338",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:50.157+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:50.154+01:00",
+    "hidden":false,
+    "id":"trns.db22d746-05f2-4d3e-aabf-9c88090693f1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OVHvLPS boIY mLR vPBYXbKKsC dfluBfARhsP ",
+    "notes":"axVFVlChqAR JSNAJxNX cGZyEman MUCBkOyDdND KpnJlyLO oZlGUfz plt VGZCNU eRNCqrElBs fzxAFnCkz ",
+    "reference":"99532"
+  },
+  "trader":"su.e251fcf8-4bc3-46a6-8cef-c7eab40226a6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":858002,
+    "validationErrorCode":""
+  }
+}

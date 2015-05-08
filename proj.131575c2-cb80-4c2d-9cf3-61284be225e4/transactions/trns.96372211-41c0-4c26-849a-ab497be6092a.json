@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"50.840666745914916",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:07.142+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-50.840666745914916",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:07.143+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:07.139+01:00",
+    "hidden":false,
+    "id":"trns.96372211-41c0-4c26-849a-ab497be6092a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-29T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SYfm bnQMF pFL GifuL MmqdioKfLCg ",
+    "notes":"fspAyLSf zszsaQ mdXo tw RNzVQkbY tJuVfiJJK GmtFFqoIBY CYESMkg TMw eSlMIJsV ",
+    "reference":"12905"
+  },
+  "trader":"su.a7781a4c-3af9-420b-bca4-426ec21388aa",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":703526,
+    "validationErrorCode":""
+  }
+}

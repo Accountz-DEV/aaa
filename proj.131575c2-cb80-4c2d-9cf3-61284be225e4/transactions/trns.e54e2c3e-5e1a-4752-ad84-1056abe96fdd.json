@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"23.72987361296418",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:53.83+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-23.72987361296418",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:53.83+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:53.826+01:00",
+    "hidden":false,
+    "id":"trns.e54e2c3e-5e1a-4752-ad84-1056abe96fdd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ARPFhLeOwW KzDaunVOxqG VvlEfot pUtiSM TrU ",
+    "notes":"JhF bCrdPpHPy vGA rc sMYfDOtRcc KKvheLW djur QECKLCXNlYi EojyV BXVlnau ",
+    "reference":"75461"
+  },
+  "trader":"su.40e0be88-7c7f-4b70-ad34-d8d5d7810196",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":639914,
+    "validationErrorCode":""
+  }
+}

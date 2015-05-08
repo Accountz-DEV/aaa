@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"91.31808918357109",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-91.31808918357109",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:16.572+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:16.567+01:00",
+    "hidden":false,
+    "id":"trns.56c82f59-f036-4d3f-8f96-4e62e544b4c4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"sYXMIXMVWV HsSnueZk XxarCupBxn cdASqYtSe IXOdj ",
+    "notes":"GoADgBQd ZhCwBNR RanSyzf lTMDHFM UXVha zcO ekFuJFd HPREkzX deoBeJai tTl ",
+    "reference":"01030"
+  },
+  "trader":"su.943bef63-4879-4020-9125-009b1149073d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":605480,
+    "validationErrorCode":""
+  }
+}

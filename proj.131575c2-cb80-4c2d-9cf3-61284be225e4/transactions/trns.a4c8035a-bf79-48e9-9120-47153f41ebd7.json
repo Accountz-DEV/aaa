@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"85.31539655472402",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:37.365+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-85.31539655472402",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:37.361+01:00",
+    "hidden":false,
+    "id":"trns.a4c8035a-bf79-48e9-9120-47153f41ebd7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rkmaa UEqwBLXfe yGdMIMlRWV yPRRpK uGYOpEk ",
+    "notes":"wzSkg UxkBdkDzHjN QttNttDLefu WWn xfJI YcyNMApkP oBYMvWvP bDx LUe ShRp ",
+    "reference":"85004"
+  },
+  "trader":"su.b2302d94-3ba7-4391-88a1-0e1bfa3173bc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":732380,
+    "validationErrorCode":""
+  }
+}

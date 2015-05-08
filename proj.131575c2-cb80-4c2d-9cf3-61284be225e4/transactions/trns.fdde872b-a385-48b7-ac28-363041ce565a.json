@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"17.680495643859928",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:16.199+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-17.680495643859928",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:16.196+01:00",
+    "hidden":false,
+    "id":"trns.fdde872b-a385-48b7-ac28-363041ce565a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Qzgfs nIuPiBXqPzA imBSrFSuOa XQng BMm ",
+    "notes":"SFJYj QpxJwGVOiE jvhIhESlGJ xGcpnfesFgg ohY sDKbnsvHnW mZxX DKCiQU MgEEgnAYOi vXPIO ",
+    "reference":"10807"
+  },
+  "trader":"su.620fb7ce-590a-4cb8-b628-e342530c8bf9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":711698,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"97.21517936818523",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:06.825+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-97.21517936818523",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:06.827+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:06.823+01:00",
+    "hidden":false,
+    "id":"trns.06c1da59-f4e0-4231-928a-bb165f630e96",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TJI PfznK EYEqudDSnNh FrQUmFSp ScljAw ",
+    "notes":"tMsAoES xcOI opKN tIiECvMOFfP LOBo nBLbS sZahLs VtyGMvyYWI kjPsa AOpsOmujcw ",
+    "reference":"02899"
+  },
+  "trader":"su.22493847-3f99-4917-9089-0fea85d3fa5c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":702770,
+    "validationErrorCode":""
+  }
+}

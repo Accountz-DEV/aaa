@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"2.0735891401354234",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:18.224+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-2.0735891401354234",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:18.225+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:18.221+01:00",
+    "hidden":false,
+    "id":"trns.d453ed90-6f13-45ad-9236-c80556deef72",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ByFXW fkWSKHX rCWqUaPtmi zWneHQk MFd ",
+    "notes":"CAKyZvZU tmDzTKauBH mQZ LKC dYNtS aAHFOk ne HSgLiDhlz STyXP NArpauhIs ",
+    "reference":"58001"
+  },
+  "trader":"su.2f8feadd-434a-44bd-a1ec-3f9e57fd1c9c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":660614,
+    "validationErrorCode":""
+  }
+}

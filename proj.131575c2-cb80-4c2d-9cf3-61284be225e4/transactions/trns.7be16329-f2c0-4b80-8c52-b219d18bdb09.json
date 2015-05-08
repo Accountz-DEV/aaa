@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"13.43638814889313",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.229+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-13.43638814889313",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.231+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:03.225+01:00",
+    "hidden":false,
+    "id":"trns.7be16329-f2c0-4b80-8c52-b219d18bdb09",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"hd yK OyXisQjYEp dnNtSmuizfP bWXmyKUy ",
+    "notes":"rBamaj CWmyqXbz jE QvDgF xKk dsuCV nvZZzit rR QfT PXR ",
+    "reference":"69005"
+  },
+  "trader":"su.4eb00cc8-5940-4dfc-85ee-a4b90ca66717",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":699512,
+    "validationErrorCode":""
+  }
+}

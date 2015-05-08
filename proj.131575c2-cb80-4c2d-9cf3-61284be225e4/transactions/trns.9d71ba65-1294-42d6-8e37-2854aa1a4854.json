@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"92.10992588930674",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:50.908+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"-92.10992588930674",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:50.909+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:50.905+01:00",
+    "hidden":false,
+    "id":"trns.9d71ba65-1294-42d6-8e37-2854aa1a4854",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"HLzTpfPn ESIP PnCyBK MKw oRjP ",
+    "notes":"dBknhkMcf GLEdwKV oLxB DdJXOTrnm UZjvwu bO tcmCAK NKDKnM VDWxKUrm Bu ",
+    "reference":"78132"
+  },
+  "trader":"su.5cd12010-9fa1-4bc1-b2e5-ddfaabdf4f01",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":745088,
+    "validationErrorCode":""
+  }
+}

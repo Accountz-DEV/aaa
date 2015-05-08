@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"15.847085141093785",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-15.847085141093785",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:21.374+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:21.371+01:00",
+    "hidden":false,
+    "id":"trns.9107a798-f53d-4db9-942b-d0886df7e36b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"KblKFtxihBZ fNZezAN Bi ht wwIl ",
+    "notes":"lnyURdsowG BKabRjDm VAaSmyfJgGe GdwWyOA eCNZyzfD EWVbswVUnYq VDyEBGTY QZdGVArbu iRR pf ",
+    "reference":"57101"
+  },
+  "trader":"su.263b1aad-dc5e-450d-ae31-203a3ea5633e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":662918,
+    "validationErrorCode":""
+  }
+}

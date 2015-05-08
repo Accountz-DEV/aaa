@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"5.450820992889771",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:37.698+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-5.450820992889771",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:37.698+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:37.694+01:00",
+    "hidden":false,
+    "id":"trns.5a0c414d-965b-402d-bfa5-0961e27406b1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"MslUrAxE rbUPZSEyA nzH BJuI VduCz ",
+    "notes":"PLyGdrDRbmi wtg eyf tAeG EwM YpjCV uwxhLfwxgz SsSa zea Xgxdf ",
+    "reference":"57722"
+  },
+  "trader":"su.2318ddc0-a9b6-461d-a506-f15f4d05ff5d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":788432,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"60.59627744096902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.202+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-60.59627744096902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.203+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:11.198+01:00",
+    "hidden":false,
+    "id":"trns.44d667e2-3fd9-4a28-820c-11351c8db9ae",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TEIyZwhwe kBSKcfbGB UluBCOBWsbg wgfEle vdYTdjlT ",
+    "notes":"SvBVs zS zSLhYBm RNKcaaE FJh jMJ fCQsLruE aiJU RVXO tuLOK ",
+    "reference":"96152"
+  },
+  "trader":"su.0e691a0a-7c24-4a99-a496-f73f85da78e3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":601088,
+    "validationErrorCode":""
+  }
+}

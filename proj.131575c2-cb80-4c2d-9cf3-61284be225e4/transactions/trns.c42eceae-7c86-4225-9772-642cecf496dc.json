@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"56.45901578487401",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.445+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-56.45901578487401",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.446+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:12.443+01:00",
+    "hidden":false,
+    "id":"trns.c42eceae-7c86-4225-9772-642cecf496dc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ae glYgZJZQF CaCRDbVHjO JoZfT iXHu ",
+    "notes":"BZNVVGOz uZ ttg IDjphyEsN nJmsv YGxAQfx fAFpEGBOCK tADogktsuU kfG aaNSCyqpcI ",
+    "reference":"94392"
+  },
+  "trader":"su.c8cdd387-62dc-4f59-bb0c-cabe2622de7b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":822200,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"48.767605838705485",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:23.624+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-48.767605838705485",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:23.624+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:23.62+01:00",
+    "hidden":false,
+    "id":"trns.96a38390-f783-44b6-8100-04c065d41d65",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-01-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tMnA XPn VTdM FnVwSs wQHisOfhB ",
+    "notes":"nSckiD OgzLFxkOic bJ XWNAimOnqU CHQaXZudi Crbv MwVLJR op JRQdSTx QFL ",
+    "reference":"74637"
+  },
+  "trader":"su.e08cb226-9757-45b4-84fc-48e051e190e3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":832928,
+    "validationErrorCode":""
+  }
+}

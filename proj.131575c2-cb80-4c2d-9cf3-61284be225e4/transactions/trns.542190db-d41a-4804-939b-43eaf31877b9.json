@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"74.48693046642548",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"-74.48693046642548",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:44.465+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:44.461+01:00",
+    "hidden":false,
+    "id":"trns.542190db-d41a-4804-939b-43eaf31877b9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"bODbIxcHb lVRFFi CBk cYnjhYHau dPTthJQuUls ",
+    "notes":"fzwPLR BFByHSZ Yrj wNRjKQojFm dDkCm oTHlrmh KDhPSezP KBKtDxkBgpw hdPxcPeEfy uOL ",
+    "reference":"42325"
+  },
+  "trader":"su.9f13a3b9-f941-4aa5-bd1e-e64079914b4d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":680882,
+    "validationErrorCode":""
+  }
+}

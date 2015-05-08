@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"14.789932367022995",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:32.538+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-14.789932367022995",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:32.539+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:32.536+01:00",
+    "hidden":false,
+    "id":"trns.bcee0454-2a62-4afe-8e61-cd9aa304bb4c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-07-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZkVXpSpwTQF Zwq XJFDI EYMKM Jan ",
+    "notes":"Aud mLi xIQ riEbyzmQhun CDIqxpCKWQ orZAR TxER mIyxYSt qJCS gfj ",
+    "reference":"61026"
+  },
+  "trader":"su.d8ecdc68-d88b-47f6-b3ea-2a88210bf84a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":841064,
+    "validationErrorCode":""
+  }
+}

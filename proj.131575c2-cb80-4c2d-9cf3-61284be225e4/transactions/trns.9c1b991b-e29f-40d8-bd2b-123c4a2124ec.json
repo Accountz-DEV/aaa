@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"22.280962130298963",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:11.981+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-22.280962130298963",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:11.982+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:11.977+01:00",
+    "hidden":false,
+    "id":"trns.9c1b991b-e29f-40d8-bd2b-123c4a2124ec",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wZtWQhLecZa Is IxhVdgsYq DAZnT QMdOn ",
+    "notes":"fgxHqQNUQ rUO VJy gSnM IqWiX SNC mrFtx WzGFcxRV QQmQ QjoHxirYr ",
+    "reference":"75246"
+  },
+  "trader":"su.54225eb4-77e1-4e50-8360-71dc41b30e6f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":653864,
+    "validationErrorCode":""
+  }
+}

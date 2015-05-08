@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"80.44642831128215",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-80.44642831128215",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:03.468+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:03.464+01:00",
+    "hidden":false,
+    "id":"trns.d32b6f95-4dd5-4fc3-8ae9-0ccf13891153",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"oPVT ThRzPLAxHop hvKrJ azZzEWEVyH nwTvOHU ",
+    "notes":"tkTKCOTLz MJfxhURgXq WLgkLFKa PL oMaGquzVj xglsGtP Dpad xoZPcQwH zWKQD sT ",
+    "reference":"46378"
+  },
+  "trader":"su.3cfda3ee-dbe8-436c-90b7-70e28e47f173",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":813614,
+    "validationErrorCode":""
+  }
+}

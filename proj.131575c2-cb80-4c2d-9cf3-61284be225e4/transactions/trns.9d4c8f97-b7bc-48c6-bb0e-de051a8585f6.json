@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"11.702123174298917",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:36.604+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-11.702123174298917",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:36.605+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:36.602+01:00",
+    "hidden":false,
+    "id":"trns.9d4c8f97-b7bc-48c6-bb0e-de051a8585f6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Vvj jsaHY ESkxt cKolNwtfI MTktQiqj ",
+    "notes":"AMoTPcrVr GhsJsd xWEDDhyRRDb PvEPcsiFUw GSBm PRUL FEoEV RV rac WX ",
+    "reference":"21114"
+  },
+  "trader":"su.f802d577-8240-49ce-9a9d-3a8f4f05229e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":730832,
+    "validationErrorCode":""
+  }
+}

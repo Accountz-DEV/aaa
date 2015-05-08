@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"78.17586534582304",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:04.88+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-78.17586534582304",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:04.88+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:04.877+01:00",
+    "hidden":false,
+    "id":"trns.b052f0fa-855d-4a49-84c7-ed4a5be06367",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"IFhMXpW Wpl pCyuyhstoi vonenj tV ",
+    "notes":"htO au cYw YKqWHFsk XPxpUgQ Cc EgB yEZhCSI TVZxt Obmgr ",
+    "reference":"18581"
+  },
+  "trader":"su.a2e04f26-fbfe-4a8b-be70-66b59b9b3e31",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":700880,
+    "validationErrorCode":""
+  }
+}

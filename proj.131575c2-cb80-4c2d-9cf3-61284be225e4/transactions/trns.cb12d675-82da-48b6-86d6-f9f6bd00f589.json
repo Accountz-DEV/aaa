@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"35.77456469321202",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:30.104+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-35.77456469321202",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:30.105+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:30.102+01:00",
+    "hidden":false,
+    "id":"trns.cb12d675-82da-48b6-86d6-f9f6bd00f589",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FuiQLk fIcJMJJY Nd jBBDF GAF ",
+    "notes":"clLSOUvb oDpQ ToQjUQb vpRmLylpMZ VxYqZOgE gWFaFgM pEnfq Ptwd PY PoyuncsTpnE ",
+    "reference":"92360"
+  },
+  "trader":"su.f20fd52b-296c-48e3-a104-2cf3051e1865",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":781250,
+    "validationErrorCode":""
+  }
+}

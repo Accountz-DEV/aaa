@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"48.586827081223404",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-48.586827081223404",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:13.803+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:13.801+01:00",
+    "hidden":false,
+    "id":"trns.646f6cf0-19b8-4bb7-a018-5f7f41ddbf03",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QPPtJtWaFr EEBMxBVBlA cGKGLnhlK vRHItXJInjX jZlgGUSN ",
+    "notes":"LOWbf KmSyo qmSWHvsIHvh AAAREPMrUWX kamqenG RmKPc hEooVXyGod ticW zE gLEIc ",
+    "reference":"78547"
+  },
+  "trader":"su.4c9267aa-1508-4db6-b386-0f97465c9f19",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":546098,
+    "validationErrorCode":""
+  }
+}

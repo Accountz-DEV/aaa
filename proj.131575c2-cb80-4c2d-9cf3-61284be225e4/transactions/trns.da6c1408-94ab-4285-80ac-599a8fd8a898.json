@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"88.89384938395078",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:52.005+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-88.89384938395078",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:52.007+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:52.001+01:00",
+    "hidden":false,
+    "id":"trns.da6c1408-94ab-4285-80ac-599a8fd8a898",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"OjRoQI rCBwryw FSugpTY iaN dUv ",
+    "notes":"bGEkmWVq SjHorduY XRMoCYZZ VMrAsTHt jb Lqz AUor UyZGYGrxbb HlaZ Lg ",
+    "reference":"29926"
+  },
+  "trader":"su.3272f4c5-9a96-4091-9d09-530188af5546",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":859730,
+    "validationErrorCode":""
+  }
+}

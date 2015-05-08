@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"1.9505101545557069",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-1.9505101545557069",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:00.884+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:00.879+01:00",
+    "hidden":false,
+    "id":"trns.4083660b-06ed-4272-8d0c-d472fdfd08da",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-07-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BPrYjRYwbB iUHvpTgKS syCMC OvUELvKpX QXC ",
+    "notes":"hwJpTiB EoejoH oLlwsIhArx ojt yyyIfVOMJ pZSUOdzqelk IxmRxY sYfdyha LuBj xAaIFRtgf ",
+    "reference":"83631"
+  },
+  "trader":"su.c14d21bd-6387-4af9-aaa8-f37cd2eb6d03",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":810662,
+    "validationErrorCode":""
+  }
+}

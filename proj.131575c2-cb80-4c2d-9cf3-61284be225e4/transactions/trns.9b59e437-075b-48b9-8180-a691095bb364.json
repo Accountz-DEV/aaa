@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"75.85075575766652",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-75.85075575766652",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:40.016+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:40.012+01:00",
+    "hidden":false,
+    "id":"trns.9b59e437-075b-48b9-8180-a691095bb364",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UeeNUtcrhkk VvnleEoZPvC gx cGYFRpCWpz dRutE ",
+    "notes":"XUEVcFwmLbZ lUIjxGC OkFLIOJmLi cJfsC mypFeNqMZO vFazDIZAmOs JnMsRk LHilu DMzfynok CeNHUmP ",
+    "reference":"33884"
+  },
+  "trader":"su.feae8988-3ed6-4a9a-93d2-421adbb0b341",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":626828,
+    "validationErrorCode":""
+  }
+}

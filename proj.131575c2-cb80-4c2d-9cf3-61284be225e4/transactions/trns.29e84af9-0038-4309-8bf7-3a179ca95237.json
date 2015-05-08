@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"39.652870686343356",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.679+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-39.652870686343356",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.68+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.676+01:00",
+    "hidden":false,
+    "id":"trns.29e84af9-0038-4309-8bf7-3a179ca95237",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iEDOPLrwA fKqDDFmZC urXqPA diQKMtxzvsa kDwv ",
+    "notes":"FP PLtgURc ojmoBk lLXMJtJ qdwCyDg XehVVfa RfXEb Iru fziQ SBPe ",
+    "reference":"78800"
+  },
+  "trader":"su.a1cf349d-6058-4c95-a1c6-f34d5652294d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679352,
+    "validationErrorCode":""
+  }
+}

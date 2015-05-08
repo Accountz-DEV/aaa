@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"57.5825586038621",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:34.643+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-57.5825586038621",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:34.644+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:34.64+01:00",
+    "hidden":false,
+    "id":"trns.ae7961c4-43bb-401a-82ca-87fa02071ae4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"sFXeO uMsFNTt TYIOI qN CUEmZwrJ ",
+    "notes":"dFggIpiAh ZqrNaDhsivq KECdnarDY Bgt KbL hFjkx rzybolk WkRP xo kgfr ",
+    "reference":"65403"
+  },
+  "trader":"su.08d01f15-6e3a-4905-96ee-ed5e0779bcc5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":622202,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"51.63182487412903",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:14.3+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-51.63182487412903",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:14.301+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:14.296+01:00",
+    "hidden":false,
+    "id":"trns.6f0003fd-58ad-4d21-a9b2-0d66ee97b5d8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ibdJmuLNnj NAQklPv dmsxaW aPLhPHK nHEOQNcLAgx ",
+    "notes":"PTpjiCczR NvivRPU mZGYrgXkdc vYkaD EOprz HqJRT vbkNkInc YGd EU iOdfM ",
+    "reference":"85488"
+  },
+  "trader":"su.f98f83c7-ff6c-442b-8c1a-c7a9a933b2b9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":603122,
+    "validationErrorCode":""
+  }
+}

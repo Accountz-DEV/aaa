@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"16.41434969267115",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:05.277+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-16.41434969267115",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:05.278+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:05.275+01:00",
+    "hidden":false,
+    "id":"trns.b0726958-5ad1-4e5c-a142-86b549a332d2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"pdTpy ZpOXVnOgj ePzrgPC UDykk HUw ",
+    "notes":"aM aRpUn QWSxvjtF gwaLxSDcpKB eUW KHooKShk NVE cf pRkti cRzlugp ",
+    "reference":"92715"
+  },
+  "trader":"su.f07ab1d8-8b02-45b2-aa98-98f36a11d6e2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":872204,
+    "validationErrorCode":""
+  }
+}

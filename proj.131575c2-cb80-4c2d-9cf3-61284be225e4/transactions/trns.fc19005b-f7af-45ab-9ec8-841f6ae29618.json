@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"16.270442505022697",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:54.188+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-16.270442505022697",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:54.189+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:54.184+01:00",
+    "hidden":false,
+    "id":"trns.fc19005b-f7af-45ab-9ec8-841f6ae29618",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Ft OgQwA GRqXnxrht LjMeEqQjy NXBw ",
+    "notes":"aYT fYruVwV doDv JhKPh ED lcCdSX DLPznnz gjA Ix naO ",
+    "reference":"20488"
+  },
+  "trader":"su.1c4991e2-32aa-42ac-ae42-6e995f3bdbfb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":862124,
+    "validationErrorCode":""
+  }
+}

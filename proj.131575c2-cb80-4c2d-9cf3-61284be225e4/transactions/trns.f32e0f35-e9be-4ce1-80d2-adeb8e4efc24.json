@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"10.08347686142802",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:58.082+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-10.08347686142802",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:58.083+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:58.078+01:00",
+    "hidden":false,
+    "id":"trns.f32e0f35-e9be-4ce1-80d2-adeb8e4efc24",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Ep YDtmDAIRc dnUeJXBBl QKcoutvhBu pbRODgK ",
+    "notes":"CWBf bbHxzsDh YK WXmqrr ISTIIscj SKkG AY fzAyW OeA bz ",
+    "reference":"13774"
+  },
+  "trader":"su.54905f4c-926f-492f-9bbc-30e84429c214",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":644126,
+    "validationErrorCode":""
+  }
+}

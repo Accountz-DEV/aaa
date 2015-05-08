@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"7.884363976762787",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:00.224+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-7.884363976762787",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:00.225+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:00.221+01:00",
+    "hidden":false,
+    "id":"trns.e824a3e3-9d01-4a28-9dcb-9f31e653916a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-09-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dds UAZ mrXGLvBJXQP bOu xujA ",
+    "notes":"OqPOOQJ LpQktmyED GIMJTD miJhD LLEkMdhoQ CX TKG LiNORcsmuvr qctfmoVWY AseuLw ",
+    "reference":"78214"
+  },
+  "trader":"su.39120e6e-2000-44a5-aa35-aeaa85223145",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":754160,
+    "validationErrorCode":""
+  }
+}

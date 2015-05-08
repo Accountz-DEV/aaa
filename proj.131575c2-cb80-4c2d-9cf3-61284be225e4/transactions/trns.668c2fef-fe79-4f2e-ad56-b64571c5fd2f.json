@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"12.03773201764362",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:07.203+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-12.03773201764362",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:07.204+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:07.198+01:00",
+    "hidden":false,
+    "id":"trns.668c2fef-fe79-4f2e-ad56-b64571c5fd2f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"DzrWNNayj MgFv Bd NaYuHDB lgQvxASMH ",
+    "notes":"WUmKCIm wawS HQZIBou Iw WogxTdccE grRWhy uzBuZKr fci CofyxISJ VGUskg ",
+    "reference":"95413"
+  },
+  "trader":"su.0bdd4775-1c34-41e9-b7df-1f362158695c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":596840,
+    "validationErrorCode":""
+  }
+}

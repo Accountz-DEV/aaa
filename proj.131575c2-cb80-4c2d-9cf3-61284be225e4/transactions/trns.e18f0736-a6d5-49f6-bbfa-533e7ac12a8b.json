@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"79.6522823981088",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:59.996+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"-79.6522823981088",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:59.997+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:59.993+01:00",
+    "hidden":false,
+    "id":"trns.e18f0736-a6d5-49f6-bbfa-533e7ac12a8b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"zKK BBckhArSSlN ZVn lkSayRCUCW jZNdUF ",
+    "notes":"dbtB iuINl nFsF TXVD OYbxwOsKxAo CODyfKrsp JBuU fpVuAs EFIcMTpCY BnGCh ",
+    "reference":"03385"
+  },
+  "trader":"su.ae6c0f7f-e7b9-4239-8278-1229cc4ac0bb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":753692,
+    "validationErrorCode":""
+  }
+}

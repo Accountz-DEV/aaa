@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"23.288594415660157",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:59.018+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"-23.288594415660157",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:59.019+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:59.015+01:00",
+    "hidden":false,
+    "id":"trns.d749c79f-2223-4843-8f09-5f97621651b0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LXUJFzYH rYLbPZaBN qWrSU IatnH lH ",
+    "notes":"LTLvKiJMb WEekzMq dkIyg uzOE Bg zetqcc rWYCSkR RFjqjtQNz ATb KcD ",
+    "reference":"68835"
+  },
+  "trader":"su.e2e1898b-11ef-46ec-99c7-db4c6fd1f61b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":809132,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"81.63122424305053",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.444+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-81.63122424305053",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.445+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:05.441+01:00",
+    "hidden":false,
+    "id":"trns.f836879e-92a0-44fa-9d56-11e127fce255",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"gPOh DqiflXd LfKqzDDMQj XahEwRpD xzXxapa ",
+    "notes":"cDC BCxFWBv uCu gMjCraMNGIt truoRFdOg xQM Oz fHWqf CIYM fjQG ",
+    "reference":"09160"
+  },
+  "trader":"su.1726a1ef-4173-47f8-9146-e4afce8f3877",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":758084,
+    "validationErrorCode":""
+  }
+}

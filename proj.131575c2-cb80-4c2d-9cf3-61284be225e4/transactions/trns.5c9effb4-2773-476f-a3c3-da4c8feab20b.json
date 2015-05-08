@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"91.13079457129221",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:21.719+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-91.13079457129221",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:21.72+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:21.715+01:00",
+    "hidden":false,
+    "id":"trns.5c9effb4-2773-476f-a3c3-da4c8feab20b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CUlkP HTJbyrt bIinmLKzF PrHGZt yJ ",
+    "notes":"WEMZJMXO dNBr TyGPT LUzOcC okewSaxD MwBx uJxLztZLA AEteNMpJJ bYL Eno ",
+    "reference":"42337"
+  },
+  "trader":"su.6f0b1db1-cc3e-49fd-b694-70b8e5f428d7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":716720,
+    "validationErrorCode":""
+  }
+}

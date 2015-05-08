@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"14.79734800091932",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:05.205+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-14.79734800091932",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:05.206+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:05.201+01:00",
+    "hidden":false,
+    "id":"trns.ee84fce8-f04f-4c34-aa14-e2ab9b7a2fbf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-07-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PVCyrlqbF CjEJzwcuAV vsPDHRt tiFbbI MxbLoWS ",
+    "notes":"TcYqsuxmA QEFXvgoLFs JpN TgkcjbBF JADAHI DrbQPnJ cY nahqoJSWsw At bVyeO ",
+    "reference":"72643"
+  },
+  "trader":"su.c14e248c-625f-4526-b045-e71181bb1c9b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":701582,
+    "validationErrorCode":""
+  }
+}

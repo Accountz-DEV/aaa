@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"77.49305799823932",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:29.291+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-77.49305799823932",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:29.288+01:00",
+    "hidden":false,
+    "id":"trns.acb21c88-158d-457a-8ec8-e0f812b0ea11",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ABuOCKQ zHuoNMM DTvhYf LWss JrngZyZ ",
+    "notes":"emBjCwueoaA pztATxT gvhqI oBN JRwjxQqO Wq QzlqMTEpzSl ZSAR cYLz PHS ",
+    "reference":"78229"
+  },
+  "trader":"su.4ef36ae1-a9e6-41fc-a7db-80dcd490c607",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":838454,
+    "validationErrorCode":""
+  }
+}

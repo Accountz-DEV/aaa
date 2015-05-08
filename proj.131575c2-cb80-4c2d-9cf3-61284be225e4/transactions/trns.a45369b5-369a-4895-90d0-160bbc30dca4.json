@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"32.57845129233763",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:10.01+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-32.57845129233763",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:10.011+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:10.008+01:00",
+    "hidden":false,
+    "id":"trns.a45369b5-369a-4895-90d0-160bbc30dca4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aCz BINiHnZ AlTr VvzaUEFof wn ",
+    "notes":"BNeZSQgdecD chqGzcrx yiafrcTFo aGBvUtZ RrHGMPSmg NTjI psJ qh BXg cT ",
+    "reference":"15272"
+  },
+  "trader":"su.48a3e292-c972-45ca-bbf3-6a2fbd4ea120",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":542552,
+    "validationErrorCode":""
+  }
+}

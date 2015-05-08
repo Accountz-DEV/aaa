@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"19.3368799955131",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:52.161+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-19.3368799955131",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:52.161+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:52.159+01:00",
+    "hidden":false,
+    "id":"trns.09f85542-7e01-4154-8b21-67f520c1f9e3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WAhAS TKsKDLQqG IAoThPPz atkqsEVQM mvYvAvfBz ",
+    "notes":"POqugzG iO PiWicZxPXZ CLm mUPQqsckD PhysR eZMNrsHpo xpkfxbK ZlbM yWjDnI ",
+    "reference":"97123"
+  },
+  "trader":"su.64e9e519-d764-437f-abee-9f2b972b3088",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":582602,
+    "validationErrorCode":""
+  }
+}

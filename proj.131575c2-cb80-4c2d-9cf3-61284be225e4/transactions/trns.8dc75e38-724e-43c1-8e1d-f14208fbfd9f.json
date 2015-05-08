@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"36.97676543876959",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-36.97676543876959",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:59.646+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:59.642+01:00",
+    "hidden":false,
+    "id":"trns.8dc75e38-724e-43c1-8e1d-f14208fbfd9f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"UdE SDh iXnDzFWrHGy OWJTmou vSVLTiE ",
+    "notes":"upkbyo NBWcZXwQz FyuoxC SHVCRNhSgcY jysbyvt GxKGLVaCA RHo QkUxeGpbBnP Nru cSbZiY ",
+    "reference":"06631"
+  },
+  "trader":"su.9044de8b-2e7b-404a-9882-b1219d28fb18",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":589766,
+    "validationErrorCode":""
+  }
+}

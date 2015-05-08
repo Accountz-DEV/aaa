@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"59.01479376975316",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-59.01479376975316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:31.105+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:31.103+01:00",
+    "hidden":false,
+    "id":"trns.0b8aceb7-695b-41d1-945c-39cd462716ec",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Xm MDmHlDyqxeG PTGbCnKs dBR TY ",
+    "notes":"hOCkVuDvau jtFDOhscF XlzokzDFds aJW JcjBeZrgX HMStZPTbZwZ OyhERh mMVlUc ozy Pt ",
+    "reference":"71057"
+  },
+  "trader":"su.0c26ed72-6c32-4e0a-b6bd-db1fe3491b9c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":562622,
+    "validationErrorCode":""
+  }
+}

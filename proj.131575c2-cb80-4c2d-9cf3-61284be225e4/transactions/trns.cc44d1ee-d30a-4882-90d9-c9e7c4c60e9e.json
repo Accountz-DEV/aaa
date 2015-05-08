@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"73.24304964466515",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-73.24304964466515",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:00.973+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:00.968+01:00",
+    "hidden":false,
+    "id":"trns.cc44d1ee-d30a-4882-90d9-c9e7c4c60e9e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"wFChoLS gUKTWxZ AlNbVP msiXyLYqHK PCDT ",
+    "notes":"aOUOyIBqR wHDzu UQbOAWK CxZigijY Ak mmxOBzLloSG Bkc xHRFjNDdNlL cBccF BFHIVI ",
+    "reference":"29261"
+  },
+  "trader":"su.a796ae0b-13fd-4c38-84dc-87ef9872f2a2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":696974,
+    "validationErrorCode":""
+  }
+}

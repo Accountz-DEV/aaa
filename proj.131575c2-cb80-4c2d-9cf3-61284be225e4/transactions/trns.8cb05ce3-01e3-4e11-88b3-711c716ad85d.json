@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"60.322697816008564",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:01.911+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-60.322697816008564",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:01.912+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:01.909+01:00",
+    "hidden":false,
+    "id":"trns.8cb05ce3-01e3-4e11-88b3-711c716ad85d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BC iDIEv QmdTYnBJrI lzO ERcwJrwg ",
+    "notes":"ccNv wR QuOqxf iXiVjDPafM bvhhduhq os mo AjaF UQ JRGMPFqex ",
+    "reference":"76974"
+  },
+  "trader":"su.5ee98c5b-1878-4a7b-b369-97b9da03510d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":592196,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"14.590299472602952",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:06.711+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-14.590299472602952",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:06.708+01:00",
+    "hidden":false,
+    "id":"trns.baaffd4d-0ab6-45c1-b4b7-51c6443d2eb7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gCMAtAEosO fsqxTbNWnwQ WQbFOVdU aj sWcLKZVddAW ",
+    "notes":"HeNpyiFgaC FWbRaOd VDnkJo hGW MzqOy mgLBYyrpYLG mpGsy tpdWrt guroLHDQSn uCJ ",
+    "reference":"13730"
+  },
+  "trader":"su.46b8071c-befc-491a-ae43-57a07c51efc6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":702446,
+    "validationErrorCode":""
+  }
+}

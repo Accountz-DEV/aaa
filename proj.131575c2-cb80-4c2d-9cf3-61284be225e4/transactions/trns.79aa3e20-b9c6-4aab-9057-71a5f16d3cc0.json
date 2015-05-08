@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"81.24538326160187",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:55.942+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-81.24538326160187",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:55.943+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:55.939+01:00",
+    "hidden":false,
+    "id":"trns.79aa3e20-b9c6-4aab-9057-71a5f16d3cc0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"AnvCb BkTUzPJqwhx ROtTPgO lkczGG umAhXE ",
+    "notes":"KPBit woyrB tAvsZzoY FyWCO kse tPRHyCSKB lEHXXp ndZuip SlHc TEKdj ",
+    "reference":"88796"
+  },
+  "trader":"su.496b804b-d456-424b-8083-7d885487d7ce",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":749390,
+    "validationErrorCode":""
+  }
+}

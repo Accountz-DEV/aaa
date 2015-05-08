@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"42.3895177679222",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-42.3895177679222",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:01.51+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:01.506+01:00",
+    "hidden":false,
+    "id":"trns.d93601eb-b302-41fb-a6e0-bcdad8658d68",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dZgn CWfjquiXZ CowxTQjWBQ wrksEInAfH EGBeLLfw ",
+    "notes":"WQh MOXS crbaPyDKw zdTLwH DwfsEllQa QPmJkNRsCsg QoYKybDRX cnapBzt dkcGPyVgJcB WRFd ",
+    "reference":"93172"
+  },
+  "trader":"su.d2999024-e2d2-4d92-b956-10d6dead18a4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":868712,
+    "validationErrorCode":""
+  }
+}

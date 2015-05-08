@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"21.860793311193603",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:35.564+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-21.860793311193603",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:35.565+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:35.56+01:00",
+    "hidden":false,
+    "id":"trns.e3d14e0b-280b-4f9e-9aaf-88e694257333",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JVI Of VNq AgqfQXvbFsc itPHti ",
+    "notes":"BBfD vWipqQRKIF GvPiCFtA uwgR RFnGKXUt tMAnxkpFpRE QTX GdTIBOSD BttwuQm JLXayOt ",
+    "reference":"40489"
+  },
+  "trader":"su.ee45ef9f-eea5-4f89-87ad-9825f82bb7fd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":674042,
+    "validationErrorCode":""
+  }
+}

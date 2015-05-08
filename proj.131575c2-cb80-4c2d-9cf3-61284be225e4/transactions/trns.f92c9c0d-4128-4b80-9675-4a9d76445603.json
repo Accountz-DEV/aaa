@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"98.88927639187412",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-98.88927639187412",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:48.415+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:48.411+01:00",
+    "hidden":false,
+    "id":"trns.f92c9c0d-4128-4b80-9675-4a9d76445603",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gKu KrHIhDp jMCIFI qxDCGBN hTHU ",
+    "notes":"bJTVE CyDzKql IZBZbUhCXo bdJwzdyPl XwckqKH WbmmNEnlpy BLAmCxEHA vKUolFAI jpvE cKlc ",
+    "reference":"05291"
+  },
+  "trader":"su.7ff19592-677d-4526-83b8-40501c7ce0bb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":635252,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"13.977649205402386",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.566+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-13.977649205402386",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:13.563+01:00",
+    "hidden":false,
+    "id":"trns.6bbbf83a-7335-429e-bc73-e91d300a808f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-09-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"eacGp NmGIUagV GLzbDIOViK iXwbrZZXY sgTME ",
+    "notes":"XhvOpe fqqrRyakK jMJYCbHuEmB rWyiQWFcH lrvxak FGHhW brKnraBuY McsZubbbsuk fboLpt gGDVH ",
+    "reference":"95837"
+  },
+  "trader":"su.b8dfb9b9-a47b-487a-8c95-85698d8f4b19",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":766490,
+    "validationErrorCode":""
+  }
+}

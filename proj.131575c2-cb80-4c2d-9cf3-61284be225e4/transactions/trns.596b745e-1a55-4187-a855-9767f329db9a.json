@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"76.16733721269726",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:42.068+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-76.16733721269726",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:42.069+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:42.063+01:00",
+    "hidden":false,
+    "id":"trns.596b745e-1a55-4187-a855-9767f329db9a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"hZTURakYXA QCvtjLbY GbbU JodKnZ QL ",
+    "notes":"KKzbeqikgbN EAEkOO qChLzouLRf FFVGP PwxTX JeHA AKW biSHYRWexF pIYUDCAbwa lvW ",
+    "reference":"42006"
+  },
+  "trader":"su.c56f2ce7-2246-46a5-8332-eb0f65722dd7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":628808,
+    "validationErrorCode":""
+  }
+}

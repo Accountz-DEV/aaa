@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"69.02511129354333",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:45.921+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-69.02511129354333",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:45.922+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:45.918+01:00",
+    "hidden":false,
+    "id":"trns.83383fb1-0819-4a41-ba91-cae15b938d6d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UtrOc XB sKnp CQOzVkJE WTGhn ",
+    "notes":"ZHRWZeupQv bpeZ pwwAc UVh AREogixyqPr ComuFPXdPi iVNDpc GlFK nZb AbMRhRtsgl ",
+    "reference":"92902"
+  },
+  "trader":"su.ef70660c-f592-44d5-860c-6e7219112d35",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":576572,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"73.43535185853682",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.302+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-73.43535185853682",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.303+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:12.299+01:00",
+    "hidden":false,
+    "id":"trns.58817321-9169-4932-af00-62cc244332b8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tOkzI AJfpKgjQ IYsTAm osaNJ pmle ",
+    "notes":"PhKIJVb Ok rLRdP TJeCaEsH Oyjpcbqu OCw hrkd XrkDDM hmrMk UBiG ",
+    "reference":"59132"
+  },
+  "trader":"su.28efa81a-962d-4f0f-a14c-f48753f938d8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":821876,
+    "validationErrorCode":""
+  }
+}

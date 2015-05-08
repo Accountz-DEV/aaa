@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"1.7029763566813405",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-1.7029763566813405",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:09.886+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:09.882+01:00",
+    "hidden":false,
+    "id":"trns.f5485c41-23e8-4289-921d-b2a7dbbf348a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"OKXBFPCHd PajYrVh vcD pxowEKTm EGdKNLjNBK ",
+    "notes":"nkeFiBnqsdr caJPs mVX GpRExxeped hAqfktNmiB ZlXk dFySh EdsZloAR Nxhry JnBzU ",
+    "reference":"75444"
+  },
+  "trader":"su.b704e8d8-22f6-47f4-8773-9234aed72a7a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":763016,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"95.56300731777137",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:44.191+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-95.56300731777137",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:44.193+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:44.187+01:00",
+    "hidden":false,
+    "id":"trns.841c946b-23b5-4a91-8961-05345a941235",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SGk dplVAwcJ kETZgEgoU qfD Ec ",
+    "notes":"BN cO SJiRRUmSkL pv GuINDQBtGi EV XvIu ytZBgLymva MScvVA gcfX ",
+    "reference":"88885"
+  },
+  "trader":"su.62a02cd3-f1f5-4359-a0f1-3591cfdb6c50",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":795542,
+    "validationErrorCode":""
+  }
+}

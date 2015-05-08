@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"18.642845515638797",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:20.624+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-18.642845515638797",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:20.625+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:20.62+01:00",
+    "hidden":false,
+    "id":"trns.dd84e239-76bc-4e46-a0e3-5b205924e587",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SmBUcosABhW QLZkajVNcku LiwACPiJba tZ uEFEhT ",
+    "notes":"IGUdhUV Rel fcBWQpbJ yoEzFcEpy eSmHaX nDCLgiGBs TJTxf HYe CRV Nqx ",
+    "reference":"07096"
+  },
+  "trader":"su.c489cfe4-f985-4581-957b-1c3578206413",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":609746,
+    "validationErrorCode":""
+  }
+}

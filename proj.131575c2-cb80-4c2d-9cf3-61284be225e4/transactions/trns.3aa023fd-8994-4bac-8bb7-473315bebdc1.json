@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"15.583633742316128",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:36.48+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-15.583633742316128",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:36.481+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:36.478+01:00",
+    "hidden":false,
+    "id":"trns.3aa023fd-8994-4bac-8bb7-473315bebdc1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qp SWsofvQMLcv jyBDlDSi TSzJBAiHY EuARQb ",
+    "notes":"axwoIDpWAO jQttrmB KXWWLqqDdZY cnFlCa xNty LKV lkpkyZkP jMU msQYUIYKrzB FIdK ",
+    "reference":"12556"
+  },
+  "trader":"su.fbe8899d-fb6e-4afe-b96c-888dd48a1f1f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":844790,
+    "validationErrorCode":""
+  }
+}

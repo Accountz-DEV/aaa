@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"19.07862690191108",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-19.07862690191108",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:59.313+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:59.309+01:00",
+    "hidden":false,
+    "id":"trns.aae98e26-e215-42c1-9312-4d4d8b6239f7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kRKjx iwesUBbHgO JuzSIjd ghnMouTwt sFtxpVu ",
+    "notes":"Xj qbWsEsTMX cYvjOv wZKKg jec BQGTo pwT OiYaIZ RIbcGrq WxW ",
+    "reference":"48246"
+  },
+  "trader":"su.0e691a0a-7c24-4a99-a496-f73f85da78e3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":589172,
+    "validationErrorCode":""
+  }
+}

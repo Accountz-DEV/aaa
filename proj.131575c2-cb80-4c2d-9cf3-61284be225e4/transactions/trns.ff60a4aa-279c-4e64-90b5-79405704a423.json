@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"12.42675091489389",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:56.082+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-12.42675091489389",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:56.083+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:56.078+01:00",
+    "hidden":false,
+    "id":"trns.ff60a4aa-279c-4e64-90b5-79405704a423",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QPANG evZN GUswmd BQCtLN mbjCtgO ",
+    "notes":"mILdW yYCNetXi ipvdxZJ mZuWh RdvC qO UG SoE gRq Xe ",
+    "reference":"71485"
+  },
+  "trader":"su.525b4eb0-34ba-4216-8ed6-1d45e8a9ee12",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":692942,
+    "validationErrorCode":""
+  }
+}

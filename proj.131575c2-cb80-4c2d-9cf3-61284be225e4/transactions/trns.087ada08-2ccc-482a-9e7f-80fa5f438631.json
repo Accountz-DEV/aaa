@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"20.164926969815276",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:15.593+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"-20.164926969815276",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:15.593+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:15.587+01:00",
+    "hidden":false,
+    "id":"trns.087ada08-2ccc-482a-9e7f-80fa5f438631",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"VmGHkUvUjA ZgxuLANrnXQ sIKhzuiIs Iyuwhmjd ZOJAJojbRID ",
+    "notes":"AUEYYEW BRL pKBTcxqvh ExtenwwI vdRt gYr KTO NTAZ jPX RlNkhvY ",
+    "reference":"16742"
+  },
+  "trader":"su.098e49e3-3ff5-4880-a04f-2160d445a983",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":768578,
+    "validationErrorCode":""
+  }
+}

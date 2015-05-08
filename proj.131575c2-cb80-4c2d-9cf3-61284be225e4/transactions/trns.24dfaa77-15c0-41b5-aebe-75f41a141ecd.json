@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"26.525281428691628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:57.38+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-26.525281428691628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:57.381+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:57.377+01:00",
+    "hidden":false,
+    "id":"trns.24dfaa77-15c0-41b5-aebe-75f41a141ecd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"XcCbgKQJNV GUsPHz RsHyydKU eJb lFjEBuDrhJh ",
+    "notes":"KCmspqz urComchs HJRv bbgsePOR fHvVQrDPT RCLED zlWUM Ci ppbMsigamz mgLHuw ",
+    "reference":"97683"
+  },
+  "trader":"su.10e796f7-ed6f-45f0-9f25-831b79474b7e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":864122,
+    "validationErrorCode":""
+  }
+}

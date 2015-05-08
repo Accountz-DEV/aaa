@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"23.814766705562985",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:46.295+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-23.814766705562985",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:46.296+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:46.293+01:00",
+    "hidden":false,
+    "id":"trns.1ee234e9-4103-4c7b-8f4d-74da7495ab24",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-14T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"URALFMDa vGhKiwCS zowRS gLub RznN ",
+    "notes":"GErWjrlw fr ZcCrNCHZ VfZEP LkrUrZC uBqE fry fx ovXFDO UZvwD ",
+    "reference":"92388"
+  },
+  "trader":"su.a31d64e2-4295-4d16-b1ac-85926f47ee29",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":682664,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"53.475915235409644",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:31.069+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-53.475915235409644",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:31.065+01:00",
+    "hidden":false,
+    "id":"trns.586edf37-ed53-4502-ba2f-f64b63c0cd7b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ywXE HczkugdSu beGvQXFzpu aAsCDohOeA NZUJ ",
+    "notes":"FoNdUEh yMFgoRYOSis dzncYGLyuNp liKThpARGs zqhUfM ICS SbOsQCcBKqS UIyrnv cWK RrIjtGmlfL ",
+    "reference":"02116"
+  },
+  "trader":"su.8922d520-95c5-4f21-9574-de5ea245076f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":840074,
+    "validationErrorCode":""
+  }
+}

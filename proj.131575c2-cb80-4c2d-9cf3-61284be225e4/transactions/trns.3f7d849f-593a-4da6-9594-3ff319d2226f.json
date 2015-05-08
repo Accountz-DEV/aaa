@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"91.99531455158605",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:14.453+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-91.99531455158605",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:14.454+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:14.451+01:00",
+    "hidden":false,
+    "id":"trns.3f7d849f-593a-4da6-9594-3ff319d2226f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"eCxt av vEOazuzC LtOIyo gGPxHPwxWWL ",
+    "notes":"eimAceV TsQ hQrEY qObSGtporCy UQ rTrIRBcHg zAp PaFysYm VMbRKaTpYnd intEUK ",
+    "reference":"40295"
+  },
+  "trader":"su.baaffc39-8c01-4519-901e-551df9f5e257",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":656726,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"98.9488631869277",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-98.9488631869277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:06.245+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:06.242+01:00",
+    "hidden":false,
+    "id":"trns.6cd14363-2dce-4150-9f51-f9f2e68ef871",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-09-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"cXGYsKHNpkj NPQOoTxMn EVNPgWQ KvXpy mHaYYESQt ",
+    "notes":"UWW ZJwIa ghsLpjGRV QlWnuWK hOSozRbRme dac ZBMJLrb SYTPEkueo kD ruLiM ",
+    "reference":"53871"
+  },
+  "trader":"su.bd8e5915-dda8-4cc3-9b90-fce5309f1173",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":648104,
+    "validationErrorCode":""
+  }
+}

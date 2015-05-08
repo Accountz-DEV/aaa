@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"60.48370320533287",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-60.48370320533287",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:35.589+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:35.584+01:00",
+    "hidden":false,
+    "id":"trns.251a2991-e5e3-4720-9e41-1acb9f2faa3b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qBbYXheW yDlwWeGWWgL SoyRzekQyDa BbdwVQRqYl VppDYYNrWqv ",
+    "notes":"jIOfLLlsPA mGXMswhy jjN uWujITj NWYpnuy rU kbbCRVcgtce ajcNA YCqXAd EXt ",
+    "reference":"94864"
+  },
+  "trader":"su.b821d6da-23ad-4642-8d12-8e8239f05692",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":674078,
+    "validationErrorCode":""
+  }
+}

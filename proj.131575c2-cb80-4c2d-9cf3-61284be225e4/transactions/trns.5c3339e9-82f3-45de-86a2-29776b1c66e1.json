@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"30.53367231504054",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:02.802+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-30.53367231504054",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:02.803+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:02.799+01:00",
+    "hidden":false,
+    "id":"trns.5c3339e9-82f3-45de-86a2-29776b1c66e1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"AsqkMHMueT SvGNLqmVG oTdIiBzzQtn SDJUIfb KwlKn ",
+    "notes":"MPqrgXrC kAFiImf BCAWtkk BY WM vSEd mab ikjX dXhc LIAyYvu ",
+    "reference":"60294"
+  },
+  "trader":"su.a77acb83-fe6e-4b88-a3c1-3aee72c48773",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":698846,
+    "validationErrorCode":""
+  }
+}

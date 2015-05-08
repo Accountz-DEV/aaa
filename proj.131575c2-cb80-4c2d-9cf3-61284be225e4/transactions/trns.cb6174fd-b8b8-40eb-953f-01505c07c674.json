@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"85.73623106702809",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-85.73623106702809",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:02.995+01:00",
+    "hidden":false,
+    "id":"trns.cb6174fd-b8b8-40eb-953f-01505c07c674",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FlUGzF caxYsfRJG LJuGBQ qUGbdPCcV XnW ",
+    "notes":"FcxJUjxpna GxidEmxsiS mGoEZk hIoXTzFnoR JGbPsmMQ xiVtpYHjJl FODuDoyE ImuCt xEXb pCLgCpvohQ ",
+    "reference":"29331"
+  },
+  "trader":"su.be78049b-09c5-42dc-adb9-7dac6ce2a5ee",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":699170,
+    "validationErrorCode":""
+  }
+}

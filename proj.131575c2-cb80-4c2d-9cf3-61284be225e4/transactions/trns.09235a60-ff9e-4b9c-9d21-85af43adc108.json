@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"62.32361001270825",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:32.614+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-62.32361001270825",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:32.608+01:00",
+    "hidden":false,
+    "id":"trns.09235a60-ff9e-4b9c-9d21-85af43adc108",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iGTcd hsxfrAEkn ZKauvQEfrPX GA LWZfEEQyN ",
+    "notes":"hCk iVuDrZJBL oPwQGe kiBFSqxVzy luwZkR YlJMdRZA pQWV MQntezpUoT hBbBQFc Bllk ",
+    "reference":"84200"
+  },
+  "trader":"su.b7763245-09c6-4c81-a8d6-36e082277fb8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":563702,
+    "validationErrorCode":""
+  }
+}

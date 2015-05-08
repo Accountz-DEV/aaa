@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"30.95353538367711",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-30.95353538367711",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.497+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:24.494+01:00",
+    "hidden":false,
+    "id":"trns.742a7f97-7eb0-4fa7-9b4b-3a570adb5e51",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-09T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"qItVrs jKLcNasl CJEgMWePLyb eUVOGmokL CYdNXdIAW ",
+    "notes":"uPQn okikNgldAL bE bddRczfq IeuvpipD sJuBXhxVZ kvvYyMkqW FxDHgsokJ xoBouo Xiqxt ",
+    "reference":"26351"
+  },
+  "trader":"su.828e46da-f72f-4a61-920f-2673db5d296b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":889772,
+    "validationErrorCode":""
+  }
+}

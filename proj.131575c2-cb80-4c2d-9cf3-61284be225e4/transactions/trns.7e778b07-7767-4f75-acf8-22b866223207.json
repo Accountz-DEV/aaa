@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"78.38613978348002",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:08.863+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"-78.38613978348002",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:08.864+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:08.86+01:00",
+    "hidden":false,
+    "id":"trns.7e778b07-7767-4f75-acf8-22b866223207",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tgC NJfJ ngxmJpi MdSGQ xuevSZJkcc ",
+    "notes":"AMbtbvz WMkZdWzj BVHfckq mdIPhoDgSC ycTJo lNjs rkB SOge zQATOuG ocCMC ",
+    "reference":"88855"
+  },
+  "trader":"su.3728455a-2ad2-44e8-82bd-9827ebb4a1ae",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":818978,
+    "validationErrorCode":""
+  }
+}

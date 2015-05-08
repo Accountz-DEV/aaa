@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"87.44897500007374",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:07.7+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-87.44897500007374",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:07.701+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:07.698+01:00",
+    "hidden":false,
+    "id":"trns.db1c9e02-8749-4d7f-9af2-347705e69f38",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-09-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"McQGc SqLHZ shCAFzS hUZKpISy NDWxvPhB ",
+    "notes":"uv uAL PNteAeEaSCD lxhzgiV defzIWpsft DitZlOed kHXB gz Bj lsC ",
+    "reference":"02622"
+  },
+  "trader":"su.c185f4d0-6112-45f0-8fbd-7d1ff3340bc4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":760694,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"96.65675951586562",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:23.952+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-96.65675951586562",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:23.952+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:23.949+01:00",
+    "hidden":false,
+    "id":"trns.ed029723-5fd5-4e83-946b-f5d067c3d79d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PgUc peF bvVDhHX RQOoNCAjZfM OVf ",
+    "notes":"copr gl kmzDOGX IKmmKbocawL iSCs nJbSrLK tOsjCJ tbGYVT ylViN dMnc ",
+    "reference":"01498"
+  },
+  "trader":"su.7da1640e-1465-4b3d-b837-197768ca6aa1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":719348,
+    "validationErrorCode":""
+  }
+}

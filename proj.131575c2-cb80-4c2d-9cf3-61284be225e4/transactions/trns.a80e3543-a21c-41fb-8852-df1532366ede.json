@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"88.49124240690493",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:48.442+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-88.49124240690493",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:48.443+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:48.439+01:00",
+    "hidden":false,
+    "id":"trns.a80e3543-a21c-41fb-8852-df1532366ede",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"UXpGYFz mBA itmx RlpGv gktF ",
+    "notes":"QeoA GBiYWu CKhgkAvh KyJ QdvNs puHURcCXIKG pelKZRMZZI tcrGy HRG adeCU ",
+    "reference":"44097"
+  },
+  "trader":"su.3b473fd6-e6b1-473b-962e-370e57f22f66",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":635306,
+    "validationErrorCode":""
+  }
+}

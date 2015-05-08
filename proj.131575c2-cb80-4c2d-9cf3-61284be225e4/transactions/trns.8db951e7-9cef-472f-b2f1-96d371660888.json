@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"60.96312071213652",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.053+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-60.96312071213652",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.054+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:13.05+01:00",
+    "hidden":false,
+    "id":"trns.8db951e7-9cef-472f-b2f1-96d371660888",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-08-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"xKImqd QvbpHikEcim WFDngRBJ kWBXna wGsjrc ",
+    "notes":"xtqgFxa OnLRcabof LbKBIDWUpB PkuKT VCl Jn RaV BAWnej PtjkVmz aV ",
+    "reference":"17522"
+  },
+  "trader":"su.5d39f6a0-5daf-4cb2-a7d0-7d61ec763c95",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":765230,
+    "validationErrorCode":""
+  }
+}

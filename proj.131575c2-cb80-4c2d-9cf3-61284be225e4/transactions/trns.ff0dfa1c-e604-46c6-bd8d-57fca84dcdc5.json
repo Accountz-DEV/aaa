@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"36.601666975138706",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:29.384+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-36.601666975138706",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:29.385+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:29.381+01:00",
+    "hidden":false,
+    "id":"trns.ff0dfa1c-e604-46c6-bd8d-57fca84dcdc5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PX NVWezzwtyDg oBSfKnCCV iOLrZkEi yk ",
+    "notes":"bXnyEsWCIfP AQJb QNEh QmcIMEow VMGNyr gQIpbcFWV DWT QQNs ZkFy iWEiwgDamad ",
+    "reference":"83425"
+  },
+  "trader":"su.dc734fb7-d4b1-436a-b0ea-a14bd5b28f49",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":838670,
+    "validationErrorCode":""
+  }
+}

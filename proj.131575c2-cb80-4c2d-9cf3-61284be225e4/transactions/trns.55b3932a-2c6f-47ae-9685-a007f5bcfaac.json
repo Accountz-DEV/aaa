@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"53.980828525617795",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:02.985+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-53.980828525617795",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:02.985+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:02.983+01:00",
+    "hidden":false,
+    "id":"trns.55b3932a-2c6f-47ae-9685-a007f5bcfaac",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"le ETHdldG LjgUcJmNiU Qh jMVBr ",
+    "notes":"VigO JaAmxK TIfuX vDYpY kLSvGE FYqfjZV mSl PasBdC YKcZf VU ",
+    "reference":"61847"
+  },
+  "trader":"su.4f195c19-e9f2-44f5-9bc9-eb2928104735",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":592322,
+    "validationErrorCode":""
+  }
+}

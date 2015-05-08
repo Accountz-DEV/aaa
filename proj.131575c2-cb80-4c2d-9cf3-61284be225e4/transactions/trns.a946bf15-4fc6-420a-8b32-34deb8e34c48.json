@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"99.47981347753444",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:53.604+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-99.47981347753444",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:53.605+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:53.6+01:00",
+    "hidden":false,
+    "id":"trns.a946bf15-4fc6-420a-8b32-34deb8e34c48",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"LVCyblx TSfI PhtbNJ bcSebK twUBGcNL ",
+    "notes":"UC Udu ockMEzG gAU qAbp lAattmBaqH WhrlHrCnY wc kzSwm bAVBBY ",
+    "reference":"13077"
+  },
+  "trader":"su.4d550b44-3bb9-43bd-b986-eb5082b6bf7f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":804416,
+    "validationErrorCode":""
+  }
+}

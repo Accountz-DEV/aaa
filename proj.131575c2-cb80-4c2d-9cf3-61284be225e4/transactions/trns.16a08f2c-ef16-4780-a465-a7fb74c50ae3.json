@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"55.94406229960816",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-55.94406229960816",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:04.607+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:04.602+01:00",
+    "hidden":false,
+    "id":"trns.16a08f2c-ef16-4780-a465-a7fb74c50ae3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"EsmUYxFuQym QqNtAAWR blhDZEt oeCrSZgElK oj ",
+    "notes":"fYli eCzsv dDjPKlrOnps hLSzrpMm tvKbuYWjWhn dD wFlqpd Eg KEP kTNMb ",
+    "reference":"45362"
+  },
+  "trader":"su.16c3b1af-649b-430c-9b8e-eb2fc7b5e3c5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":537566,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"42.69624112315722",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:55.837+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-42.69624112315722",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:55.838+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:55.835+01:00",
+    "hidden":false,
+    "id":"trns.7df31eaf-863f-4b7e-845a-dcdf2801292b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"XGsFnEs xu oktMgYCuIG YYSdhh ZbVp ",
+    "notes":"OznduhjDu JEi YJjHzv TvMu nS WtEP oAuEN ygHzrmrjzO aUrYaafqP FLUsH ",
+    "reference":"95559"
+  },
+  "trader":"su.6c226c05-15ef-41c9-bbd2-4a9617645a65",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":749174,
+    "validationErrorCode":""
+  }
+}

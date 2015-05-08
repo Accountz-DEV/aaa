@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"33.04053827964536",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.88+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-33.04053827964536",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.881+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:05.877+01:00",
+    "hidden":false,
+    "id":"trns.e2818863-d4af-48cd-8495-b8ae87002909",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Owo YBsjC wSqA EFl UYzxvRfAirA ",
+    "notes":"xLmiFPKIubn THfTKDcB fxg aUXqGOBhxEB IMFcRrSLR DSaQdk bG LrQ RmUZN iy ",
+    "reference":"09633"
+  },
+  "trader":"su.ca4eebfb-521f-46b3-9e5a-5e5d2840aee8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":759002,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"58.294461014919996",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:12.688+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-58.294461014919996",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:12.684+01:00",
+    "hidden":false,
+    "id":"trns.941ac355-ffc0-4e95-82d6-9240e455476f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-12-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"mzNXYyrmIB jCyNqAac wGuqcftmCdO tRkGbAN Nh ",
+    "notes":"cUn hkmqWZvxQp YlhuAUOQF BIKtiz NysqSZzNP XILFMsFNnO qOLuVDAL wfhWYiL CjcbRog FZeMo ",
+    "reference":"57407"
+  },
+  "trader":"su.b874112c-f84a-4fa0-8bb9-6d86a31ff62b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":708476,
+    "validationErrorCode":""
+  }
+}

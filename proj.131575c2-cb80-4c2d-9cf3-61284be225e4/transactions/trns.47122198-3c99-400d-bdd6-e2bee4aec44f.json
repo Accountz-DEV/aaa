@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"35.115445219735996",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:28.512+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-35.115445219735996",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:28.513+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:28.509+01:00",
+    "hidden":false,
+    "id":"trns.47122198-3c99-400d-bdd6-e2bee4aec44f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"YIdkzSv KM UNRwV pBQiUqsP dfp ",
+    "notes":"vTjgLLk ewRMr DBpNQtglIr ghsg xKOKYtJReuU OMD MFb Ezx MT FFYW ",
+    "reference":"87775"
+  },
+  "trader":"su.e510f401-30c6-4945-9915-4e0394d6b94c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":893120,
+    "validationErrorCode":""
+  }
+}

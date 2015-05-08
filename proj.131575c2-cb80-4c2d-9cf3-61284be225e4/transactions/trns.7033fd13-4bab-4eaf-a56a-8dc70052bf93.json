@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"23.45155148240744",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.807+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-23.45155148240744",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.808+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:21.804+01:00",
+    "hidden":false,
+    "id":"trns.7033fd13-4bab-4eaf-a56a-8dc70052bf93",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"DcNz NtBjd bKLUsgew roNnw uSPLHxs ",
+    "notes":"ivlyC oj IZTzjhFJGaT nFmomDRw UIoy DZQGiSGE scamB cAyEfbjO ORcdXvG uayds ",
+    "reference":"92079"
+  },
+  "trader":"su.f874b81c-5650-4b26-a5c0-733283a9868c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":831254,
+    "validationErrorCode":""
+  }
+}

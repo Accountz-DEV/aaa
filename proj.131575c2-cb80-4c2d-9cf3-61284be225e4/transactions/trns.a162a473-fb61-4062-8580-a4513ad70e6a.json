@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"23.77820341805159",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.222+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-23.77820341805159",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.223+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:11.219+01:00",
+    "hidden":false,
+    "id":"trns.a162a473-fb61-4062-8580-a4513ad70e6a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"BkUgVzTg guQxFAqls ruH mI opMuqs ",
+    "notes":"EpxXy bsjIpDTY jgbo NrZcqYLSnL uaBrBruP geKzWgpgI fEREExcv aCYPwdHaCse SEA ggWSL ",
+    "reference":"72613"
+  },
+  "trader":"su.8bd1bf6a-6781-499f-bdff-ab2ae75722b8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":601124,
+    "validationErrorCode":""
+  }
+}

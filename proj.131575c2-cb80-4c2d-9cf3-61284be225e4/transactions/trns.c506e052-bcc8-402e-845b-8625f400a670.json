@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"13.254167809104867",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:07.44+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fb3737d7-2822-4bcb-b35e-2d9df9bc9ba5",
+      "amount":"-13.254167809104867",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:07.441+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:07.436+01:00",
+    "hidden":false,
+    "id":"trns.c506e052-bcc8-402e-845b-8625f400a670",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"fp hZPtEIDQ GQasn ugNxo DAWP ",
+    "notes":"MWgjZVeE KJHbefJoTXd vnoqkbKNH doRPtYPLhKf uCFJ LUtVRupUcU knyZj pE LAwQAxp TdacKDitSPp ",
+    "reference":"96206"
+  },
+  "trader":"su.9e4d2970-0b35-4b5a-8326-d21f6edf1e89",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":760244,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"8.281773794232382",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:18.67+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"-8.281773794232382",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:18.671+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:18.667+01:00",
+    "hidden":false,
+    "id":"trns.f3036292-fc5f-4b36-b276-4ef4eeb5c2c7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"dxs IBYHPHQVhy gqWylFR iYMVzFvv Tpctx ",
+    "notes":"lT mMUHAokEcn IPDhXDskKR Nk mT xc tfNIy DjdRomuK PC wszJLYGAe ",
+    "reference":"42419"
+  },
+  "trader":"su.c86f5c8b-86ae-4adc-9ba0-8aa325aaf510",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":770846,
+    "validationErrorCode":""
+  }
+}

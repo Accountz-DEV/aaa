@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"33.401190763754606",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.565+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-33.401190763754606",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:21.562+01:00",
+    "hidden":false,
+    "id":"trns.ab5b715e-ba90-4581-b8c5-51de9b28a0cf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"sssQwhCK NfUjeSdvsKb CUbG YdooJhUKp EZpNQyVCAJ ",
+    "notes":"RHVyY lxCGur cglvjzEzx XsuhidY Fh lWyjMNKzKu GfIXyHTY SPYCg HAILQf vZQL ",
+    "reference":"95983"
+  },
+  "trader":"su.f4d41f6d-6e4d-4c33-bd2f-76bf4943ebad",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":830732,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"67.22642196516423",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.372+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-67.22642196516423",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.373+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:05.368+01:00",
+    "hidden":false,
+    "id":"trns.c34befdd-42d7-4706-a3a8-4024e68f1165",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"VgVWGvTWPvY gQbw KjvQhvd bbLiB trohu ",
+    "notes":"gHgdVn GylbnxqkKtL lOD TsO nc QRAl IfvhUCiBZNm jXhMNxgXED nXwu SaM ",
+    "reference":"79835"
+  },
+  "trader":"su.ca9fc328-cdef-4ff8-b0b1-7b6b6aa4b821",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":757940,
+    "validationErrorCode":""
+  }
+}

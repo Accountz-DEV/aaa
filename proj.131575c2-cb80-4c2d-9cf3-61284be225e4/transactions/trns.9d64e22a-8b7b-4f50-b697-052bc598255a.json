@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"70.02650546236487",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-70.02650546236487",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:07.365+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:07.362+01:00",
+    "hidden":false,
+    "id":"trns.9d64e22a-8b7b-4f50-b697-052bc598255a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ilscgGcJ Rwa SkLOen uExzNCZ ZZgIVMxJPxS ",
+    "notes":"uiDvFPcU mqOzRav yCok phxbzC tmYQhFpfvpn gvnK pbUxbmoGs mZD NKGCSiZaxFv GlBPc ",
+    "reference":"93843"
+  },
+  "trader":"su.7e162fac-40f4-432f-b95a-e61d3237f181",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":597236,
+    "validationErrorCode":""
+  }
+}

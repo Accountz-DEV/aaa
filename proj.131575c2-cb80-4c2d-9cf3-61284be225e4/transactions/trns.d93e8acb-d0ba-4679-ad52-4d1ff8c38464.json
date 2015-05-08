@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"34.932420081468806",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:40.463+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-34.932420081468806",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:40.464+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:40.461+01:00",
+    "hidden":false,
+    "id":"trns.d93e8acb-d0ba-4679-ad52-4d1ff8c38464",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PfDIdBE szMM oSxuV JNxBLYpfAOs SVYAxvvGSne ",
+    "notes":"rsBkZwFVzbI oQGpB MOg nHAhODOKUcd MKnJ JNzE xcTo ONozsinMdFd sAf JurfhyL ",
+    "reference":"90138"
+  },
+  "trader":"su.c641848a-6cdd-41af-b401-fa74f33000a7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":571928,
+    "validationErrorCode":""
+  }
+}

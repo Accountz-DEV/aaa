@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"99.11559123161435",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.069+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-99.11559123161435",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:11.067+01:00",
+    "hidden":false,
+    "id":"trns.87696603-3cc6-4d9a-b932-b27f0a6bdd0f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QCnkHnB qCxu fPeUDpJKxxQ BJuFwrk TUhmWjxyqAK ",
+    "notes":"sczgsjCCi sbti JBXdBML CRDYNs sjZwuhoD DpC UigDWDVz JBtrPbSX ZA oa ",
+    "reference":"76845"
+  },
+  "trader":"su.2032a73b-719a-4b6e-9c39-bfe84b298fb6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":600764,
+    "validationErrorCode":""
+  }
+}

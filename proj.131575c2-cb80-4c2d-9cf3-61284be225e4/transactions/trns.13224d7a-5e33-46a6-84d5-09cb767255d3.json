@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"78.89544808360819",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:22.76+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-78.89544808360819",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:22.761+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:22.759+01:00",
+    "hidden":false,
+    "id":"trns.13224d7a-5e33-46a6-84d5-09cb767255d3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"qDAFZqp geyQdn uwRFP fyfSRnkfZz bFWCIoN ",
+    "notes":"cgMZise XqGa qtA KufoBOoC WWuF DnXaTA rOasl AbFEd dFGLP hHI ",
+    "reference":"79098"
+  },
+  "trader":"su.dc35d5d5-772c-4b90-9b05-7b5e28f3b19f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":888170,
+    "validationErrorCode":""
+  }
+}

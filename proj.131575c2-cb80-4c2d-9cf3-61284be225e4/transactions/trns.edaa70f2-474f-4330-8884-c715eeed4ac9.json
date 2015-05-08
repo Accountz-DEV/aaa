@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"63.55796461912687",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-63.55796461912687",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:05.948+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:05.945+01:00",
+    "hidden":false,
+    "id":"trns.edaa70f2-474f-4330-8884-c715eeed4ac9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"yaFqax WbJgMIkyPS oRhtVXRn YZ LNbJZr ",
+    "notes":"kzOIOzsY ZOcBqz knAGnbh cI MFZEbxB Qig zrwISR fSGQBMY yJelixr SSkEHKve ",
+    "reference":"02310"
+  },
+  "trader":"su.46586003-d8bf-4f40-bfdd-b7412fe76d0c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":759182,
+    "validationErrorCode":""
+  }
+}

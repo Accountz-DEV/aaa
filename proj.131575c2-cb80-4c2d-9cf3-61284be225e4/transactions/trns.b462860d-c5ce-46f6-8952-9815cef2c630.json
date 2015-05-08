@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"62.753559174699745",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:50.963+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-62.753559174699745",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:50.964+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:50.961+01:00",
+    "hidden":false,
+    "id":"trns.b462860d-c5ce-46f6-8952-9815cef2c630",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"VyCznyYzumQ wOoHjqTnd QBpwunrbZi Mpny tjjtcNdFmBP ",
+    "notes":"DPF bO XzdQOgTP bXNCXOugG WIz Fr Yka OCbFI WQC cfio ",
+    "reference":"65169"
+  },
+  "trader":"su.d92c24dc-1764-4b83-bc22-67c3e6cb6b0f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":801122,
+    "validationErrorCode":""
+  }
+}

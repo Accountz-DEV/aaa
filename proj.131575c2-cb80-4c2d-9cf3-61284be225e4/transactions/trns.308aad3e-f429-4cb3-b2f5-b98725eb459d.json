@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"40.54869418419157",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.897+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-40.54869418419157",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.898+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.893+01:00",
+    "hidden":false,
+    "id":"trns.308aad3e-f429-4cb3-b2f5-b98725eb459d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pyOM tTdFwBV NvcGZMa PCYWozVl QN ",
+    "notes":"lyOfS tIXNK nKu PNbTEaAXx aahtqciV hxLLZQ OAaPR nIg KMA CGITH ",
+    "reference":"81414"
+  },
+  "trader":"su.1ca97351-952a-4fcd-9797-163dc280a613",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679748,
+    "validationErrorCode":""
+  }
+}

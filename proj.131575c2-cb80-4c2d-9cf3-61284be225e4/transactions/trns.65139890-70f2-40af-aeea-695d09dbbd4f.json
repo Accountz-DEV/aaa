@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"88.52921353775818",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:33.349+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-88.52921353775818",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:33.35+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:33.345+01:00",
+    "hidden":false,
+    "id":"trns.65139890-70f2-40af-aeea-695d09dbbd4f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"HbZ DkBzeg ZsuZvRiW BzmJpVnXBFQ USrf ",
+    "notes":"gAlSRC JjHGt ytG LzU nd gE MatOhKpmMh yjbnxjM Gyrve QmOQmNfKp ",
+    "reference":"46072"
+  },
+  "trader":"su.0f25adb2-3b47-4b05-bc4d-77d88e8b64f4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":565196,
+    "validationErrorCode":""
+  }
+}

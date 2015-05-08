@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"83.31176491931124",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:01.648+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-83.31176491931124",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:01.648+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:01.644+01:00",
+    "hidden":false,
+    "id":"trns.92eaa65b-d43a-4a23-a2fa-c90095772cb5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-03-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"WZeRtyAPGL LzAQ smLOQD ZtNAA ccVeWgi ",
+    "notes":"rHbgeb uWzMlSe NnA cIRDcw Uy FolaQTtPmcA IkDt ypF NRTvMkSRIT No ",
+    "reference":"85310"
+  },
+  "trader":"su.43a3f4a0-cbab-4b2d-8ae1-475a1dee5bbf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":755060,
+    "validationErrorCode":""
+  }
+}

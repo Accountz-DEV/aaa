@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"60.514174183966674",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:52.622+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-60.514174183966674",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:52.623+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:52.618+01:00",
+    "hidden":false,
+    "id":"trns.7ebddbfb-3bbf-4610-917f-fa03a56b853e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"MLtEZCMtdr zoublL QJDs BLHCu MTuK ",
+    "notes":"KFAReOfX UrPU qrt eG qiPHmDX jcxJhqKy lLr DQLThGGgt TimlyhkS bKDTYBKGO ",
+    "reference":"13341"
+  },
+  "trader":"su.a26c880d-2e10-4acd-99ca-f17ec42c1b15",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":746618,
+    "validationErrorCode":""
+  }
+}

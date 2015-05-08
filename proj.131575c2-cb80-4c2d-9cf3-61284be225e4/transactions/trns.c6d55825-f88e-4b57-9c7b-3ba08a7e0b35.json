@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"50.281009848031175",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-50.281009848031175",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:10.391+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:10.388+01:00",
+    "hidden":false,
+    "id":"trns.c6d55825-f88e-4b57-9c7b-3ba08a7e0b35",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"foNkMgT vHOZShG uF eCBzwdTGViZ rMjtSbnJm ",
+    "notes":"wmCXY HIFIzE tEAECLj EHhXKMeIWoU eGdCNoW KfBnxAy Knfk VOnWYC fQNyvQRrJQ apx ",
+    "reference":"43576"
+  },
+  "trader":"su.93344fe5-1811-4c67-b561-ec554201db74",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":705812,
+    "validationErrorCode":""
+  }
+}

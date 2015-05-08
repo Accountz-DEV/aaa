@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"7.45911497334858",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:02.06+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-7.45911497334858",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:02.055+01:00",
+    "hidden":false,
+    "id":"trns.e6230b1f-02d0-43d5-8606-6ed2c6c5699e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"XcuwQG sgkKf OtJQQoLr SbPDMmh SPm ",
+    "notes":"hQzI alnLcsFVEv OYIKERkcu TpluHtBIbMg XqmXreCpTTQ kZXnKrQqsO JKzxkZDP TqgExd veo CfcEKB ",
+    "reference":"82177"
+  },
+  "trader":"su.1dbe5acf-fce6-43f0-bd87-c2fd87398350",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":755834,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"18.41065766175234",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:40.167+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-18.41065766175234",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:40.168+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:40.165+01:00",
+    "hidden":false,
+    "id":"trns.94e2d39f-d11d-44ea-9b7b-6ddc981d036e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TXOM GrtncNciFj oVyPWjsgXZ mhUv EIqIRqYe ",
+    "notes":"uDvGXlwv Qdfze ldl DiB Gt FSG GDK yQPWxTaif oMY iXKlmFW ",
+    "reference":"10348"
+  },
+  "trader":"su.dd0b8446-e79d-480b-b547-57f029ba7228",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":848300,
+    "validationErrorCode":""
+  }
+}

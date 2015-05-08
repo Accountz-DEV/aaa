@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"82.23130736678212",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-82.23130736678212",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.724+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:34.719+01:00",
+    "hidden":false,
+    "id":"trns.43e0e8d7-7438-424c-b5ab-7f1abe37a5a3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iQBQpCdwa dV DOwYWTEH LeJSGzwyat TCVVTnGQVDR ",
+    "notes":"xKbjVmwbR inNRrpBGXjd CrbzS gxvCej xgiweZn bKuT oCENGeqxm NErtT oNFaOrcuLAk WS ",
+    "reference":"33905"
+  },
+  "trader":"su.21c6286c-5e9f-4c5b-81d7-5ecadda0dc55",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":786596,
+    "validationErrorCode":""
+  }
+}

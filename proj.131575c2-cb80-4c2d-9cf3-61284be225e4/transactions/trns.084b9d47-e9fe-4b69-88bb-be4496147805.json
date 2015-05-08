@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"67.24669346892072",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-67.24669346892072",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:41.861+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:41.856+01:00",
+    "hidden":false,
+    "id":"trns.084b9d47-e9fe-4b69-88bb-be4496147805",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tpyZXvsx kMQWoUtWPm DernfDX Rfz oaFBPBbS ",
+    "notes":"UBl QiiGV zVTdeNG xVdYTgfmQ rX DbimjNR eN SQGXjDuNWbc Azfi YwHRM ",
+    "reference":"90214"
+  },
+  "trader":"su.4bc0c2e1-ee7e-40bc-a5a9-a9744ca64af0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":628376,
+    "validationErrorCode":""
+  }
+}
