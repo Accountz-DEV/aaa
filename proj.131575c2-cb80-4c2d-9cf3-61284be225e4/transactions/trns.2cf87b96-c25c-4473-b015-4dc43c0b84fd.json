@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"51.1609311406388",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:17.928+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"-51.1609311406388",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:17.929+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:17.927+01:00",
+    "hidden":false,
+    "id":"trns.2cf87b96-c25c-4473-b015-4dc43c0b84fd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"sxPSV yOrhoRcgI ODqseeM MWpXNtJMue gAJbTzM ",
+    "notes":"puOX nNsreHodgr tespID aJUn Moov BsVf lvMKDexmQk eEco cF lHfal ",
+    "reference":"78300"
+  },
+  "trader":"su.ca5bc657-39a3-4e78-97f7-38bc01ea4152",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":160646,
+    "validationErrorCode":""
+  }
+}

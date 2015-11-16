@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"65.65566385347583",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-65.65566385347583",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:19.723+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:19.721+01:00",
+    "hidden":false,
+    "id":"trns.8d10cddd-63c0-4bb4-90d5-e8d9adc5f984",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-14T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iwjUYVOXEFy TfZjytFa GjaDFg Mbl SdshsIx ",
+    "notes":"ZWfVACE yA UDw gVOH dgCnGr RVVWPhmkHG YPvgZB vCdJ qlBbUjvlt QqBSkar ",
+    "reference":"15383"
+  },
+  "trader":"su.22081677-9263-474a-aed6-73aad35b07fd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":384422,
+    "validationErrorCode":""
+  }
+}

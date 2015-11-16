@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"70.54980686513179",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.776+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-70.54980686513179",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:45.777+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:45.773+01:00",
+    "hidden":false,
+    "id":"trns.f4e4a83a-50cb-440d-8baa-05f2bb66e331",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"wjWB FmqZukxKqwL eg TO sWpfYhRpKqA ",
+    "notes":"inMztrHe JBeZ YUmmHeqAY XA PneP IKv TowMAx HHttXAgFZv vKDfzn GKaelUys ",
+    "reference":"69357"
+  },
+  "trader":"su.312c7a39-4f2d-4911-b78f-2618d8d51459",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":21326,
+    "validationErrorCode":""
+  }
+}

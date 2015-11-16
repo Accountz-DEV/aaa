@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"23.08061110810218",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:56.525+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-23.08061110810218",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:56.525+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:56.521+01:00",
+    "hidden":false,
+    "id":"trns.6a3b4201-8b8c-4563-89f7-65e440a81035",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-07-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"zpLrOPBhCDz ssxUzzFl TMol dRfkDOmL QSV ",
+    "notes":"eS KFJOxntyUj MuCg awSPzLLZERr CwPyheHYO DnQ pyq mtzRQ MIWzwfJMlyZ QNikYSZsSK ",
+    "reference":"44311"
+  },
+  "trader":"su.ec74cc0b-5a30-4762-be71-9eff17aa12e2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":140864,
+    "validationErrorCode":""
+  }
+}

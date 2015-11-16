@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"24.408182353573473",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.607+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-24.408182353573473",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.608+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:45.605+01:00",
+    "hidden":false,
+    "id":"trns.bfb5a960-f2d5-4756-ba84-2afbceac4fb2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-03-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ClzKEO DIYkogOSB hEYaGPVGkB yHePtygZHH KfKFh ",
+    "notes":"hl NGzq MFaziS TPRXqGR gEcnkqZ VYT ZDsbORsWCEd SsC nrHajke AgTRcQx ",
+    "reference":"48487"
+  },
+  "trader":"su.2b56dc2a-e703-4dd5-a27f-80daae1befe9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":131324,
+    "validationErrorCode":""
+  }
+}

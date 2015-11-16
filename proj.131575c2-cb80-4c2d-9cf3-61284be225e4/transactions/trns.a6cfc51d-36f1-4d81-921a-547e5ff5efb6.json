@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"52.42937152310508",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.444efa20-a886-4b29-8948-937658ff425f",
+      "amount":"-52.42937152310508",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:30.069+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:30.065+01:00",
+    "hidden":false,
+    "id":"trns.a6cfc51d-36f1-4d81-921a-547e5ff5efb6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dxHTbOsR su IJuIfK SNcFCIZNcSw zJLOsxkh ",
+    "notes":"ct xjBOIO FIXPuVW hOwrymOMMgX WbYmMi XzDOVTUJo SPWPqjx AyavuOrLGBd rb ppCBR ",
+    "reference":"18688"
+  },
+  "trader":"su.14076d3b-8a8b-46d7-a484-b198654f5ff6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":172400,
+    "validationErrorCode":""
+  }
+}

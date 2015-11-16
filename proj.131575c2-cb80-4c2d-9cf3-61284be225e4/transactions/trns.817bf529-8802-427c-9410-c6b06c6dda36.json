@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"38.74422768664429",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.61+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-38.74422768664429",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.611+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:30.607+01:00",
+    "hidden":false,
+    "id":"trns.817bf529-8802-427c-9410-c6b06c6dda36",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-02T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"FpxAhs egpuVLfnQ OXIbi LFiiqEpFDi FAZWHwpOB ",
+    "notes":"AIB hb PGOwnoVJy qNAfRjyza uM nXqL MSyjen pXcesn RgFpvjJhnP RTImHxIKtAD ",
+    "reference":"73000"
+  },
+  "trader":"su.aaa698f1-963d-4aa2-b598-a5600b640da6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":284090,
+    "validationErrorCode":""
+  }
+}

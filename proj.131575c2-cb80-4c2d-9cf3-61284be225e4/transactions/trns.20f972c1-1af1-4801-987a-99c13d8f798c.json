@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"13.457626272540645",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:40.837+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-13.457626272540645",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:40.838+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:40.834+01:00",
+    "hidden":false,
+    "id":"trns.20f972c1-1af1-4801-987a-99c13d8f798c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PMuUCCaaIxP nROg bCg JLgcFjAHGS KAIZO ",
+    "notes":"qzK sBqCmdLOwue gVyEKz DaLSbaH dUPGn oVRFE PSrmpPOf FIa hvJEj iPYR ",
+    "reference":"69991"
+  },
+  "trader":"su.fb66946c-2743-467c-acd9-9babfb3f7514",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":348818,
+    "validationErrorCode":""
+  }
+}

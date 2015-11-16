@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"44.8622231088916",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.495+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-44.8622231088916",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.496+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:46.493+01:00",
+    "hidden":false,
+    "id":"trns.84074090-bc8b-48bc-9ddf-195777a9015c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FR DsqXFJMcwO XYUIpM IWEMKy bGdTI ",
+    "notes":"gj xmqiKAdbl RSLPaBROtmE RLUJVfz ThdZgdpPJn NhKYv wGpjo Zf ASS Mf ",
+    "reference":"94112"
+  },
+  "trader":"su.31131bbd-811e-4770-b0c2-e588153fa5ba",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":520628,
+    "validationErrorCode":""
+  }
+}

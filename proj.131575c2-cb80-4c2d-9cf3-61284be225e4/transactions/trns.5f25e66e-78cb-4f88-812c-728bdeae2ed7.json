@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"71.93224640583584",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-71.93224640583584",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:02.549+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:02.545+01:00",
+    "hidden":false,
+    "id":"trns.5f25e66e-78cb-4f88-812c-728bdeae2ed7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"mIeyasAGcjs jEHOyQhkpi ahvIM YeeaLHQhbV dz ",
+    "notes":"srTseBp CSmphWHWrXA vfwSLSRs BVyacNUW QIylDzgeJDV TpRMP dMro ASIO hARNL ioNr ",
+    "reference":"67614"
+  },
+  "trader":"su.c2cedf94-54c8-4848-af92-acc4540a7e00",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":535586,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"2.5209765270145623",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:04.096+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-2.5209765270145623",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:04.097+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:04.094+01:00",
+    "hidden":false,
+    "id":"trns.0059cf5c-a6c2-409c-a8a3-c8ab5ef5ea5f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FQpBAdjCW QER OJjt cmmtqRX jvwFCKVvPA ",
+    "notes":"weqXm EwpFw FNWgXIGTrf TgHmciVuBc onOts hmCn ch aGOGt maRH UGHr ",
+    "reference":"03813"
+  },
+  "trader":"su.76ccbf42-7609-4060-896c-12e82008a5fd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":757436,
+    "validationErrorCode":""
+  }
+}

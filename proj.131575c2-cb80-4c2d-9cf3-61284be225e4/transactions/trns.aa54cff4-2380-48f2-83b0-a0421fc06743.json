@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"33.97011125162972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.677+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-33.97011125162972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.678+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:13.675+01:00",
+    "hidden":false,
+    "id":"trns.aa54cff4-2380-48f2-83b0-a0421fc06743",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"fCAFVkzrvNm Odzp pdfi megcb BYQZQBH ",
+    "notes":"lMQdgHTQws IvSIuMtLr xKwcdwLC dvAVLo cI qSwPy RpGig CLCCK egVxZqOAcjT BPHf ",
+    "reference":"29550"
+  },
+  "trader":"su.972d285e-2d87-4dba-8b66-70560388305f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":766724,
+    "validationErrorCode":""
+  }
+}

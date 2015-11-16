@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"84.71697145579274",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-84.71697145579274",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:28.078+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:28.073+01:00",
+    "hidden":false,
+    "id":"trns.21b0dc90-4b60-4045-a86d-e13a4d608167",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"MlViucf uhcUlRR CLZuw QfJdUuFUyqr VYT ",
+    "notes":"bHmxgvpROzP nzUocQVv QiZxUSaxhnR WpDI BdZa EYNRoCvrSm VNw ZuHIt NhYNWuF dyvQ ",
+    "reference":"47468"
+  },
+  "trader":"su.475fb79c-04e1-409c-bb37-c242971b8012",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":114890,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"42.909626982944395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:19.856+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.444efa20-a886-4b29-8948-937658ff425f",
+      "amount":"-42.909626982944395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:19.857+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:19.852+01:00",
+    "hidden":false,
+    "id":"trns.93b56e5c-475c-4220-abb5-072490058946",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"EFs mbOUYwGd QiaNdfBYlM gt DjSaFxqlv ",
+    "notes":"rMFM IrQDRPVdM FBVu kTPdWZc uvpAVnIsD fubZ KRL idgj FzHZj XzLFzsg ",
+    "reference":"03968"
+  },
+  "trader":"su.311c4a5f-1295-40c2-8235-62ca47ca53af",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":662018,
+    "validationErrorCode":""
+  }
+}

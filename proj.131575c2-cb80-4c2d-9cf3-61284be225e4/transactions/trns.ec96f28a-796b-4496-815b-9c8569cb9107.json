@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"73.13916398719373",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:38.236+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-73.13916398719373",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:38.236+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:38.234+01:00",
+    "hidden":false,
+    "id":"trns.ec96f28a-796b-4496-815b-9c8569cb9107",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Vy QKg paJBTyVJy Manqj PGBkhYZn ",
+    "notes":"TTliN lrmc wonJgiH WQoRyWim EKvqm NWJTCKb YDeVNpJrLRw QP rkQ BOsNRAQr ",
+    "reference":"45309"
+  },
+  "trader":"su.fe7fdde5-d938-4351-8abf-ded0cc6b0340",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":789386,
+    "validationErrorCode":""
+  }
+}

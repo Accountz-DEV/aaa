@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"79.59190008364627",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:16.525+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-79.59190008364627",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:16.526+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:16.521+01:00",
+    "hidden":false,
+    "id":"trns.776791bf-07e6-4256-939a-a12585ccdc8c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ryq nTv bRgmUa GZULuW hyqIFjXo ",
+    "notes":"bazB IiPfg AsNYNaXLPZa FAKewiht LYfGYR vW vk Zn PtUTo nMrXYCK ",
+    "reference":"47312"
+  },
+  "trader":"su.bbe3f4f2-1e3f-464b-889d-dd3224ac7043",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":104180,
+    "validationErrorCode":""
+  }
+}

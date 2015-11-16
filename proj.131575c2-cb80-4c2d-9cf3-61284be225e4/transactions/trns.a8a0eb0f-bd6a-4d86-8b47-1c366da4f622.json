@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"56.65048275543461",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:29.556+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-56.65048275543461",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:29.557+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:29.553+01:00",
+    "hidden":false,
+    "id":"trns.a8a0eb0f-bd6a-4d86-8b47-1c366da4f622",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"gIiQkBSw ikYTKVx uoPq nkCydzs GXKYCKjGeva ",
+    "notes":"VPPPPqWM FJgNKvIKv GjfwDAyui gLgh fQGdzqqYjM NL FvKaz aWS peUodUnh VwL ",
+    "reference":"51629"
+  },
+  "trader":"su.d96ae5b5-b1ba-4038-a032-ebeb040257ce",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":449960,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"94.19715127811739",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-94.19715127811739",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:13.784+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:13.781+01:00",
+    "hidden":false,
+    "id":"trns.ec510f84-714f-4580-8522-9c4260b33036",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"biduAYjZ JJB KFTfmaSmK OFfLUDv lr ",
+    "notes":"YSPkPYdvM RfUXbmLUWAc WowoJlBvkav EcpjyFaYQJe HgX XOcMc vgn pJVSWxsv shuYo rTaPkBV ",
+    "reference":"91295"
+  },
+  "trader":"su.ce69e712-8a46-4773-93c3-245898a03d2d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":822812,
+    "validationErrorCode":""
+  }
+}

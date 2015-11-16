@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"10.327429513578078",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:53.903+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-10.327429513578078",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:53.904+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:53.9+01:00",
+    "hidden":false,
+    "id":"trns.e5de6346-567f-48d4-b56b-d7557f6daf3d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QDQ aQ ygjYVr WnWVEjxkZ sfjaM ",
+    "notes":"gGR JOrl igCz EbxsEUNUIS hWcEYfDD hi BPAKMQ KZJe ZAUWTFCrD Bl ",
+    "reference":"84179"
+  },
+  "trader":"su.702c9c40-e913-4ea7-bc4b-89803bb351e5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":747104,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"52.98504092860574",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:22.15+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-52.98504092860574",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:22.146+01:00",
+    "hidden":false,
+    "id":"trns.3a9a7878-62fd-4e13-bc4b-a36859b149e9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kh rOeuVpNUr TZXPjSvBjO aciNhJdn uqyjIRvfkS ",
+    "notes":"Gjkp brqGXWbszrT epGjRyd RoTQc KtOQCDby YykeTocS bM kREWi ptmtTIMP frD ",
+    "reference":"07902"
+  },
+  "trader":"su.e4dad119-9a20-47b1-a465-de21f4fdad1e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":164930,
+    "validationErrorCode":""
+  }
+}

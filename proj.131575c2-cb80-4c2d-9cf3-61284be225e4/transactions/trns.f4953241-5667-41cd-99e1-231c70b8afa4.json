@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"18.667953815480452",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-18.667953815480452",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:02.809+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:02.805+01:00",
+    "hidden":false,
+    "id":"trns.f4953241-5667-41cd-99e1-231c70b8afa4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NWfqMop cIOMvgN fxGVejeHX BNsrCGuyG NMlLJbnUKY ",
+    "notes":"yBZ UBZzNbCjA DdVdPvn VeuRTkqb REKoe doYRjXy nnZdg NhOy cibOHCBOJM ALbYWIj ",
+    "reference":"21719"
+  },
+  "trader":"su.f9f36376-3b77-4ca9-97e8-762eebd9968d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":812552,
+    "validationErrorCode":""
+  }
+}

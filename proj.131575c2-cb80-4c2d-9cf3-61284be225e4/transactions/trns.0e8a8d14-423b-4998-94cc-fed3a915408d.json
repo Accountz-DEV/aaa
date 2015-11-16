@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"98.85014661458592",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-98.85014661458592",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.544+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.541+01:00",
+    "hidden":false,
+    "id":"trns.0e8a8d14-423b-4998-94cc-fed3a915408d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"qUyMnY sPQJQUzXHk mbEvRcXM ThjrcZSl nGzfTXsPA ",
+    "notes":"sBGMmFqlN SavLNUwELW IsoiUh TBIWiLnm fP eSQxyvDvPKx VaeG mS CJZ WeFkKzpTR ",
+    "reference":"24822"
+  },
+  "trader":"su.38f092fa-b758-41b3-ae92-648c5c9fa8ad",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679082,
+    "validationErrorCode":""
+  }
+}

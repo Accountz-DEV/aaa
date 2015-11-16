@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"5.326263033337897",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.034+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-5.326263033337897",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.036+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:03.03+01:00",
+    "hidden":false,
+    "id":"trns.df30714b-45a4-49dd-ac42-1725f7669f98",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iSpVTps CdA LDkhZonZ LSxxr PnMCxlvQZe ",
+    "notes":"SMENn WkyPwysavJ xXaFAKRqL apNOqycWDh bDG VUohDJDZq DhbfFrc sAasCvCf giF co ",
+    "reference":"37468"
+  },
+  "trader":"su.0a45f48e-2834-4778-9851-62d8a4def27d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":699224,
+    "validationErrorCode":""
+  }
+}

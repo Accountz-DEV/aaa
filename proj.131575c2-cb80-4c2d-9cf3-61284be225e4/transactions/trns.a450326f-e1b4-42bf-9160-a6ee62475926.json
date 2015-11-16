@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"26.656511808192263",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:24.696+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-26.656511808192263",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:24.692+01:00",
+    "hidden":false,
+    "id":"trns.a450326f-e1b4-42bf-9160-a6ee62475926",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rI VHsFUA lKRzX FkjMroniVQV CtGCcAmnmzf ",
+    "notes":"PqbT yxco bwu kpXQggRRQJ lKzx XmqfGqgNlzt UQhw PuU GkZQ Jqrmi ",
+    "reference":"87138"
+  },
+  "trader":"su.c740450f-4e3d-48cc-ad7b-92fd5fa67cbb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":776516,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"32.98013626920137",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:28.748+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-32.98013626920137",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:28.746+01:00",
+    "hidden":false,
+    "id":"trns.d74b8b24-7223-4696-bfd4-8bb417ebd437",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lEgtodBr Wh xbYjkWXhAXv mpAKMahG ebKF ",
+    "notes":"sRrAkDPhFmU kpAqOs gGQAuHXpqxI cvbjlWpauC JKzJBhCKEJC nmYyi kMYUMRdleC THs GAuYzxews InyAu ",
+    "reference":"96194"
+  },
+  "trader":"su.00ea38ee-867f-4cf2-9f23-a0bd3058123a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":780422,
+    "validationErrorCode":""
+  }
+}

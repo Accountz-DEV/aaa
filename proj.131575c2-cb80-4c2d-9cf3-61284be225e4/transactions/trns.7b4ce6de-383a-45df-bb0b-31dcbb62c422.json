@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"96.82674130251002",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:53.416+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-96.82674130251002",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:53.413+01:00",
+    "hidden":false,
+    "id":"trns.7b4ce6de-383a-45df-bb0b-31dcbb62c422",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TjR nYKTsNcdMa aVhPUBOMepk QXONDtEyNY ijRhFROAzH ",
+    "notes":"tfiHniGCo HeulCPx ndrY yEqdah mdsDoxoN oHrHPTk YvBwlA GhAbzm pxna vGi ",
+    "reference":"01803"
+  },
+  "trader":"su.6aad9293-5b16-498f-bec8-ff0407d757c3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":28220,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"34.243445202130104",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:10.754+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-34.243445202130104",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:10.755+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:10.752+01:00",
+    "hidden":false,
+    "id":"trns.e6755b3d-c987-4767-b612-e6431bacf67a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"AYMLrjEp BPIfkYeVX wxyCrcXVuK vBCpGT wXdmZWoEVCQ ",
+    "notes":"NrhjmNS NQrifdcFQ oB uChd vzux BOX UHzY oWjFupuawZ BMxMzOshs LbGBpORQ ",
+    "reference":"28632"
+  },
+  "trader":"su.c63df627-5678-43a2-96ea-ea8700cd2f7c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":706622,
+    "validationErrorCode":""
+  }
+}

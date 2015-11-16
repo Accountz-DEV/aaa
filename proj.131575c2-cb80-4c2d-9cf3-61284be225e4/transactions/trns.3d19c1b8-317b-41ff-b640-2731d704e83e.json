@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"94.69438006463858",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-94.69438006463858",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.275+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:45.27+01:00",
+    "hidden":false,
+    "id":"trns.3d19c1b8-317b-41ff-b640-2731d704e83e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"RSQalMoA yzxlDpbhbsZ aQTKPMPCStU pPaRQUmym EZJR ",
+    "notes":"MxyqVt XRpsk oZ gMAaWdyLP QDGhEUBsaft ykPmhJjz MLJwftQa RG bm DDxuQYsV ",
+    "reference":"04832"
+  },
+  "trader":"su.e207f2ac-4428-4e96-977d-92ab434c0cfe",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":130658,
+    "validationErrorCode":""
+  }
+}

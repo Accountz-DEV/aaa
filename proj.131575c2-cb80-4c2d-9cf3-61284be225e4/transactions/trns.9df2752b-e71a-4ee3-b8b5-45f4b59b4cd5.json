@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"63.38303294795921",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-63.38303294795921",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:54.474+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:54.471+01:00",
+    "hidden":false,
+    "id":"trns.9df2752b-e71a-4ee3-b8b5-45f4b59b4cd5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-12-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"uqseSAQQC GOHRmR CbqmZDiwhuC YKNVamiBkyy mqanXOOJGyd ",
+    "notes":"ctmTyDZN RVzc brPE LREKNPRmoB zwi CTqep oSbov ujTmbZbbORE UXfey XLBlrUKt ",
+    "reference":"50322"
+  },
+  "trader":"su.6676ea7d-63b0-49db-b23b-099914b5bcd4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":528062,
+    "validationErrorCode":""
+  }
+}

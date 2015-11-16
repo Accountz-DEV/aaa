@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"16.63347052171925",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:31.713+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-16.63347052171925",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:31.714+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:31.71+01:00",
+    "hidden":false,
+    "id":"trns.d7d00390-da6b-415b-90c7-6e6281a1f34d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-04-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PlZcptAAv HAMGxZN VmYOKAQ Gihkjh VXwcbPp ",
+    "notes":"qlONocoFzE pctrU anDKWNIEJ SsB Dd MWEx JebydBq kTKTPDwRSBA rfQwDfQ jJjjhLA ",
+    "reference":"26204"
+  },
+  "trader":"su.b297d0d7-1650-424b-aef9-5d340a93467f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":8672,
+    "validationErrorCode":""
+  }
+}

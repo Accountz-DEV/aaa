@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"60.98150283953384",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:21.457+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-60.98150283953384",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:21.458+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:21.453+01:00",
+    "hidden":false,
+    "id":"trns.06a9dcca-67ef-48e0-bbd7-1a9946f90b57",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pCbm OCvslllR gGGakgqf WBoVICEr IAzIQdw ",
+    "notes":"dZXqEJhA wgOQUGoSkNL uu rWxLaNCEOda dyWfbID oJTyNuH oJd hU riKnmOBJ NVDtKR ",
+    "reference":"82983"
+  },
+  "trader":"su.9b188c53-308c-407e-9575-43c70df498e5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":553676,
+    "validationErrorCode":""
+  }
+}

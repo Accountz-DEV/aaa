@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"69.82959362246106",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:12.375+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-69.82959362246106",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:12.372+01:00",
+    "hidden":false,
+    "id":"trns.a211bb5d-d25d-4c0a-b384-74f629dfe4ed",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"FiqGbaCIKUB JzkJfmqlZQ rnmspBsJzgy nsRKRZi dEETPWvEYbk ",
+    "notes":"RhIEu EOgzY zF sODHCIwqZDI oY ogUd fwQPaCPqzj ghv kyDB iHiowe ",
+    "reference":"84813"
+  },
+  "trader":"su.f5452d1b-bcd0-407d-aadf-057c2c03c8fa",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":707936,
+    "validationErrorCode":""
+  }
+}

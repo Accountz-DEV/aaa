@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"62.47389105569447",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:32.638+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-62.47389105569447",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:32.639+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:32.62+01:00",
+    "hidden":false,
+    "id":"trns.99b942bf-d190-4a31-8c40-18a723693c18",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PXhlA RYKLGZ ONiSDXWsv ofQw zTAgfZ ",
+    "notes":"LyFyNIO sWS kCoT aHdDanqn xCjcSv LFecG JbOnFUE ZZIzrpk DBMYCNNt wUbvd ",
+    "reference":"51533"
+  },
+  "trader":"su.354404b3-6bba-44a1-96ef-d4d11d862ee1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":563720,
+    "validationErrorCode":""
+  }
+}

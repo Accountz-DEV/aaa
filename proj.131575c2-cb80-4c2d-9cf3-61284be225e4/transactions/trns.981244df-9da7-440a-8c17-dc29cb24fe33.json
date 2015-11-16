@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"67.42571068500939",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:39.855+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-67.42571068500939",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:39.852+01:00",
+    "hidden":false,
+    "id":"trns.981244df-9da7-440a-8c17-dc29cb24fe33",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-03-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tLhzqYtdY Yc rcPL uOUvlD ZejJcr ",
+    "notes":"uZJhsP CMi amjEcRc cQRkMw LTkTBiFSqV vKNhRBQDAv vNqi RpQDQDxh LiyI lNETLsX ",
+    "reference":"76523"
+  },
+  "trader":"su.d2b27078-0fdc-4d66-bf55-9452042c0557",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":71186,
+    "validationErrorCode":""
+  }
+}

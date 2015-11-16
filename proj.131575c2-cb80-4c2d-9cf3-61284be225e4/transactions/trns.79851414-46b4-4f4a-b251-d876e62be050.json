@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"77.65817274684872",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:10.708+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-77.65817274684872",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:10.708+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:10.704+01:00",
+    "hidden":false,
+    "id":"trns.79851414-46b4-4f4a-b251-d876e62be050",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"DZCGTDFVqf eRUIcudVHuB abnR YkM Zvd ",
+    "notes":"jl BQIgrlv HKgfx Pb WlYFYCu XxLVzGE Kud vi QVJ An ",
+    "reference":"36719"
+  },
+  "trader":"su.eea53fa0-d4d2-4748-9f9c-486f624207f0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":44006,
+    "validationErrorCode":""
+  }
+}

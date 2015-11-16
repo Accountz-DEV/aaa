@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"30.018409432313252",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:56.286+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"-30.018409432313252",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:56.287+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:56.284+01:00",
+    "hidden":false,
+    "id":"trns.bac81c29-1095-4574-8ff4-b3ff807d54a5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"RAwddUfhyF QqCAgkwSF RLuMpcdOYt ccJViXMW UwDq ",
+    "notes":"JvkJ KaVzzys wOrRCKaN MdJD TueNMotN xl fmK TrmX si lDr ",
+    "reference":"70369"
+  },
+  "trader":"su.24c82655-1575-4c8e-8b16-9798255f23be",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":418244,
+    "validationErrorCode":""
+  }
+}

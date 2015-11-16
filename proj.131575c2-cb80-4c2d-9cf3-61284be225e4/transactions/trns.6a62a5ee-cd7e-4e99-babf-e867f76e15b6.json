@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"25.92048418892491",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:01.583+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-25.92048418892491",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:01.583+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:01.581+01:00",
+    "hidden":false,
+    "id":"trns.6a62a5ee-cd7e-4e99-babf-e867f76e15b6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QFtiBIT Hzh vaHX bRlirlzqGOI XbsMgNTAN ",
+    "notes":"zYxLozPo QyWudW jCP QtAqOgYtFy QrbPvTFgNlD gmjBnkrew eWULUL NezT HHEC qpBna ",
+    "reference":"66015"
+  },
+  "trader":"su.49d917a0-c876-49ce-873c-f58e34e054f6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":90302,
+    "validationErrorCode":""
+  }
+}

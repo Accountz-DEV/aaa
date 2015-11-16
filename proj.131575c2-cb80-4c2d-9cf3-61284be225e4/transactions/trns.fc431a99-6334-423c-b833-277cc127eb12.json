@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"96.1498916803812",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-96.1498916803812",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:46.114+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:46.111+01:00",
+    "hidden":false,
+    "id":"trns.fc431a99-6334-423c-b833-277cc127eb12",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"erTfYGDovk jMyuN oPc lzMeTKG kVvjLRPmNL ",
+    "notes":"dxCKSmKfe uKcg vwbxkYGbd XIX nlkgVMGxY tW SsujQYNdTI OfktjJf yuBZfwGEO KikyOPgwPo ",
+    "reference":"82215"
+  },
+  "trader":"su.6067dc52-31b2-48dd-b345-c66eba2d729c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":853862,
+    "validationErrorCode":""
+  }
+}

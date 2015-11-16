@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"66.04712944143188",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-66.04712944143188",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:09.924+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:09.921+01:00",
+    "hidden":false,
+    "id":"trns.9f936ee5-0687-4bc1-b4a8-a08116194c30",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"HmmPztcT pSMIiSLW SXMIdWbV TDdTsnjlmVv Dml ",
+    "notes":"WRP HoDotSU MTKm mjN bmyAxg iwVgvlIg WNhnYpRo HJvbtnPJZL OnruTUYPgT qfATnhH ",
+    "reference":"63141"
+  },
+  "trader":"su.07e62f07-dfcc-4346-a902-b2866e83d63d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":542300,
+    "validationErrorCode":""
+  }
+}

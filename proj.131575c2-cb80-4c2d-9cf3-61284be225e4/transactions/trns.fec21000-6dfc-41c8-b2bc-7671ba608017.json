@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"94.29091204477338",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:00.254+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-94.29091204477338",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:00.255+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:00.251+01:00",
+    "hidden":false,
+    "id":"trns.fec21000-6dfc-41c8-b2bc-7671ba608017",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"bzmJ gbW eBW vcfhf YiBIyquRBok ",
+    "notes":"zFV ARQggYJ RayJl ztfCk nljSL TK HI FCaLRUQk oDiR MkRN ",
+    "reference":"54877"
+  },
+  "trader":"su.bfbd13af-8f0d-43fb-9ed0-4b0ff8eb5c33",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":144266,
+    "validationErrorCode":""
+  }
+}

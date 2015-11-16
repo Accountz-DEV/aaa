@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"18.30939752734987",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:47.435+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-18.30939752734987",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:47.433+01:00",
+    "hidden":false,
+    "id":"trns.634e22c4-fee9-4d76-82f6-9773d4b59cef",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iHFsmJEt CTRlrLnAk PBlKtSLJuFB xuTqPmqX Yhgiicw ",
+    "notes":"UEcguBGi jbGMlWst nOUmDKAY hIl BVqwv YnaTdjfcpG YAIRqkcU rnMlth ytJyvC ROXHecn ",
+    "reference":"20023"
+  },
+  "trader":"su.7afa7256-ae9e-48ff-903c-f8fa09144045",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":298850,
+    "validationErrorCode":""
+  }
+}

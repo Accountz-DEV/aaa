@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"3.3232095165596998",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-3.3232095165596998",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:01.406+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:01.402+01:00",
+    "hidden":false,
+    "id":"trns.ae8941f7-a6a2-4ad6-a303-7ac912761314",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Lvam dSygxWmIMKD jcL ZJ PvOBb ",
+    "notes":"zxgbOdigFIg zGjkjhqyeJc vXKSqS nIxfQCHcnQk LaOjgfMndS ghk szd HVvXkQC NvSQS DqkoManBT ",
+    "reference":"01919"
+  },
+  "trader":"su.c476b16f-0af9-450b-859a-880cb25bb021",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":754556,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"20.57568281731146",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:26.214+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-20.57568281731146",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:26.215+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:26.21+01:00",
+    "hidden":false,
+    "id":"trns.25d5889e-338e-4be4-8889-292681784295",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"EpAma KwphNHk Rn TNT zF ",
+    "notes":"MTubT pvV buYWvPMXfY NUVsF hYlogB HB NPOy NwNr Ao tlRzuF ",
+    "reference":"39036"
+  },
+  "trader":"su.41218233-4d93-4ea8-b0b2-04ab1f1b477a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":891212,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"50.37909783339043",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-50.37909783339043",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:20.598+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:20.592+01:00",
+    "hidden":false,
+    "id":"trns.d54e80ab-15af-435f-b78b-2b0aca721729",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pJ lPvy xjflxOGYlF wbNWnewWPCL mRj ",
+    "notes":"CFEMZzuDyk mfMd gAUR rlazNz wxDOTCE RGWXOQpDIrt iAXdozUPc tLomCVvqVQ ONULsa Wwh ",
+    "reference":"07957"
+  },
+  "trader":"su.6cbaa181-0bb8-40bb-9b0c-d7fe9ea623b6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":274334,
+    "validationErrorCode":""
+  }
+}

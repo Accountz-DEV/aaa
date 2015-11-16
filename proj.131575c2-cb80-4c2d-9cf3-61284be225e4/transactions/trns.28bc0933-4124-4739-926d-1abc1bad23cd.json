@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"15.710285369757958",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:27.417+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-15.710285369757958",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:27.418+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:27.414+01:00",
+    "hidden":false,
+    "id":"trns.28bc0933-4124-4739-926d-1abc1bad23cd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lctCU XBTqhoV vP waHF hs ",
+    "notes":"vcTUAyhg NHVAtNZuZ phtgyXce dl knPBpVXv TNPKHyjm iQuQLDqJjA FKTP nIKPZIS Hx ",
+    "reference":"06250"
+  },
+  "trader":"su.8f0252c5-6aff-4576-bbff-b24e4f362d9c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":669164,
+    "validationErrorCode":""
+  }
+}

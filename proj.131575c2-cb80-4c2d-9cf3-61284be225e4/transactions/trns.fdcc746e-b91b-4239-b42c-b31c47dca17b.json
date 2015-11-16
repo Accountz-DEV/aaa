@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"93.72815205214499",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.542+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-93.72815205214499",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.543+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:21.54+01:00",
+    "hidden":false,
+    "id":"trns.fdcc746e-b91b-4239-b42c-b31c47dca17b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZVQwghUah NgdG wNXTRtfRO LdSo nIMfX ",
+    "notes":"KREabMUCx JITY sFoIhcD XN DsUgrvdHk yJsr SF uga NewVDEtl UpjQ ",
+    "reference":"86951"
+  },
+  "trader":"su.bcc9b522-2d74-48f9-aee9-89844dd01d7e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":830678,
+    "validationErrorCode":""
+  }
+}

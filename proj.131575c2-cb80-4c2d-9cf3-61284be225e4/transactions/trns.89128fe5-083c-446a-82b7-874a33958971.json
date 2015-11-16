@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"79.8241072760574",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:47.33+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-79.8241072760574",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:47.331+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:47.328+01:00",
+    "hidden":false,
+    "id":"trns.89128fe5-083c-446a-82b7-874a33958971",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PH fgEThKHWjD FDzv dc SsvU ",
+    "notes":"vXmB qkSyBtuh GytZ aVvsIzQ cE RNBxKOXidpt KHx vTU JCWSvd sTTu ",
+    "reference":"97620"
+  },
+  "trader":"su.dd3e7cd3-6366-48cf-8d81-2458ac83d2e6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":797666,
+    "validationErrorCode":""
+  }
+}

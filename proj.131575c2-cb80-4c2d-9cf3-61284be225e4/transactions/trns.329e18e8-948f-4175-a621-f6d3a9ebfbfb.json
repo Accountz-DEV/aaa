@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"53.62885527288462",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:37.358+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-53.62885527288462",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:37.353+01:00",
+    "hidden":false,
+    "id":"trns.329e18e8-948f-4175-a621-f6d3a9ebfbfb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cFMg lSOJ EvCdLVr Oyi FRrbAw ",
+    "notes":"rMnwvfWhYW CqYxqyNCUk KNpVWzfyyq rnoOSf ckAaHgRZTz KhGCiDYGX WHDxGWfYMU iCbMLAge XpGGg FEnqPUCE ",
+    "reference":"52097"
+  },
+  "trader":"su.dec3cb5c-eb95-4de1-86ab-87d4a95913a6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":234770,
+    "validationErrorCode":""
+  }
+}

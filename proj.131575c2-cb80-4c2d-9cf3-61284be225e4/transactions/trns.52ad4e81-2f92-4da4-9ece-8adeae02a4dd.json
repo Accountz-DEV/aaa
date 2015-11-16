@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"5.382109862128348",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:19.834+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-5.382109862128348",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:19.835+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:19.83+01:00",
+    "hidden":false,
+    "id":"trns.52ad4e81-2f92-4da4-9ece-8adeae02a4dd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"AmBGN msT sldqtzSpwE sQuCOVtf WRTBtXSWuE ",
+    "notes":"HVVzamxPcf DaboMiF qtjHd dPWMok SdDegr GzLXP cL tuvdkkDYyR lyiiC UVnkC ",
+    "reference":"20556"
+  },
+  "trader":"su.20bb2cbd-66cc-44aa-a15e-335c81ec4fd5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":162320,
+    "validationErrorCode":""
+  }
+}

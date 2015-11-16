@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"67.87164322266656",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-67.87164322266656",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:21.231+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:21.228+01:00",
+    "hidden":false,
+    "id":"trns.b510b60a-7b06-4207-8d14-3fec296ec281",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"eiEtLHgRMlh HYzOaMAg jPxuQunC DG sqVQgEzIZv ",
+    "notes":"dmYKM rWHHSVFsyo mqCbv TZneEryQSB YbIIzFEXfs EmuTqUpkNwc cCOKc swonbrc LImvnEU Ceo ",
+    "reference":"13005"
+  },
+  "trader":"su.fc6d19f1-8cec-4043-a20e-63b47fd305e1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":887054,
+    "validationErrorCode":""
+  }
+}

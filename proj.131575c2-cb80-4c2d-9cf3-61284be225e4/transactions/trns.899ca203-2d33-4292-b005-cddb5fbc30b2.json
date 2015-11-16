@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"22.4638499786466",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:33.887+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-22.4638499786466",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:33.888+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:33.884+01:00",
+    "hidden":false,
+    "id":"trns.899ca203-2d33-4292-b005-cddb5fbc30b2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"UPgBVZyjmG kIUyoSv vwL ErfksrMdmGE ccwljtJY ",
+    "notes":"CkETMWT MOouvS lWMr Kf WBsOO kyDTgmeT LIg RSFz uQrJy CyslUcfodyE ",
+    "reference":"06465"
+  },
+  "trader":"su.719df0e3-7e1c-4bde-aa85-e3c2d32d1fb5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":65534,
+    "validationErrorCode":""
+  }
+}

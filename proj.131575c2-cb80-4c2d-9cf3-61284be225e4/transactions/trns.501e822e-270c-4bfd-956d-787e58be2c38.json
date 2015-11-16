@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"50.34621039349927",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-50.34621039349927",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:03.203+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:03.2+01:00",
+    "hidden":false,
+    "id":"trns.501e822e-270c-4bfd-956d-787e58be2c38",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dtItM OrEYtSLyVna rYGJjMcRXu UOlqc tUYmUyl ",
+    "notes":"YuEkxdFG TfCoSG omiA FeQybsgW JhqYQEn OLnfczCsL bmJpxjWBJ WXMDbAp jmsr vXepcFrwf ",
+    "reference":"24137"
+  },
+  "trader":"su.370b980f-6db0-4fb1-90f7-ce443b0abf63",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":592826,
+    "validationErrorCode":""
+  }
+}

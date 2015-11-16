@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"54.358517009622155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.245+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-54.358517009622155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.246+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:49.242+01:00",
+    "hidden":false,
+    "id":"trns.62a355c9-476e-404f-bad0-0e0e1beb78d1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"vKaVjCNppP fjWD ie RY uBwJpl ",
+    "notes":"lHYCQFod tj QMDxnuJ UD bMs hTkkM AtHIefs MqCS KdLR vMNAbGfxL ",
+    "reference":"77624"
+  },
+  "trader":"su.ff8ff7ff-c69f-4b6c-b5d6-1ea2f7fae1cf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":24188,
+    "validationErrorCode":""
+  }
+}

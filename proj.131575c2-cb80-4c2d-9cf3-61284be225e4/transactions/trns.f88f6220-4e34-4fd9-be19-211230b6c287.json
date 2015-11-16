@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"86.05834966054813",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:52.084+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-86.05834966054813",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:52.085+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:52.081+01:00",
+    "hidden":false,
+    "id":"trns.f88f6220-4e34-4fd9-be19-211230b6c287",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"MHgLWffu FT UpIhtVo qYKapC iLKRulDvTu ",
+    "notes":"GmGo AiiOWh BdWwXtwV kzeyEit FRAof TLDaVVKsM JRiNIGa mvfZ tBPDtkK WTkr ",
+    "reference":"30696"
+  },
+  "trader":"su.2f1822db-c37f-49d2-b45d-ab480348de15",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":859892,
+    "validationErrorCode":""
+  }
+}

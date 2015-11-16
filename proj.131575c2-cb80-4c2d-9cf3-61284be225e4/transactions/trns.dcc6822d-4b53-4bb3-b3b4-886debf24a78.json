@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"35.2236824726847",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-35.2236824726847",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:30.148+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:30.144+01:00",
+    "hidden":false,
+    "id":"trns.dcc6822d-4b53-4bb3-b3b4-886debf24a78",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SQnVByQ hYdi ePcfpFuyi Vh PUpLiS ",
+    "notes":"gFxvNdkeXFp EYfid jsteNyv HZmoELkFqL lfBPDr LhIXOXP UEcOraWao MbEL dOFxwjzJLh PZgumAGv ",
+    "reference":"24251"
+  },
+  "trader":"su.78831b40-d105-4df4-9a60-4fededbc47d4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":172562,
+    "validationErrorCode":""
+  }
+}

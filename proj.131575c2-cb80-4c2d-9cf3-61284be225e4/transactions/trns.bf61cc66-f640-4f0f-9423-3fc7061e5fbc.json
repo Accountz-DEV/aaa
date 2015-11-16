@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"11.09975809874788",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-11.09975809874788",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:11.04+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:11.037+01:00",
+    "hidden":false,
+    "id":"trns.bf61cc66-f640-4f0f-9423-3fc7061e5fbc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"bjsewXyw xI AZMMnYIX koB qstkEGRML ",
+    "notes":"tsTZjYZZYBV Ofh fuNcgpXgpfI sSmySI CYqPQMN bXrdEXwu UoMFX yqchkvn OUOBWNiS gvRh ",
+    "reference":"60698"
+  },
+  "trader":"su.c43ff14e-0f18-4edf-bfff-f9048f2bc0b1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":600692,
+    "validationErrorCode":""
+  }
+}

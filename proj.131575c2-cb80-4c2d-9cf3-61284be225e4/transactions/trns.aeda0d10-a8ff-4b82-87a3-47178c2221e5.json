@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"63.81572618171535",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:39.892+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-63.81572618171535",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:39.893+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:39.888+01:00",
+    "hidden":false,
+    "id":"trns.aeda0d10-a8ff-4b82-87a3-47178c2221e5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QD Sl TyYx LmmE KIBGrVOswv ",
+    "notes":"dPYD vZbXhriHIWm PYlPkWb cldTpsn IeJEzNg UzBUTU FHlaxz QCG dExsanvhx TiX ",
+    "reference":"39516"
+  },
+  "trader":"su.a439efe4-9171-4d22-82eb-49b36267aeba",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":125960,
+    "validationErrorCode":""
+  }
+}

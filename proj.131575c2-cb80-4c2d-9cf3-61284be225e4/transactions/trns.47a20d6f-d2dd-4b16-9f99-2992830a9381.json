@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"11.752285453704436",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-11.752285453704436",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:24.424+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:24.421+01:00",
+    "hidden":false,
+    "id":"trns.47a20d6f-d2dd-4b16-9f99-2992830a9381",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-05-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"GHTVxrB HYMEgiilEE HGnANvepkiq vc jfMjvfubq ",
+    "notes":"mwwkVRGKim FtDyKG amwXquW lYkRRuD ZHD tOgwtNYve HyZHqjN Kzxm WEbX drsvfnCA ",
+    "reference":"61150"
+  },
+  "trader":"su.a2d50bad-7187-4368-9b6a-4087348931b8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":775850,
+    "validationErrorCode":""
+  }
+}

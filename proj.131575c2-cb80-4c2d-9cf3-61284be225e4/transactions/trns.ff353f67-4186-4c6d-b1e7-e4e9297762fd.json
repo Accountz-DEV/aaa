@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"28.394229769121758",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-28.394229769121758",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:31.298+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:31.295+01:00",
+    "hidden":false,
+    "id":"trns.ff353f67-4186-4c6d-b1e7-e4e9297762fd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-02T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JVkTTstH RrJcHWZE ZtPTf blFBOWnuI VebGyZYFHQb ",
+    "notes":"hPFL iUupnnLMBxr dWYO ZOfRhjLg wsMpxkovhFj dvvnhhVTIKO tSSJ KLkpQ zLMIbCpm tuiSVLsy ",
+    "reference":"80807"
+  },
+  "trader":"su.786aae0d-9a67-4f8f-bd69-8dd36544f38c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":895910,
+    "validationErrorCode":""
+  }
+}

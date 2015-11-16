@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"32.735091386470614",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:49.066+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-32.735091386470614",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:49.066+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:49.063+01:00",
+    "hidden":false,
+    "id":"trns.964a23d5-19de-4426-a6b7-69e188a1894a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-02T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"pNFB Px eKjHQH uYSnSON UkOPRSpyqG ",
+    "notes":"cV HsoEPYp WreMUaQYPC KXHuh Zepk Oaqd mpbEjp CbiCoVqpRMC DLe WQnLS ",
+    "reference":"87162"
+  },
+  "trader":"su.fa604456-e96f-4bc6-a450-a874e70811a6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":743378,
+    "validationErrorCode":""
+  }
+}

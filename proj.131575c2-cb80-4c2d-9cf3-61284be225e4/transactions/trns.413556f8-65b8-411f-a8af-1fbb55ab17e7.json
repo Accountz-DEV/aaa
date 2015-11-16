@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"14.092307166286666",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:23.649+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-14.092307166286666",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:23.65+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:23.647+01:00",
+    "hidden":false,
+    "id":"trns.413556f8-65b8-411f-a8af-1fbb55ab17e7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"XbctK GjpYESSh WgynZa cGQw ZwrYjq ",
+    "notes":"OXnPGhy bJjiGOznw YxyNCqKk imBIchBZs KsYE tROhZ msMxPi AnEVVDH OcG LPynbFmOPSf ",
+    "reference":"19688"
+  },
+  "trader":"su.d6476627-7cd3-4fc5-94f5-021da9d5a173",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":665474,
+    "validationErrorCode":""
+  }
+}

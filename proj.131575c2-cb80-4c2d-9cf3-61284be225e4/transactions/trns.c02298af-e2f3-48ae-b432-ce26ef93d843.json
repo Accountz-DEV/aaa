@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"55.1272880637756",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:17.027+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-55.1272880637756",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:17.028+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:17.024+01:00",
+    "hidden":false,
+    "id":"trns.c02298af-e2f3-48ae-b432-ce26ef93d843",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rnFlvcqozRO vVmK vP NrBqrMSenU pLfqUnmnbVB ",
+    "notes":"CZ NmAFcFyoK QArqwwnDq fsowVmVi yHUo Lg bmCePdTBSI CTjJ SEmwc zyp ",
+    "reference":"21243"
+  },
+  "trader":"su.edbda86c-8f3f-4835-81e4-8dd767a865a2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":271598,
+    "validationErrorCode":""
+  }
+}

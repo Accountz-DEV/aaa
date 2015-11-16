@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"89.04938258579297",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-89.04938258579297",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:36.978+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:36.974+01:00",
+    "hidden":false,
+    "id":"trns.3fb5067c-1789-4379-ad55-d093a105ce46",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PWkktS FkjHLWwyYcZ cuWmUxkB SDfGaECfK LVuo ",
+    "notes":"jPrtJFGgK tZZJiQoODX kuA laRAbcLlIiG Gbmomibq MDyMrpvpZmL CuAZ AEm uNr rzSdUwg ",
+    "reference":"59513"
+  },
+  "trader":"su.f03df791-99a7-4cb8-a08b-4e457e607c44",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":512150,
+    "validationErrorCode":""
+  }
+}

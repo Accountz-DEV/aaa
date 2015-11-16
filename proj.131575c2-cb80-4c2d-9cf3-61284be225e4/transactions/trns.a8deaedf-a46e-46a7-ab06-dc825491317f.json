@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"21.92585375912174",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.285+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-21.92585375912174",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:45.286+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:45.281+01:00",
+    "hidden":false,
+    "id":"trns.a8deaedf-a46e-46a7-ab06-dc825491317f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"LgoEJS DOQYcV wJlTSb IKJLRt NaK ",
+    "notes":"FFwMsZ DIyb LgNmPUymnr cFKzrEfaC pNksGL cRAHH VNRETEicEa SQ HaiosxDFCX WIYh ",
+    "reference":"52210"
+  },
+  "trader":"su.a119493a-18b8-4b22-a4e6-f8691bc2e274",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":130676,
+    "validationErrorCode":""
+  }
+}

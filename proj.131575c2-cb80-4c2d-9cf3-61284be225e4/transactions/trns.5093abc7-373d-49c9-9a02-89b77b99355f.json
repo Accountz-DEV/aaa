@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"83.06527445950447",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:58.774+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-83.06527445950447",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:58.775+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:58.771+01:00",
+    "hidden":false,
+    "id":"trns.5093abc7-373d-49c9-9a02-89b77b99355f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"EftGVtTgpF AB iRdKnajMhr oYPtdm KhMEZe ",
+    "notes":"oiyZVM sqydi CowFf MZMH Va wVHBetWGj jY IDBoyZ AlxTS kntuwcWtHD ",
+    "reference":"83760"
+  },
+  "trader":"su.4708f74b-48a0-45e6-95b3-a2e8458c0281",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":143384,
+    "validationErrorCode":""
+  }
+}

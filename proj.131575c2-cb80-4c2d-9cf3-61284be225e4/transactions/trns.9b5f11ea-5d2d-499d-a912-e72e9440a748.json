@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"33.209414488897316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:10.629+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-33.209414488897316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:10.629+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:10.626+01:00",
+    "hidden":false,
+    "id":"trns.9b5f11ea-5d2d-499d-a912-e72e9440a748",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"HXyZsxUjbtP iKfsXN rVAu rLAE YixV ",
+    "notes":"QVjaEuNxL jC mj jB GrOQdDOeBi wvIPtrq CrdiLfg QTc hFI MlrI ",
+    "reference":"84067"
+  },
+  "trader":"su.0c230fa6-32fb-46d5-abe2-f07feb867b45",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":820346,
+    "validationErrorCode":""
+  }
+}

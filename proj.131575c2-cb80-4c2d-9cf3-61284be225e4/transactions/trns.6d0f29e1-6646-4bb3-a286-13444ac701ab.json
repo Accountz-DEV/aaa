@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"95.24217319922703",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:11.428+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-95.24217319922703",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:11.424+01:00",
+    "hidden":false,
+    "id":"trns.6d0f29e1-6646-4bb3-a286-13444ac701ab",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-05-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZWgqYJs zVeGNEtT igdgsqL Hv rfAlIVd ",
+    "notes":"AoUuTv kqQWxmq CzLV CJxSlOxObe OaaoXNc oeks KriXCc VcdNGqKM rRJbYbYTnPE BKdv ",
+    "reference":"91802"
+  },
+  "trader":"su.d090ca61-ae01-453b-aa58-fb4c5de3a38e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":376556,
+    "validationErrorCode":""
+  }
+}

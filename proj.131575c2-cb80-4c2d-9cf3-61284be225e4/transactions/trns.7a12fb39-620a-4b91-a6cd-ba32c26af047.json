@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"80.40683635569688",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-80.40683635569688",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:55.232+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:55.227+01:00",
+    "hidden":false,
+    "id":"trns.7a12fb39-620a-4b91-a6cd-ba32c26af047",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"kDZoehSORMD QWZAHdKitn KcqGi qzht GRtZgHQJDQ ",
+    "notes":"AvteDtNW cuVydxxmgo xStfLfk nGeeuMyIs DPcaCg glIknLrfpMw LZq zGrThH Ras cDKhrw ",
+    "reference":"76320"
+  },
+  "trader":"su.6063d52a-5aee-4d0f-a627-50fa8c6699b9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":84632,
+    "validationErrorCode":""
+  }
+}

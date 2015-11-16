@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"99.98300226642722",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:34.956+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-99.98300226642722",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:34.957+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:34.954+01:00",
+    "hidden":false,
+    "id":"trns.fe4ea9e2-21e4-4315-835f-0141a7e52115",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"UhspIrMdN CktxL PG NwNjs vlSxezL ",
+    "notes":"mFr JwG ni occg DlTQasOLP dmoahhqUBd rOmp wymdpiYoIcs xCYUvu Cgc ",
+    "reference":"71438"
+  },
+  "trader":"su.aeec3b50-bfcc-4ce5-9c77-bcb521af4bc8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":343256,
+    "validationErrorCode":""
+  }
+}

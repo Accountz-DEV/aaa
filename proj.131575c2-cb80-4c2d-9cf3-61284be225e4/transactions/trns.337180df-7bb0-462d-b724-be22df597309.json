@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"55.37037641803558",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:21.618+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-55.37037641803558",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:21.619+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:21.614+01:00",
+    "hidden":false,
+    "id":"trns.337180df-7bb0-462d-b724-be22df597309",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ihWWmmZkj eaeGUqpQ OTC HbuF czrGvnRGM ",
+    "notes":"GB KEF vdVEZN HPzO lZSIJCV lUNJqXKZ zwNbDm wARanfxkZ AnbaRXn hNRoHrBwzG ",
+    "reference":"02452"
+  },
+  "trader":"su.72349c43-d5d4-4064-980b-73e1261b27a1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":442526,
+    "validationErrorCode":""
+  }
+}

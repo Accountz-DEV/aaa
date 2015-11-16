@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"40.38981166737344",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:55.031+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.444efa20-a886-4b29-8948-937658ff425f",
+      "amount":"-40.38981166737344",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:55.032+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:55.029+01:00",
+    "hidden":false,
+    "id":"trns.1947b501-d857-4288-b28e-66ce88280337",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TD BIBnZyN fWqoEbuxnPV lFZp ZWplb ",
+    "notes":"fVoeU GsztcCGvPn BxAPTR btoUPCSgfjJ VV vGct Zz DKc mjuziDQMl EUSQdfM ",
+    "reference":"45584"
+  },
+  "trader":"su.fd41f3eb-231a-45cc-a10e-ecbbea45d0a8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":805280,
+    "validationErrorCode":""
+  }
+}

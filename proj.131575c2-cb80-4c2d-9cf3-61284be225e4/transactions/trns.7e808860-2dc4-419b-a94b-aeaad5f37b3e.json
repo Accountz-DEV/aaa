@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"51.24291608182241",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:11.664+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-51.24291608182241",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:11.662+01:00",
+    "hidden":false,
+    "id":"trns.7e808860-2dc4-419b-a94b-aeaad5f37b3e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"bFsgZTPlnj EFDKiDr fyTKHiIXI RsgJYcKoT vFxcFruIq ",
+    "notes":"gBcmyL jFfSVWglwko dgqONfDlmJF KZxZt AhfPqbCoheK VyXdyNaY QMYs pWCIVdqAvF FYY pym ",
+    "reference":"89400"
+  },
+  "trader":"su.3ffa777a-a853-499f-9fd4-93e5c536a551",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":543722,
+    "validationErrorCode":""
+  }
+}

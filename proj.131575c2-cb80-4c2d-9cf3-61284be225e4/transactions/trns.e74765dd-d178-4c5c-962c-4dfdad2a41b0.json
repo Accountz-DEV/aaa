@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"43.20005241625553",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-43.20005241625553",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:05.36+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:05.356+01:00",
+    "hidden":false,
+    "id":"trns.e74765dd-d178-4c5c-962c-4dfdad2a41b0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ppIUAJQLOgw ZQbwBt oaIOSpYKYP VMGuS DnexTIBrXAB ",
+    "notes":"XcaItR zFUAOdL wO xDRW dA EQvjMdPtFjq ZMuiW cfKQmq Qn SXFDVm ",
+    "reference":"58833"
+  },
+  "trader":"su.b460b284-97a7-4e8d-b1c8-7094b7789b72",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":872384,
+    "validationErrorCode":""
+  }
+}

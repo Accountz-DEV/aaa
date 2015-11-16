@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"83.8971954402071",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.664+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-83.8971954402071",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.665+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:19.662+01:00",
+    "hidden":false,
+    "id":"trns.24c46038-e8dd-43fd-a2fd-3d3903475fe0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"RgUEsqovlZO GsIYCVjq GoC pX FYO ",
+    "notes":"eTc oke qtvZ IfcwEmqgf FGHyOpaWz KNAwzNhlxIe BsmNscUXOO rWmh vsM Urbo ",
+    "reference":"24131"
+  },
+  "trader":"su.e180c045-8671-4be5-9e77-083d139898cf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":552110,
+    "validationErrorCode":""
+  }
+}

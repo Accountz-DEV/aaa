@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"22.041207101492986",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.223+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-22.041207101492986",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.224+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:56.221+01:00",
+    "hidden":false,
+    "id":"trns.b6cdf0df-daa5-4cc2-ae45-4383abaa8c24",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-29T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QDTGNL ZvZHctEfgn DV GTzQ kASMnVnDcGm ",
+    "notes":"TJAmcfwyvzh kA skSjpTKs FkgqxpaOn SkW UKhCdSD ISMtdRD wjQDLo GlVxTsaryMD DBPO ",
+    "reference":"77247"
+  },
+  "trader":"su.8448f83c-380b-4998-8c19-78b7f68ab98a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":750110,
+    "validationErrorCode":""
+  }
+}

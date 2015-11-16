@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"42.79942812757825",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-42.79942812757825",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:55.853+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:55.851+01:00",
+    "hidden":false,
+    "id":"trns.e61b62c6-7e2f-44d7-8baa-6a463100d196",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"osj tchXdb rCoIhEpmhH qTPSMyIyJRp GXyVCOSoLtO ",
+    "notes":"gzQgf Vwi fKhEl dErnNprNYS PFsFKHz GZwBk CxpPGN On eemGavgNu nfYSZHmKGM ",
+    "reference":"42972"
+  },
+  "trader":"su.43cda27e-5f69-4892-99d3-d2f1814d249b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":863096,
+    "validationErrorCode":""
+  }
+}

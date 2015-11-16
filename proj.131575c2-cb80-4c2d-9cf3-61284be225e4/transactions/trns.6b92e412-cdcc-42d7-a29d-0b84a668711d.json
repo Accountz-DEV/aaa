@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"67.81591970731586",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:00.006+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4bfec209-73a2-4f0d-84eb-cd8fe70c31fe",
+      "amount":"-67.81591970731586",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:00.007+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:00.004+01:00",
+    "hidden":false,
+    "id":"trns.6b92e412-cdcc-42d7-a29d-0b84a668711d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NRWiK qQYSHzZQF mMTtwcakn aYjewb dAS ",
+    "notes":"HiqWJq PkgwTmzmAeL iV xtjsirFKb TfNPFkZhP KRAwSM QC vtcnuWeg zTDEuVOv RxTrNyvOXl ",
+    "reference":"32060"
+  },
+  "trader":"su.ea0b857d-5922-4b4d-87b6-e3409aca7cf9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":311378,
+    "validationErrorCode":""
+  }
+}

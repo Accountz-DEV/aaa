@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"74.00217286983244",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:52.708+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-74.00217286983244",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:52.71+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:52.705+01:00",
+    "hidden":false,
+    "id":"trns.61e82b32-814f-42a9-8457-ebe91ec446e4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"EonvpC gKuM ObIXWLWpk VRy oajHQjd ",
+    "notes":"nC ec BBGaol VarfzmoxAw uGtBGP oCR jjIkR mToMsgvgVL Jl cDyrd ",
+    "reference":"19696"
+  },
+  "trader":"su.44a8b28a-28ea-4c20-bfa3-3257fa09f284",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":137336,
+    "validationErrorCode":""
+  }
+}

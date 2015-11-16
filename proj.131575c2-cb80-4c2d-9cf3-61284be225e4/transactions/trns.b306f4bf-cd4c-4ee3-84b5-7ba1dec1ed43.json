@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"30.087046474248414",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"-30.087046474248414",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:49.961+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:49.958+01:00",
+    "hidden":false,
+    "id":"trns.b306f4bf-cd4c-4ee3-84b5-7ba1dec1ed43",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-10-03T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"aaoxcB xzikzVpR yIpzFzHJL HoKISbarS ZpIrii ",
+    "notes":"SBHVc ym HbOBvFwvwWK vzi LpcSwbk lgYxCVg gbhQD YjquBQ wCMMalDrfd SHDWL ",
+    "reference":"74736"
+  },
+  "trader":"su.6e3d4388-bda4-48c0-b4b6-a14ef7d0ce4e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":301730,
+    "validationErrorCode":""
+  }
+}

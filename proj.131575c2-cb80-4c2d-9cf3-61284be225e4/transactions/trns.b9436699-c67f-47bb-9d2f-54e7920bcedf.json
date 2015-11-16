@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"20.43550815402758",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-20.43550815402758",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:26.541+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:26.537+01:00",
+    "hidden":false,
+    "id":"trns.b9436699-c67f-47bb-9d2f-54e7920bcedf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-23T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lJssxmkYvc jpNoKYKJCyD WworrPHg ghrdvsfodJH onlnXWpPCFQ ",
+    "notes":"BiKTLRXX io wZ HwzuM gkAxkLP TdCRX giHWTVpcp yvZNtthw ljtm rmnD ",
+    "reference":"44103"
+  },
+  "trader":"su.70a7be66-196e-4f97-82ac-d0a9ea03ee42",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":280058,
+    "validationErrorCode":""
+  }
+}

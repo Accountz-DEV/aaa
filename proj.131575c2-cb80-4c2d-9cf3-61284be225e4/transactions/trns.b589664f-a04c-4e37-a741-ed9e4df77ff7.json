@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"31.551241700236922",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:06.82+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-31.551241700236922",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:06.82+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:06.817+01:00",
+    "hidden":false,
+    "id":"trns.b589664f-a04c-4e37-a741-ed9e4df77ff7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-12-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CgC prJUOSzoOMa pQ ewDm zN ",
+    "notes":"jIlr tzfBbdas FrGheE Da PsF GCDTKli KhqC tXBuqQhGn DONQE GNY ",
+    "reference":"74693"
+  },
+  "trader":"su.204fe2fb-b036-4b34-b3c5-02193256efc3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":649526,
+    "validationErrorCode":""
+  }
+}

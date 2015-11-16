@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"19.775856465350284",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:13.907+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-19.775856465350284",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:13.903+01:00",
+    "hidden":false,
+    "id":"trns.3acb1b82-3d86-4145-8afc-47ff3b4047c5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"FoTFl UdnzDNfTZj tyv lQPVWChrvIY GAbMLNGcx ",
+    "notes":"iVACGqUmE ztMhqUfeD kwkYuCHv Me hbEWgnrVDN kioBZefdcT VvRrYlNVzf gPF LpdKT FRCMAhi ",
+    "reference":"30068"
+  },
+  "trader":"su.e7bafd95-ba00-445f-88bd-deac4e292eac",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":379400,
+    "validationErrorCode":""
+  }
+}

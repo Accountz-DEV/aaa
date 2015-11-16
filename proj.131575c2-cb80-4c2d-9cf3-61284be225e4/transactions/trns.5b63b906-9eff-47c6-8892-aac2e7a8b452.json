@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"39.07831826185648",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.378+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-39.07831826185648",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.379+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:21.376+01:00",
+    "hidden":false,
+    "id":"trns.5b63b906-9eff-47c6-8892-aac2e7a8b452",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"rmS Gz NPAlxZjPOVA TOL lAcwOgxrcI ",
+    "notes":"SoLWowtDap zkNTCxIYjX qwzpsM sMh dXWUE Iix lJJLAB GHGCQg ofRf kRuefzR ",
+    "reference":"33506"
+  },
+  "trader":"su.7d50c4ea-d1e7-413c-be73-71898edfed58",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":830282,
+    "validationErrorCode":""
+  }
+}

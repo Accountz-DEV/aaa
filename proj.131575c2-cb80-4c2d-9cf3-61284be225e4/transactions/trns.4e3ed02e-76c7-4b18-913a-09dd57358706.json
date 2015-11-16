@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"66.68572609447935",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:01.127+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-66.68572609447935",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:01.124+01:00",
+    "hidden":false,
+    "id":"trns.4e3ed02e-76c7-4b18-913a-09dd57358706",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dZeTGwbeOW pqzTVxEffF chXeGRm OKygtpvu ujFzDeDRC ",
+    "notes":"NlYEtt GHpmhQdgXYf CvDBNnNIn uls SgyalOeMMAm SdS iXFaYYGDRvs MxctC skbgVAeQe UnyzWTx ",
+    "reference":"40880"
+  },
+  "trader":"su.4dde9042-3ae7-45c1-be1c-1152c5722365",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":811094,
+    "validationErrorCode":""
+  }
+}

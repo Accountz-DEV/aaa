@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"88.97396894829126",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-88.97396894829126",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:06.581+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:06.576+01:00",
+    "hidden":false,
+    "id":"trns.f243b0e5-c389-4264-9dfa-65a53518793e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"emT URuwqxquF oJPAmrOoVO NLXBkqCD DiZMAjc ",
+    "notes":"wsIxwiZigVC ju HpMffRdWE DaFHqICiGg alpjywfKU xhZDsTef gKUHEASMx rxFH JSrf jLCCIbPA ",
+    "reference":"94504"
+  },
+  "trader":"su.5e9d9c9c-b8f0-4265-bafe-766f7448a05b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":95414,
+    "validationErrorCode":""
+  }
+}

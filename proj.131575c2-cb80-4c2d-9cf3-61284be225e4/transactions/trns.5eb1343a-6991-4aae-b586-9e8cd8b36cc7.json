@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"30.013795711220293",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-30.013795711220293",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:21.032+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:21.028+01:00",
+    "hidden":false,
+    "id":"trns.5eb1343a-6991-4aae-b586-9e8cd8b36cc7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lmgLS NGwaXxXi geQVhRuoWw acYQxIyn xiStLWzq ",
+    "notes":"VNddUXuUyn qojBSvkAdQ hTZjRnFhiHa nZQwJBCmHO gYY XFTUP WRlpesd RyNGeXH EokAL UT ",
+    "reference":"07102"
+  },
+  "trader":"su.22c85de0-962c-4802-bb04-bf268e9a7a7d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":275288,
+    "validationErrorCode":""
+  }
+}

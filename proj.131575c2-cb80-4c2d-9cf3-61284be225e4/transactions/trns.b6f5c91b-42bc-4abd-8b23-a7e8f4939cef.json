@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"46.66655950647514",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-46.66655950647514",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:02.303+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:02.3+01:00",
+    "hidden":false,
+    "id":"trns.b6f5c91b-42bc-4abd-8b23-a7e8f4939cef",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"RESO sUOBn tUQgASv xCSspTrKnS CKjaYkoNgWy ",
+    "notes":"oOT yPlOZzC pu kLhFFLxZy uCXUYVZ Axmi eiBleMl uAFhUMKNjnP TgMeVEA pCJntd ",
+    "reference":"20680"
+  },
+  "trader":"su.092f1e04-d054-4f23-9633-97b5a11cf2d7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":368960,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"6.534169265234091",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.854+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-6.534169265234091",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.855+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:24.851+01:00",
+    "hidden":false,
+    "id":"trns.9b0ba849-9603-45a4-b7ff-6d644cb3a6d4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"jGJVIhfzv OKiztpGJ WxRIgrrXa LJ rGix ",
+    "notes":"KATMgjOGpo eBUrNqg QaTfvgk KkzuiOOpYO LtB Se IpGb hiTPzl MK TUOUT ",
+    "reference":"54464"
+  },
+  "trader":"su.24d312c7-371d-4266-8f90-fd1c504109e9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":890456,
+    "validationErrorCode":""
+  }
+}

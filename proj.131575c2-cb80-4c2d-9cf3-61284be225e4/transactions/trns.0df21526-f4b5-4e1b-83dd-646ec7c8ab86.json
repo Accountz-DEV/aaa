@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"58.208432840748515",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-58.208432840748515",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:39.881+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:39.875+01:00",
+    "hidden":false,
+    "id":"trns.0df21526-f4b5-4e1b-83dd-646ec7c8ab86",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"OtogAzBX kqnL bkmuROOkvj IHXxDMvJ GZGfwhR ",
+    "notes":"KvMqd xlIpVgEOEj ofsVWPlEL wKUkiJz XdiPIxhq NGM SzbmKpxjmO JfIyCLNaaY EfqOjZog xjLIkKC ",
+    "reference":"18301"
+  },
+  "trader":"su.907f43ee-e794-4adb-8515-181348d0e9cd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":125942,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"54.90182496820732",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.143+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"-54.90182496820732",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.144+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:19.14+01:00",
+    "hidden":false,
+    "id":"trns.ee5a6eee-98f0-43c8-a7a1-dc88c216721c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-02-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"uno ZQLnc ahycLO BUQrmBdwsQz hXz ",
+    "notes":"slaRKS JnVXwkFfv ufe FNRu NDHC DwFalAF IfVJkWPMN Wdg pAd LFEu ",
+    "reference":"15291"
+  },
+  "trader":"su.2086da88-b0c1-4eac-bcdd-fbec0fa98e8f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":550922,
+    "validationErrorCode":""
+  }
+}

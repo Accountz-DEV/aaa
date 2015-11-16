@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"6.148035336299107",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:29.961+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-6.148035336299107",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:29.958+01:00",
+    "hidden":false,
+    "id":"trns.d8ce88f7-5781-4c63-b75a-91566aa37e50",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LfRKPVIN whrBxQwMOV vSrQwRHtIUm BYfMmBlkIqc TQpzzHSwz ",
+    "notes":"XhcLhi Ockob FUw oqELU gojcsE LUbuQKCBDAx apaQz qRcPeXv Am IoaWigTb ",
+    "reference":"13399"
+  },
+  "trader":"su.dedf650a-6022-43ff-a847-0986ce29289c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":172130,
+    "validationErrorCode":""
+  }
+}

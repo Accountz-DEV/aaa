@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"50.63216263243409",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:52.96+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-50.63216263243409",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:52.961+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:52.957+01:00",
+    "hidden":false,
+    "id":"trns.e8f563f4-2e9b-4da5-9974-3b16bd5e3b10",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aj esPGP HJrVBi rPIEwgsQnTi tlaw ",
+    "notes":"aNkochl HWe qf EdpaLqIL OUK DDAlFqBP IA BlnA IGA bqHSczvOQpY ",
+    "reference":"11084"
+  },
+  "trader":"su.9ca3519f-ae2c-4d20-8133-43b33973c634",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":248972,
+    "validationErrorCode":""
+  }
+}

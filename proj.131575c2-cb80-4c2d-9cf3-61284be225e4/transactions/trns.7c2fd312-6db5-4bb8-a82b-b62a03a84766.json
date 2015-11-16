@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"18.39833068640029",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:56.805+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-18.39833068640029",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:56.806+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:56.802+01:00",
+    "hidden":false,
+    "id":"trns.7c2fd312-6db5-4bb8-a82b-b62a03a84766",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pvp PfgbCKjjcZC BapT wQMsVMXWy ibQry ",
+    "notes":"NSqyfMHEI bXRxamQSDMS HUTucCCV eymPhma pkSJ umEcnqVlY SSzUxSFuAaO tMgwSu xFEKuvj QCDzRhLoS ",
+    "reference":"19603"
+  },
+  "trader":"su.14076d3b-8a8b-46d7-a484-b198654f5ff6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":196862,
+    "validationErrorCode":""
+  }
+}

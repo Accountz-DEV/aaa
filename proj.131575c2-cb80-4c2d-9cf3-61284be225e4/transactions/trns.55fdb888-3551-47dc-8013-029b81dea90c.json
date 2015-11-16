@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"51.03827134830564",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:09.976+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-51.03827134830564",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:09.977+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:09.972+01:00",
+    "hidden":false,
+    "id":"trns.55fdb888-3551-47dc-8013-029b81dea90c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"sDJHKGmbjU OJsiXLErN rOYAoJNv IMAY GcWfQGVWqLI ",
+    "notes":"daXl vr EPdebwrpi DCtOYK ki hPVOnBZKygI DcwoYSE px fCdMuzOg Fl ",
+    "reference":"93662"
+  },
+  "trader":"su.b3205ae4-fb45-4466-a7c0-ce8dd3aed237",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":819122,
+    "validationErrorCode":""
+  }
+}

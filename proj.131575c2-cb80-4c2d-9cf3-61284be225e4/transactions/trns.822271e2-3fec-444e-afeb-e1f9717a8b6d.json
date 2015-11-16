@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"79.0846929465277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:30.29+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-79.0846929465277",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:30.291+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:30.287+01:00",
+    "hidden":false,
+    "id":"trns.822271e2-3fec-444e-afeb-e1f9717a8b6d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CB Sl RmFHdHy oQKNK cOsd ",
+    "notes":"wbbtZCOgb YUM KjdeNoHliOG AZPHlDhr NBe DYinJjgtPb yarpERA QSXzzLkhnL PlseOkQNU TL ",
+    "reference":"96019"
+  },
+  "trader":"su.ed0a0d8a-d149-4a34-bfce-748003e799b1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":781700,
+    "validationErrorCode":""
+  }
+}

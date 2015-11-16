@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"12.282669141320834",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:03.229+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-12.282669141320834",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:03.23+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:03.227+01:00",
+    "hidden":false,
+    "id":"trns.3611ab5e-f91d-4c7a-af66-cb9fd59c52cf",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lBOPFCXT wRUNfOw wOnYUeCNlw BBoe USAUtJj ",
+    "notes":"HtfEkhfC ClDQnDqwiKS qrqkk MbUagCr GZdolbdWiWz DDEyVH pGtMT Dam vLdV Uq ",
+    "reference":"25946"
+  },
+  "trader":"su.a128ad32-5d6e-4677-9298-115eca6ea430",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":37238,
+    "validationErrorCode":""
+  }
+}

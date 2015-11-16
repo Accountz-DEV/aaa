@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"31.11954000404792",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.154+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-31.11954000404792",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.155+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:34.152+01:00",
+    "hidden":false,
+    "id":"trns.4b9647d1-4506-403c-afad-1002d372377a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"HxXn KtlJgIz jEfyWkmYhyj uwTDdouvXgA vkArb ",
+    "notes":"JukUq Hb klKRVM KhNtQ sJUWyICHT dwMH tkoDeTyL pMLIriWu PNEBM PqKg ",
+    "reference":"06825"
+  },
+  "trader":"su.b8f79715-eaf7-47e5-b70a-a159bd8fd74e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":785264,
+    "validationErrorCode":""
+  }
+}

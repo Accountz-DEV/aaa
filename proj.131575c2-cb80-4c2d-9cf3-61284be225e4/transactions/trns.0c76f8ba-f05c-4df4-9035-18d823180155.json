@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"15.708565018780508",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:53.898+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-15.708565018780508",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:53.899+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:53.894+01:00",
+    "hidden":false,
+    "id":"trns.0c76f8ba-f05c-4df4-9035-18d823180155",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CNWLaNJZ Gc PNsPDDaFH MnDECpmrKj xoAWdsfhX ",
+    "notes":"qJcEHL Wy PPhrvUIXenC CuNh vQcIDFEUPV Wdr TiSIx tisg nNhvCikw AbFLxnOnhb ",
+    "reference":"55241"
+  },
+  "trader":"su.ef3b3d2b-28a7-4594-93b3-806ff41d8fca",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":360536,
+    "validationErrorCode":""
+  }
+}

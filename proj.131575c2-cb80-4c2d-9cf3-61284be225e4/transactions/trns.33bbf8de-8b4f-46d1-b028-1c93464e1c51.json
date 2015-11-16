@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"27.0182002781988",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:32.095+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-27.0182002781988",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:32.096+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:32.091+01:00",
+    "hidden":false,
+    "id":"trns.33bbf8de-8b4f-46d1-b028-1c93464e1c51",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PgfTHjk EAUCvIyN latQCViQIx vDtDmusgzc pZgjZMurW ",
+    "notes":"jJ GRsPzQkfh bMMB qc ujeCTheksJc KIGe zrsl jo CTIR PhcXpjPgYf ",
+    "reference":"22886"
+  },
+  "trader":"su.bdd2b9a6-016b-426d-b580-846f6c5ba349",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":230306,
+    "validationErrorCode":""
+  }
+}

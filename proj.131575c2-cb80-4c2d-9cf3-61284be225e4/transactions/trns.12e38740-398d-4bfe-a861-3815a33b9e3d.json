@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"5.559089818910145",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-5.559089818910145",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:07.407+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:07.402+01:00",
+    "hidden":false,
+    "id":"trns.12e38740-398d-4bfe-a861-3815a33b9e3d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"hIJWiw wDsJfps bHepK UlQHPcbX DqYJtRu ",
+    "notes":"fsFXB Nxs djzOiG QrFvyKGs aBJePA fXisUfQgGW xGwvMZgfv IdiSdVoAf GVErZ mZeFak ",
+    "reference":"81290"
+  },
+  "trader":"su.a375d185-3aaf-4a9b-91fb-1a1cbcc86b8a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":372812,
+    "validationErrorCode":""
+  }
+}

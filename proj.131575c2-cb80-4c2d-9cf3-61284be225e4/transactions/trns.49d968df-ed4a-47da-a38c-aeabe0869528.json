@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"60.33531869726981",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:27.099+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-60.33531869726981",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:27.1+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:27.095+01:00",
+    "hidden":false,
+    "id":"trns.49d968df-ed4a-47da-a38c-aeabe0869528",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-07-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"VGiFK wWjMXB qO nEzecNOhP oooPR ",
+    "notes":"GQE zTWhcb ZSkGYOE TvR XkUCxZzL shCqvDWmUL xlcH DWn duh ksRnLoXRif ",
+    "reference":"02563"
+  },
+  "trader":"su.9f81fa25-43b1-4e35-8081-e693146a6db9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":4802,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"52.65364976276623",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:16.353+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-52.65364976276623",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:16.354+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:16.349+01:00",
+    "hidden":false,
+    "id":"trns.f89b5db7-ee7a-4f0c-b38f-d8cfdbb9a302",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-06T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CUHZUL lT ybJSD SJNK sbXaLfyfx ",
+    "notes":"IV WMSpCgkSmR FqpGs lp AIScxQADYX isY MxuRL RPIGEl Men IvEgY ",
+    "reference":"69505"
+  },
+  "trader":"su.63784c85-2e30-4bae-a851-b0ff5ef5e260",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":712022,
+    "validationErrorCode":""
+  }
+}

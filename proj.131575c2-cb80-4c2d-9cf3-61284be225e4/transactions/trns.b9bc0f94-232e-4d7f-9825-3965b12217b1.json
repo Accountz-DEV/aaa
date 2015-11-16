@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"20.575857598884095",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:06.789+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-20.575857598884095",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:06.79+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:06.786+01:00",
+    "hidden":false,
+    "id":"trns.b9bc0f94-232e-4d7f-9825-3965b12217b1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dbHZ eGAL qCJaG NpS OUqrgwlOe ",
+    "notes":"FTGDAPsBVKQ KgNT zjJKdA ookpHsJ kBCHThP REWJqfF cgutTAk Ncl oinft KIiv ",
+    "reference":"91468"
+  },
+  "trader":"su.c513fffc-2f8d-4c9d-8dd5-9413acef8282",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":816602,
+    "validationErrorCode":""
+  }
+}

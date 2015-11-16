@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"98.57022117819889",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:22.068+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-98.57022117819889",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:22.065+01:00",
+    "hidden":false,
+    "id":"trns.ff12c020-bb9e-4c58-9e4e-b5f8665ec06f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ETDcyiGY tLiQgtMRBAz VzmhSZGedp hGQp iMKJLxTA ",
+    "notes":"CrVKRdHbryh wxM Hhp rnx VOMk jIBaJ rpetgHT MhGpAGJNoYs TDT fAyJonnwJmo ",
+    "reference":"30286"
+  },
+  "trader":"su.c326a3b2-be8a-4494-b1cf-40cd048de134",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":717296,
+    "validationErrorCode":""
+  }
+}

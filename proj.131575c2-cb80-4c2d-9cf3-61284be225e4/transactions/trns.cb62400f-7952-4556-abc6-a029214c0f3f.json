@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"8.73261581222966",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:04.6+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"-8.73261581222966",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:04.601+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:04.597+01:00",
+    "hidden":false,
+    "id":"trns.cb62400f-7952-4556-abc6-a029214c0f3f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-07-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lxKZEHAAZz dg JCvnZnzSR xPp mSUgObEcTx ",
+    "notes":"VHdfQP htiKJo foPacxcmxkG LEb SJWoJ Bocq wFA VA CPpzIS jSA ",
+    "reference":"90484"
+  },
+  "trader":"su.9911a7b7-c07e-410b-8695-8e8c517b21fc",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":700376,
+    "validationErrorCode":""
+  }
+}

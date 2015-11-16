@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"69.81799185419337",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:32.705+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-69.81799185419337",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:32.706+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:32.702+01:00",
+    "hidden":false,
+    "id":"trns.9faaad69-1252-482f-af0c-e4477c2843f3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"phxrblk SYOD eJPkO GpEOw VfTKnGTrKY ",
+    "notes":"ujfi DD AxeaRiJn Rm xlj pB kgNplJ yusgLajaay Ea Pyq ",
+    "reference":"32387"
+  },
+  "trader":"su.b6a7557e-658d-4e54-b4fb-18a2064932c3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":727304,
+    "validationErrorCode":""
+  }
+}

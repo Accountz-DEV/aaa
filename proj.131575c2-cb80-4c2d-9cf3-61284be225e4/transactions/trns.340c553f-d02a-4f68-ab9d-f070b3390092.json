@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"23.112423312483187",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:27.049+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-23.112423312483187",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:27.05+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:27.044+01:00",
+    "hidden":false,
+    "id":"trns.340c553f-d02a-4f68-ab9d-f070b3390092",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ISWZTW Af yafaZdoxffs mLCvnksIf wLVEjblTl ",
+    "notes":"AMAWggogxe LZc PSzu Kuqn ZilCihflfJn jcMWxsV oMe iRBj IqexFIOq QxHTK ",
+    "reference":"46720"
+  },
+  "trader":"su.56545ea7-8fc2-481b-8a40-f948a518e347",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":835790,
+    "validationErrorCode":""
+  }
+}

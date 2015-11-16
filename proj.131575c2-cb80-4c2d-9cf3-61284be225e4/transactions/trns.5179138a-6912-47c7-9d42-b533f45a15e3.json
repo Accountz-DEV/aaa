@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"69.86348949201819",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:12.134+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-69.86348949201819",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:12.135+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:12.131+01:00",
+    "hidden":false,
+    "id":"trns.5179138a-6912-47c7-9d42-b533f45a15e3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cbCdp ewzDeOFVZv pwnQO YBrz QxiyRGNN ",
+    "notes":"rrZzeUcwLGd CC cWuL MyJASdKuFLc meUPSu NrEIRAr nqu MZrTTPZWUJ PYHE PJ ",
+    "reference":"44273"
+  },
+  "trader":"su.0d29ab11-b791-4ea2-85ab-98aa22731a64",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":99752,
+    "validationErrorCode":""
+  }
+}

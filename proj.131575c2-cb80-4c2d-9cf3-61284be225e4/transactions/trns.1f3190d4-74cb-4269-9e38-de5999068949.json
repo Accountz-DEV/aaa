@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"9.116011702713244",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-9.116011702713244",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:04.687+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:04.683+01:00",
+    "hidden":false,
+    "id":"trns.1f3190d4-74cb-4269-9e38-de5999068949",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-07-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WoUoOyZ lgPLStucj JOZkd wpWqoAosiFk dqIXbE ",
+    "notes":"GhaAZCocond HyLXtxLCwb aKzsYiKMmez CJngfLUqprc gpihjLqqm DIZ ImoVLuB ClCzWNDGA KDgHpN RsWEC ",
+    "reference":"12539"
+  },
+  "trader":"su.99247393-b4b7-4e14-9173-3b4a29e18ae4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":647240,
+    "validationErrorCode":""
+  }
+}

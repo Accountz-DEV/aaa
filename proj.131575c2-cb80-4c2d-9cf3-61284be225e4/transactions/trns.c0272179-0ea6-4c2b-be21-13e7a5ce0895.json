@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"85.65656178526842",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:23.3+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-85.65656178526842",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:23.3+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:23.297+01:00",
+    "hidden":false,
+    "id":"trns.c0272179-0ea6-4c2b-be21-13e7a5ce0895",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"bFnHcoWFsEr XOtQtqmdV EZJFNuVaa mx OBmsZkL ",
+    "notes":"qFpJS HKI bhJQzZRgwPW IgP gb yoPBM paoU UCGiW BDVf TMHFTr ",
+    "reference":"66887"
+  },
+  "trader":"su.5f57e501-655b-48b7-8f49-7d832a4092aa",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":555134,
+    "validationErrorCode":""
+  }
+}

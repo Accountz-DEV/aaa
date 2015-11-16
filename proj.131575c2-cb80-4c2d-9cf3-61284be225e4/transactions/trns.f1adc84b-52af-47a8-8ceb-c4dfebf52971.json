@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"21.241794000922564",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-21.241794000922564",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:06.842+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:06.839+01:00",
+    "hidden":false,
+    "id":"trns.f1adc84b-52af-47a8-8ceb-c4dfebf52971",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QMTrAExWgaL IsVsI SSSVKz nY rzWodjc ",
+    "notes":"gqJyZgWPoE nJNyXOMS YxvwuROpxo aVZkVWwWGu eDepeXieIo MKMm aJf DsgUY SOhU iBl ",
+    "reference":"50352"
+  },
+  "trader":"su.cc475976-32fe-4073-a1cf-6f8bf325992a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":595958,
+    "validationErrorCode":""
+  }
+}

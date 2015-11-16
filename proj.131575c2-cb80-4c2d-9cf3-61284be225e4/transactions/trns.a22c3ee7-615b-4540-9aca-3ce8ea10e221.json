@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"95.34832391480795",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:22.173+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-95.34832391480795",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:22.174+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:22.169+01:00",
+    "hidden":false,
+    "id":"trns.a22c3ee7-615b-4540-9aca-3ce8ea10e221",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WXbTeQgKL DEb azA mNOXl WURHn ",
+    "notes":"tUvIFHyY wT KNItyaETPq YMAffbLkO drJXV gYsj BX gcsQLkwu JRGry ajbUS ",
+    "reference":"88965"
+  },
+  "trader":"su.0f299e11-006b-4937-a2d1-0afdf5059bde",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":164966,
+    "validationErrorCode":""
+  }
+}

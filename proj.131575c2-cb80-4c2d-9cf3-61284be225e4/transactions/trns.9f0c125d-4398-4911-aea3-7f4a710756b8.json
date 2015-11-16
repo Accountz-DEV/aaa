@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"42.48164402086556",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.198+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-42.48164402086556",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.199+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:56.196+01:00",
+    "hidden":false,
+    "id":"trns.9f0c125d-4398-4911-aea3-7f4a710756b8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"YG HWiwXwsBK GOD FZx OwSZOFZH ",
+    "notes":"Rny FFJdSEi RNL dPMbCVYw hDMDexxZtXk fACFtDXM tWT xBNqpd gJ mER ",
+    "reference":"41725"
+  },
+  "trader":"su.40e54fee-10f7-4dfb-b166-9609b53e8f48",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":750038,
+    "validationErrorCode":""
+  }
+}

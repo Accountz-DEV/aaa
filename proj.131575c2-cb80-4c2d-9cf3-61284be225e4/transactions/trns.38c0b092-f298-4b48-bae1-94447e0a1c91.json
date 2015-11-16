@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"62.53468765302165",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"-62.53468765302165",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:31.443+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:31.438+01:00",
+    "hidden":false,
+    "id":"trns.38c0b092-f298-4b48-bae1-94447e0a1c91",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-05-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tcDyraHIf vOjDvHZktbA dbNxZsSr jTKYsCWSh nKj ",
+    "notes":"mtoMShXKTCf FD WnVoXDCSm VXdK DQsZLm xDFTajEQX PAda ITXjZlqu Hohe kVUjhs ",
+    "reference":"37385"
+  },
+  "trader":"su.29c282ea-19bc-4c7b-bd61-b4cf70984d8b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":563396,
+    "validationErrorCode":""
+  }
+}

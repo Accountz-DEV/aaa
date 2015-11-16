@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"16.064489336396505",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:14.894+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.444efa20-a886-4b29-8948-937658ff425f",
+      "amount":"-16.064489336396505",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:14.894+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:14.892+01:00",
+    "hidden":false,
+    "id":"trns.cf64c270-bc7f-4319-be17-864a6c67466d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ke oryTWr kWYBwXGOwhZ sjbhP EvBw ",
+    "notes":"lETUBxEfIG CyzRT ye km KRgiybo ZdAZXaxyb IjEB eLU uINkX TXE ",
+    "reference":"97778"
+  },
+  "trader":"su.a44af765-b38b-4b10-a169-b6305015680a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":604166,
+    "validationErrorCode":""
+  }
+}

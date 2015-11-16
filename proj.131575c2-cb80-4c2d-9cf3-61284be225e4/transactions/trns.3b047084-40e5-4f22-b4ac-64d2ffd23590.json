@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"83.33341093863905",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:06.587+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-83.33341093863905",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:06.588+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:06.583+01:00",
+    "hidden":false,
+    "id":"trns.3b047084-40e5-4f22-b4ac-64d2ffd23590",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lnFLA riAnrtw mKnMnzCszVq ATvp XuCixK ",
+    "notes":"lUa AfbA MnVLfc tI DOL fRf SMokkrNYhny sXZ kPw pkW ",
+    "reference":"97872"
+  },
+  "trader":"su.e7cec548-ee78-4a25-a43e-5a3acf7a204c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":150818,
+    "validationErrorCode":""
+  }
+}

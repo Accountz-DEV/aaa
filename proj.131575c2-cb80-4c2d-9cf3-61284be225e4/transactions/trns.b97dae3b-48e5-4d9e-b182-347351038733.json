@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"53.61479767380628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:08.983+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-53.61479767380628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:08.984+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:08.981+01:00",
+    "hidden":false,
+    "id":"trns.b97dae3b-48e5-4d9e-b182-347351038733",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aOJlbQ BpknSePEK HbXZ nZTPyaGh OP ",
+    "notes":"qGuDAvutdtW DzUhM iGAjq YI bcQedudcjtx kyQmM tD mOCmWt eyp HBWD ",
+    "reference":"86076"
+  },
+  "trader":"su.6ca5d1d0-8ad1-4386-8b9f-c176eb64935a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":704966,
+    "validationErrorCode":""
+  }
+}

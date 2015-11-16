@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"76.43045416440269",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:11.333+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-76.43045416440269",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:11.33+01:00",
+    "hidden":false,
+    "id":"trns.6510f8b6-eb02-4e8f-9efb-e009c1e73095",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"aQCabHj Ct bIHZCPi jEyIEr dttzGp ",
+    "notes":"dGzCRTxrqc fKoMl iYyePsb hAmJYR MBmahbQe AUzbfAL zVU PD gpg dmv ",
+    "reference":"35999"
+  },
+  "trader":"su.4604c768-cda6-4b8b-a095-659d45c60936",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":877982,
+    "validationErrorCode":""
+  }
+}

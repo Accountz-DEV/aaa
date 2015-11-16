@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"12.745117361035884",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-12.745117361035884",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:02.05+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:02.047+01:00",
+    "hidden":false,
+    "id":"trns.b7ad0567-9b69-479f-8e20-3ef4e1a1616e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"muTS BvZ OcUWqJeoUc CwDIQWdIpUr UyxqmWnnfpO ",
+    "notes":"GTZxtDQ NRSQb rzApCbvSL YlePsQOiIQ KvkmqJdoC FWdNZEdP fuiPRVxFch rIlCYV NviE shGPY ",
+    "reference":"98674"
+  },
+  "trader":"su.ee541488-d321-4dc5-b828-96a6c96f1903",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":313196,
+    "validationErrorCode":""
+  }
+}

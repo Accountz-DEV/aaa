@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"45.46081058287814",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:55.43+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-45.46081058287814",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:55.431+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:55.423+01:00",
+    "hidden":false,
+    "id":"trns.52fc5162-14d6-4f10-a242-81f2f723f97a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tcnWnLbHJkd dVTEwh WQAVYkGzW YlqeBla gewW ",
+    "notes":"oaaOMMkE MgoBTccFV pMmHQBOTO hHz Nyjd UpVb NXUIDatxL Pa VxUESoq EPsmB ",
+    "reference":"66257"
+  },
+  "trader":"su.daae000c-8ab4-4acc-b8d3-a63acc3d5f70",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":306788,
+    "validationErrorCode":""
+  }
+}

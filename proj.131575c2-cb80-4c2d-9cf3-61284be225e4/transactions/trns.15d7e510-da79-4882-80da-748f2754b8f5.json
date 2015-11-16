@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"30.609587194265497",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:06.536+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"-30.609587194265497",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:06.537+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:06.531+01:00",
+    "hidden":false,
+    "id":"trns.15d7e510-da79-4882-80da-748f2754b8f5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pyyUxIrhBZ gVQqS GCT NXaycU tJUbJpOuiy ",
+    "notes":"EtI hXUNJa AqgPXwI dhpiEp Kdh Sb FHbDG KJuhL EX EF ",
+    "reference":"56905"
+  },
+  "trader":"su.1e5d0a12-c549-4777-806a-82a06b0ed02c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":150728,
+    "validationErrorCode":""
+  }
+}

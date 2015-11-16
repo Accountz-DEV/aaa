@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"16.024751394558734",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:14.095+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-16.024751394558734",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:14.096+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:14.092+01:00",
+    "hidden":false,
+    "id":"trns.8c3cc24a-500d-4b0c-98ea-c86e8ca107a2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-12T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cxmM VstRaCP ej bIZVdyQa KzmehGH ",
+    "notes":"cufJ pLEOeg MjZng NezdhQu Fzn CWz tKGIutM jlXuyC TNI UHhBg ",
+    "reference":"08964"
+  },
+  "trader":"su.9ebb707d-38eb-49ff-b3dc-a04812616919",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":709538,
+    "validationErrorCode":""
+  }
+}

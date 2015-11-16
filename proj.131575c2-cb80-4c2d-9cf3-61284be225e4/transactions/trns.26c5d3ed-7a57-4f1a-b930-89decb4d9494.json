@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"50.27092695423955",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-50.27092695423955",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:38.137+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:38.133+01:00",
+    "hidden":false,
+    "id":"trns.26c5d3ed-7a57-4f1a-b930-89decb4d9494",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nNjxbN bpUlFK tmGtNUI UjwbXZmqs vziSDDsKbRu ",
+    "notes":"QPJPADqW wuHEaKeo FukFRPDOq mo cocZexB SCFNWQ XZqQGejmRsW WjIvFD RC ZgZy ",
+    "reference":"81542"
+  },
+  "trader":"su.7bfdd844-5578-46cf-925e-55da373437f1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":789224,
+    "validationErrorCode":""
+  }
+}

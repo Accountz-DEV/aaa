@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"34.951864588813606",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:57.435+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-34.951864588813606",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:57.431+01:00",
+    "hidden":false,
+    "id":"trns.869b50f9-3341-46f6-a64f-bc9f8a74b4ba",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JYrWHC AV rAkv SH fReRzghEpxP ",
+    "notes":"WFbUsmM FKwX rZfJTuLA KulIMN ffknLNdOAZ YsiG VzISBPeD httyGWhYg BnUuLsDNJrC SQkfe ",
+    "reference":"15618"
+  },
+  "trader":"su.29f8abc2-c0e8-4009-a62f-663e5b377280",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":308246,
+    "validationErrorCode":""
+  }
+}

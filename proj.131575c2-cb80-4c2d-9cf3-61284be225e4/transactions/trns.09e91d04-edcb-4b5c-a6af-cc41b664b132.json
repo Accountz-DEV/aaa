@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"46.141718166410264",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:31.543+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-46.141718166410264",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:31.545+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:31.54+01:00",
+    "hidden":false,
+    "id":"trns.09e91d04-edcb-4b5c-a6af-cc41b664b132",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lc lzGW Qw VwEB Et ",
+    "notes":"eJUlCSebFJl Ea mNuRs tE BYslDDtq IGyHLe SlQGyPvLs SuE LlO GIluPlFf ",
+    "reference":"17263"
+  },
+  "trader":"su.d380095b-7e57-4c8b-a1aa-dbb5892b4b44",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":229190,
+    "validationErrorCode":""
+  }
+}

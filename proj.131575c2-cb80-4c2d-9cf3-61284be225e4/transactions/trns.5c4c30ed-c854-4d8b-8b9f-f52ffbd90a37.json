@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"54.692923896226716",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-54.692923896226716",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:11.745+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:11.74+01:00",
+    "hidden":false,
+    "id":"trns.5c4c30ed-c854-4d8b-8b9f-f52ffbd90a37",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"KM fhZGCNnjb XeR SztlpEGOpjl fIG ",
+    "notes":"dgjPjsxa JN EeBYgePtWw YcdKjJyQFbz blslYt NgSgIvAg LqgSgYSyBk SqdfRdqlnG Sfeo Hz ",
+    "reference":"48676"
+  },
+  "trader":"su.205282e2-eb53-46a9-8731-da7b5e71edc0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":377150,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"22.51237428138495",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:18.696+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-22.51237428138495",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:18.697+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:18.693+01:00",
+    "hidden":false,
+    "id":"trns.314616a3-dd94-4164-8441-608cf989e9b3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"IihbDT HLKjg XUmjSMp mWi iNstMz ",
+    "notes":"LBbR fw TW jqPXUa Cls BG tkbrYTpxPMH qqpCI QaX AQiMss ",
+    "reference":"45945"
+  },
+  "trader":"su.eaf29260-0925-4c31-93d6-c2e5f987143a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":272750,
+    "validationErrorCode":""
+  }
+}

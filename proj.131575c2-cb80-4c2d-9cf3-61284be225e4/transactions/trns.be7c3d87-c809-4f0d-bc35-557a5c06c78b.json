@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"87.10105908267471",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:25.564+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-87.10105908267471",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:25.565+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:25.561+01:00",
+    "hidden":false,
+    "id":"trns.be7c3d87-c809-4f0d-bc35-557a5c06c78b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-01-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"cL dhTEFSVP DIoSOpU OkqT WuGpNfh ",
+    "notes":"gTTh ENJvuzviXAd CllbxC CBdJ NsSwLF bR GuOMkfnR MrV UDEn tkV ",
+    "reference":"02934"
+  },
+  "trader":"su.c53ea745-0408-4b43-91e2-ab58e1cafd7b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":112046,
+    "validationErrorCode":""
+  }
+}

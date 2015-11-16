@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"76.29939323999324",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-76.29939323999324",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:58.466+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:58.462+01:00",
+    "hidden":false,
+    "id":"trns.dcd82f33-4f20-43af-bc18-7341b43b0980",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"igEVFe kEepCsLheKA LujWmwJ zCucQbepgPH naOgOEC ",
+    "notes":"Lds yLYJJVFVBLD eaCo mM TCd pLmFTxqj yBAaZIWq eGNO aemyoCbcrw dVaxvD ",
+    "reference":"36951"
+  },
+  "trader":"su.cca4adc8-b8bb-45da-b49f-8ae73d28460d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":198248,
+    "validationErrorCode":""
+  }
+}

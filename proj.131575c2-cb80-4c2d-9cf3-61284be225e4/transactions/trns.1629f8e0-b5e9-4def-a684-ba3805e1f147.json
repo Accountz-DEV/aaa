@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"81.67354076177095",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-81.67354076177095",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:11.907+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:11.903+01:00",
+    "hidden":false,
+    "id":"trns.1629f8e0-b5e9-4def-a684-ba3805e1f147",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OiLZ fKZLos Xvm gNP NzUsvUJWJ ",
+    "notes":"VHJCUvR cPpuJbpe MVTdiM sSJ FbajFaGGT kKX KpHOBB jITCt fAGLfrwLQk hOWG ",
+    "reference":"07726"
+  },
+  "trader":"su.7f148f62-10be-4ccc-b83d-b13dd6a221af",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":764942,
+    "validationErrorCode":""
+  }
+}

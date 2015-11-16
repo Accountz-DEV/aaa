@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"6.968546281554944",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:07.652+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-6.968546281554944",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:07.653+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:07.65+01:00",
+    "hidden":false,
+    "id":"trns.20dab309-a5c9-48bf-b742-b05c7fbdc906",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LTXN DzZYkkTAOS OMitXAoEPWw BxhmqR wweqMuqHKK ",
+    "notes":"JdpabJXpsm HaiCNie fZJ Wk ALLz wl YBA ZoB Uv pt ",
+    "reference":"65897"
+  },
+  "trader":"su.fbacc642-8a28-46d4-8b84-f82203473d36",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":95504,
+    "validationErrorCode":""
+  }
+}

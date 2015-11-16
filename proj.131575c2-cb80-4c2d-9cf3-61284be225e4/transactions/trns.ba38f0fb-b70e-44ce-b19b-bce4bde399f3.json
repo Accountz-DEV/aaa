@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"59.53168733214507",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-59.53168733214507",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:10.474+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:10.47+01:00",
+    "hidden":false,
+    "id":"trns.ba38f0fb-b70e-44ce-b19b-bce4bde399f3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NdQehHs vwCriNaegKN wyzkn CjGgCoV xgv ",
+    "notes":"yUVbkhDOx NbhCdnJC SnePKk rIfVLRlXT GLDUBF kbYaVQBvm iEIevt RnbT vvzCoF gAp ",
+    "reference":"62534"
+  },
+  "trader":"su.f2adecdf-7b35-477e-a60a-76e3337f52ef",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":820094,
+    "validationErrorCode":""
+  }
+}

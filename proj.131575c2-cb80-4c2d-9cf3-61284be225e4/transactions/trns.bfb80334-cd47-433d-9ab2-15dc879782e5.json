@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"25.857074234299017",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:33.669+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-25.857074234299017",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:33.663+01:00",
+    "hidden":false,
+    "id":"trns.bfb80334-cd47-433d-9ab2-15dc879782e5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZJwBuGtkAA FsbQFAZT JCM YdaNneN rqukd ",
+    "notes":"TFbun XneIWR utKUjVewLbO RuIESdHio WOGPJsuTlW PwtfKlehE JgIDfCW AVP Bjs AuFUlqahT ",
+    "reference":"73789"
+  },
+  "trader":"su.5ebc4960-d3ab-45ea-ae5a-ff78afcbb403",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":10220,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"93.10889917522958",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:59.712+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-93.10889917522958",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:59.713+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:59.71+01:00",
+    "hidden":false,
+    "id":"trns.b41fbb55-7646-4c97-ac2a-d3746ad864fe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QphTokYOf kXa hbMoNkSgzD rKxdiy EBsmMUbMwce ",
+    "notes":"qRMzTWf WtFUT hAx HjsIusf FvFF mzt OEOUYY yLaGo QT gOdbxFbvdy ",
+    "reference":"45801"
+  },
+  "trader":"su.ed0c5dee-b826-4631-873b-7aec7384e509",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":696560,
+    "validationErrorCode":""
+  }
+}

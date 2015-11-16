@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"97.70784518772906",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.121+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-97.70784518772906",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:19.122+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:19.119+01:00",
+    "hidden":false,
+    "id":"trns.f2e0feea-0345-4558-9c89-e146461a69f0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"sg DDqSxZmEXBa Mr sbXvaa cACCtSReN ",
+    "notes":"snTFbjprQD rEChmDoCPR MaPfzdhH JI DkVOw kpSa giTS CU cGIgr rICVcGoKuC ",
+    "reference":"30494"
+  },
+  "trader":"su.48aff60c-17be-4623-bfdb-18f86683fc06",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":550868,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"21.316967132532703",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:15.589+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"-21.316967132532703",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:15.59+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:15.585+01:00",
+    "hidden":false,
+    "id":"trns.0e00085b-a9a9-4c1a-9911-cf0c53c5f751",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pUDQnd egQOxolKx dwBHXQ dR hUrWd ",
+    "notes":"oDlF RmWIVlhEQb Bt WCbXcQOaXt lpetSlRK JQASzAyS okD xyHLTHy KAYXwdzIB RSO ",
+    "reference":"07045"
+  },
+  "trader":"su.5a72401a-78d1-4404-8bb7-ced86ba867fa",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":492548,
+    "validationErrorCode":""
+  }
+}

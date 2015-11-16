@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"99.73280146985738",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-99.73280146985738",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:14.267+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:14.264+01:00",
+    "hidden":false,
+    "id":"trns.ad00137b-480d-4dbb-8f70-594b56fa6cc2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"zdXQoWXgwYs hIXrBQSPq fpud aMRCta NgWPAF ",
+    "notes":"hrUOw WACkLBTCtE YLaDTOlpxAg vwyLhwhw URNLHIn DlbAXnxgI bhjODUK nQqCZyM SECFs FVyS ",
+    "reference":"03515"
+  },
+  "trader":"su.1e8362d4-ef61-41d8-b68e-f7d7cdba1038",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":656258,
+    "validationErrorCode":""
+  }
+}

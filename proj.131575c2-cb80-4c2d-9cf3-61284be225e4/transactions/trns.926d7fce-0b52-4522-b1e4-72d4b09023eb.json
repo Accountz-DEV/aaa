@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"68.30098462973669",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:48.722+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-68.30098462973669",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:48.719+01:00",
+    "hidden":false,
+    "id":"trns.926d7fce-0b52-4522-b1e4-72d4b09023eb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QzBJBNaNoD vTfUwZSjXa CfzgXbvM Uua YSpCnjk ",
+    "notes":"IffTLFdTjA eFySmiB DxvJoBbD RT CTJeBHfIU Ndjy qUCVWOy CmlF FW Xx ",
+    "reference":"33996"
+  },
+  "trader":"su.a4aa702d-1bc7-4f6f-9a64-399fffd0444c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":523148,
+    "validationErrorCode":""
+  }
+}

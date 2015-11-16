@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"70.47365464986306",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:44.833+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-70.47365464986306",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:44.834+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:44.829+01:00",
+    "hidden":false,
+    "id":"trns.e4e74a41-3fda-4c1c-9bd0-d54338624ab5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qpPNdh YlhGt XEEhWpNpxnz eZeyvL ujlYFuuIBSO ",
+    "notes":"KCfmXurEqF mZo hZJWergn LhR aXXADlDVD oNekO KxYKVnnVFc YNkJkxbkUUk KcvolHaRi HfBFH ",
+    "reference":"49004"
+  },
+  "trader":"su.945d570c-959a-4369-a393-1033f4f7c559",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":241466,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"31.21701468204172",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:53.707+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-31.21701468204172",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:53.708+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:53.703+01:00",
+    "hidden":false,
+    "id":"trns.9369c21c-7cc2-4ec4-893b-14a41ada397e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"sHnjlbizG KWUeb WfJjQjJJ Ex BmJKf ",
+    "notes":"wWhRX UkymUqUO vq kYEQ VgiCz sqfADzbx KPCnpCJAWP ZQpdpmxt EQ gANzMPM ",
+    "reference":"05991"
+  },
+  "trader":"su.815081f8-f35b-41c3-a497-363a5d58a26f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":360140,
+    "validationErrorCode":""
+  }
+}

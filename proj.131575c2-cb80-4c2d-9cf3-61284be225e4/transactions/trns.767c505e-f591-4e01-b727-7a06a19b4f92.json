@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"56.61360460411581",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.491+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-56.61360460411581",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:22.492+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:22.489+01:00",
+    "hidden":false,
+    "id":"trns.767c505e-f591-4e01-b727-7a06a19b4f92",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-01-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"iUeiYD QlVGjO GppdMFj Dtm CxDGyKjM ",
+    "notes":"Bnb zPhbrHbD QIWa tbcG WyugtN HG Ep ZB FFaC eKim ",
+    "reference":"32815"
+  },
+  "trader":"su.b4773ea5-4bc0-4099-8b14-1f9ec141be78",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":55076,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"13.370045884659199",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:46.227+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-13.370045884659199",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:46.223+01:00",
+    "hidden":false,
+    "id":"trns.e99abc59-7271-49b4-9d98-eccbb829c1ac",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jI oVqdQYtc ynFlnESxhF MYzAoc JqLswA ",
+    "notes":"YjaAatsULkC Pr tJIaMmzqYs JVyZgA PswLSwNTfZ tJOWUKE aJSAlk HiqlE rSLJ XxoAaQMh ",
+    "reference":"41799"
+  },
+  "trader":"su.e743bf75-28d9-4806-8df3-293053a7bec2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":298490,
+    "validationErrorCode":""
+  }
+}

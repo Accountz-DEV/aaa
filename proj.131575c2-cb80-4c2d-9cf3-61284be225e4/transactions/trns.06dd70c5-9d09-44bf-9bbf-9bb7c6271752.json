@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"5.162403355755885",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-5.162403355755885",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.476+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:03.473+01:00",
+    "hidden":false,
+    "id":"trns.06dd70c5-9d09-44bf-9bbf-9bb7c6271752",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-11-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aIEwQwj sZC YZUfadD kLmu eQP ",
+    "notes":"mVNVNSc rYZfbZStq KEFWdKbJ xqSkoggS nAQFgp gdtCkUoq kXDgPjUQ bRJPQnHtA ScVUfHDDN esyzvv ",
+    "reference":"62013"
+  },
+  "trader":"su.ba4786c9-012e-4d92-a680-5ec8a1dfb76f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":700142,
+    "validationErrorCode":""
+  }
+}

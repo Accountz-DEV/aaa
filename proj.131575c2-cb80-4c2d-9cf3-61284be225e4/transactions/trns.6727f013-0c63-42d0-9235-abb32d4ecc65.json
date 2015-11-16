@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"67.60218654478858",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"-67.60218654478858",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:09.562+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:09.558+01:00",
+    "hidden":false,
+    "id":"trns.6727f013-0c63-42d0-9235-abb32d4ecc65",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"awdRt lQkzDlPxih BgKQ lj fk ",
+    "notes":"pvuYOzGXBdG IFhBhxrtE geM ROBSqlOJg yhJNgbvuL npgiZDeJn rKtWeMKfRk Poizkztr kGzVCbda sHOICrln ",
+    "reference":"49750"
+  },
+  "trader":"su.921e74fc-22ee-4f55-bd1a-c1db3aa099ab",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":430520,
+    "validationErrorCode":""
+  }
+}

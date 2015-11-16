@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"88.3178662582139",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:22.156+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-88.3178662582139",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:22.154+01:00",
+    "hidden":false,
+    "id":"trns.62327d70-b8aa-4f4c-9d7b-7e1ed31b81b8",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"WHgjhCrCsb zlnInRKj MCsHXhSkTVZ vBg gdnVYYZ ",
+    "notes":"HJXt YlOdKqMLvU fEMWkrwNDq TOsWyxsJBz UsjXpu ON hOO jD FJYKBzUF MH ",
+    "reference":"54262"
+  },
+  "trader":"su.649ffd6a-b505-42c5-95ce-ba54ab160405",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":717566,
+    "validationErrorCode":""
+  }
+}

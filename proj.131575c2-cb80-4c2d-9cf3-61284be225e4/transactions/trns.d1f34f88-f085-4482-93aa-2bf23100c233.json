@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"92.60612727939139",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:30.886+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-92.60612727939139",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:30.887+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:30.884+01:00",
+    "hidden":false,
+    "id":"trns.d1f34f88-f085-4482-93aa-2bf23100c233",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kZ rx GNXdO SzPlZFFjgmP DJU ",
+    "notes":"EnfHLM poPpJy dpfDCNN TXHX kNsb Fa whWJivQZ nGxaEq HIeBU HPGSk ",
+    "reference":"51665"
+  },
+  "trader":"su.4df2374a-f09f-46ad-9178-e67833aaff1c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":339350,
+    "validationErrorCode":""
+  }
+}

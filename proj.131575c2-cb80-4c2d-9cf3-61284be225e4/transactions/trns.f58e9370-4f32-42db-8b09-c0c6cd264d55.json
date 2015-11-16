@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"89.07580485910972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:41.98+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-89.07580485910972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:41.981+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:41.978+01:00",
+    "hidden":false,
+    "id":"trns.f58e9370-4f32-42db-8b09-c0c6cd264d55",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-09-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rthl pc cG GQOgIVbADk OOO ",
+    "notes":"QNKMhJqHvo nahnkBq ydNo EsLfBVxQ Pyd YjFwEvT aorvgP szeqP NVDykydcwp cRBM ",
+    "reference":"00041"
+  },
+  "trader":"su.d11959e8-c2ec-45fb-bab4-01a69733f348",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":849884,
+    "validationErrorCode":""
+  }
+}

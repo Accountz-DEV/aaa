@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.9c068b4c-e21b-4f86-b691-54683771849d",
+      "amount":"46.06674015953672",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.192+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-46.06674015953672",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.193+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:56.19+01:00",
+    "hidden":false,
+    "id":"trns.1171e4af-b0eb-46a0-84b2-5370cc30a031",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"xDPRzFq dd duWKNcWNc qZV CjfAwhjWRE ",
+    "notes":"FPzlwcQhokK pd mF LrQ GbAsmDV mzTv UBby efHw VydHf zgicSd ",
+    "reference":"75268"
+  },
+  "trader":"su.2cc19010-ac72-4676-bd3b-b4c44ab4e032",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":750020,
+    "validationErrorCode":""
+  }
+}

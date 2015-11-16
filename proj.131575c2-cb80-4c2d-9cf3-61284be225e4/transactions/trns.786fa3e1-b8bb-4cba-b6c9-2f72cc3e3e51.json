@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"84.30530489571076",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-84.30530489571076",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:00.671+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:00.667+01:00",
+    "hidden":false,
+    "id":"trns.786fa3e1-b8bb-4cba-b6c9-2f72cc3e3e51",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Mt tb RcIzpLY cAhaJUrVX hnIlQANMkp ",
+    "notes":"lQgHPHLRHXY pdIwDSleR VdHJ zLaJ kZYvTGxzc ObdeLXO qPGTGMyaEq rxv HqSirRf XZ ",
+    "reference":"03961"
+  },
+  "trader":"su.1f784bc3-1412-4701-90d3-3d9c52ca12b1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":422888,
+    "validationErrorCode":""
+  }
+}

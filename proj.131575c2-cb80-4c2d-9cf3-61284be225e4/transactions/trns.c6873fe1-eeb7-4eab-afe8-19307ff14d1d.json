@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.444efa20-a886-4b29-8948-937658ff425f",
+      "amount":"75.69181314874935",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:13.874+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-75.69181314874935",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:13.875+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:13.871+01:00",
+    "hidden":false,
+    "id":"trns.c6873fe1-eeb7-4eab-afe8-19307ff14d1d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wMWioCSF enP TDFlChQU zHV cQ ",
+    "notes":"jMaeYng hFlQsRpjgD BcIgOsIcn pIQuRdo AslDwsGnO KOPH KMh lxTqvMSzhKj rb NwbvNqEFCTc ",
+    "reference":"30761"
+  },
+  "trader":"su.828ea257-8b07-4a03-85c2-fb64cdf48b55",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":101012,
+    "validationErrorCode":""
+  }
+}

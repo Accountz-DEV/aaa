@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"21.03382615349334",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-21.03382615349334",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:13.831+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:13.828+01:00",
+    "hidden":false,
+    "id":"trns.870f3abb-7ab1-4e8e-ba36-10dcf659d688",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TCQaLjnUHf tLMoKrbWq dKHZn puWZSHy ZbgaNjzdd ",
+    "notes":"JFCb czvAGHwBfgr AkxqwhlJS RbxjHD zdFENeNN bzPFf cTilI lhcumhjIAR MFD lSAVHt ",
+    "reference":"00396"
+  },
+  "trader":"su.b268c4fd-9691-46e0-b69f-652b9e188d87",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":100904,
+    "validationErrorCode":""
+  }
+}

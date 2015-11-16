@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"41.84738310236889",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:31.826+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-41.84738310236889",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:31.827+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:31.822+01:00",
+    "hidden":false,
+    "id":"trns.684024d9-a62b-428c-bfd8-011fe792c1be",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-19T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SoHOAyGM nzo CG ykbxD xjePPbXjK ",
+    "notes":"Nzc dpAvjvGTSTc tTKwoOZf pkreOfl OJVtMPFBGN UDc Dug DqrY wPk zXfw ",
+    "reference":"51967"
+  },
+  "trader":"su.82998c80-e571-4125-998c-3f8f1153579a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":8888,
+    "validationErrorCode":""
+  }
+}

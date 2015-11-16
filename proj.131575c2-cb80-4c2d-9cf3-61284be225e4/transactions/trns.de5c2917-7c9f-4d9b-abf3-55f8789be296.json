@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"56.37103142707033",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:07.733+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-56.37103142707033",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:07.734+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:07.73+01:00",
+    "hidden":false,
+    "id":"trns.de5c2917-7c9f-4d9b-abf3-55f8789be296",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-01-02T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nfMzfQLmyD QDnXeR UOdRPN zgkJe YzlcmeL ",
+    "notes":"gPPQJNvBDj nauCsHOXJB xMECKiWTdE MRbb ufgCoxZjp KrS YKzsMGNBD OfNuST DugZAJKD vNvrBM ",
+    "reference":"60855"
+  },
+  "trader":"su.620ad3ef-751d-4dfe-9b97-517719341b52",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":485150,
+    "validationErrorCode":""
+  }
+}

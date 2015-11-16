@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"18.110393479644205",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:28.163+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-18.110393479644205",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:28.164+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:28.159+01:00",
+    "hidden":false,
+    "id":"trns.d07cdd17-cd87-4a5c-a893-4c36483f15d1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TR sTEfLkHI dA eKOebszxCwd BEDieaIov ",
+    "notes":"NVtziwZhss QCJMWvko POSKEvwDwkn FfHo CtHtz Tvs sG yddxOrj MP GwESJYJo ",
+    "reference":"71025"
+  },
+  "trader":"su.8a721e3b-22ce-4c65-aaaa-2be1d1bbed3b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":170726,
+    "validationErrorCode":""
+  }
+}

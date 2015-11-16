@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"91.30041069203251",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:57.564+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-91.30041069203251",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:57.564+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:57.561+01:00",
+    "hidden":false,
+    "id":"trns.ec044521-12cd-4db7-a4d5-309d1266ce73",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-01-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Pc CpCjGmSK YsUBizvBVf KZaOnj VBDTYIKAMu ",
+    "notes":"nzj WWbKrIukObC JurIIwVX xgIDvwTbo qcfAeojfMmI KJqqrpsni RA ApqEo SBMILz oomb ",
+    "reference":"44215"
+  },
+  "trader":"su.39ed4fd0-3bb2-4a02-9c2a-7d9e82af4f8a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":587534,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"49.41555388382769",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:50.782+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-49.41555388382769",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:50.779+01:00",
+    "hidden":false,
+    "id":"trns.0225d0da-8cb4-4d77-9bb5-cc147e7f6f13",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-03T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"eg CzpgONiU STFmnRnFni AT Nh ",
+    "notes":"mCngks LPvqGZhnuex ZdbDhLauG zkruZWe eh FdmIuQSVqwf tWLdpnAXBUv VeyTXpMpC XvnfFfp GyCRc ",
+    "reference":"48303"
+  },
+  "trader":"su.052e2332-e648-4d65-8e6f-001265cf6f60",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":135482,
+    "validationErrorCode":""
+  }
+}

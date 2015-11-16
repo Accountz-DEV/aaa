@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"11.67031748069337",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-11.67031748069337",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:35.111+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:35.108+01:00",
+    "hidden":false,
+    "id":"trns.44a5a9b8-0266-40f0-a14e-2071bb928cec",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LYXFgd iGk mPoBsYCR JUTyaeBxtj ep ",
+    "notes":"NqjFoQl KKruRWUp LlprILV xjbZx lUIgUQ kJmDuKqFTh NGdETAHxY RgqiTRxThc IQk Qucs ",
+    "reference":"15826"
+  },
+  "trader":"su.f346b54a-74c1-4047-9d27-351d671d8873",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":343652,
+    "validationErrorCode":""
+  }
+}

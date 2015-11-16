@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.08c2bad2-3ed4-44fe-be41-6c7976043fb7",
+      "amount":"23.739591169927678",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:54.049+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-23.739591169927678",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:54.05+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:54.046+01:00",
+    "hidden":false,
+    "id":"trns.fa722514-245c-4a06-b486-d11cee817883",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LN DHQa CxjtXHCxfZ nnCSUgMzIpf xClQJc ",
+    "notes":"SFu xtj vIcZlx lQYiYCgqqm ePY gV IVEgcPsqg ld mOtuIJbolrF qM ",
+    "reference":"08882"
+  },
+  "trader":"su.8ca28004-24d1-46df-aa3b-64fcd9fdc2bf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":640346,
+    "validationErrorCode":""
+  }
+}

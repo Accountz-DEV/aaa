@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"61.1880500891261",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:21.995+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-61.1880500891261",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:21.996+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:21.993+01:00",
+    "hidden":false,
+    "id":"trns.31cf2060-44ef-4d5a-8a70-f6f0eefec8f6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"KvkxMvFi RPhJcjX gH OPjwiyIq HhIAnvRuha ",
+    "notes":"sK kw sbfwSmVRaj DTyayk kruy ugKt CV qXUEtDyWlU dQFmnHsT fjAgDUwBP ",
+    "reference":"99949"
+  },
+  "trader":"su.e48f4da5-c676-4f1b-9cf8-60a4826ad11b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":54032,
+    "validationErrorCode":""
+  }
+}

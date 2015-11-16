@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"88.41294596603045",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:42.232+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-88.41294596603045",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:42.233+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:42.228+01:00",
+    "hidden":false,
+    "id":"trns.7b081374-eac0-41d7-9595-6c63cc230208",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-14T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"htBiXGvo AXwPET IzkbBgGS fqNbXDa uJzk ",
+    "notes":"FIrkfWAQv xWySHp jUtOHQSvC knBquTwVsDK TPHnNh MsjyL zAy QGLYPHldM tz upD ",
+    "reference":"00529"
+  },
+  "trader":"su.c489cfe4-f985-4581-957b-1c3578206413",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":793454,
+    "validationErrorCode":""
+  }
+}

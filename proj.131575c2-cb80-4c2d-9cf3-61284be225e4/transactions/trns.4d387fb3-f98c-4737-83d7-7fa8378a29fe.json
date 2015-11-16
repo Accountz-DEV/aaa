@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"25.35342150727248",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:11.988+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-25.35342150727248",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:11.986+01:00",
+    "hidden":false,
+    "id":"trns.4d387fb3-f98c-4737-83d7-7fa8378a29fe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lPR wVfAVsZ DtfEPzAWncg uUOy YPS ",
+    "notes":"lbUYZHtBQS JIL SBzmBTWH pVNIhlFnV FwinQIJlXR BZYUfXzYjx qyJkuOs QtUuePAric oVUrE DITtF ",
+    "reference":"91374"
+  },
+  "trader":"su.57bea495-2415-4e40-80df-058ab63b7865",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":544568,
+    "validationErrorCode":""
+  }
+}

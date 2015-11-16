@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"87.76714056353448",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:44.83+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-87.76714056353448",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:44.827+01:00",
+    "hidden":false,
+    "id":"trns.001a10c9-1b6d-4c6d-bc45-73afc61ffe27",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-01-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"uLMyjcikF RTveRbSUbx FczD vjv wBrPYlAHQLR ",
+    "notes":"rbdFIUgofEW ciS niteG HLHHa BQVgLKkOE QqEMuRVC yCyiaks ERcX fs SQT ",
+    "reference":"04503"
+  },
+  "trader":"su.6aaebcc4-816c-458d-92fd-119eb2cb8ece",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":464198,
+    "validationErrorCode":""
+  }
+}

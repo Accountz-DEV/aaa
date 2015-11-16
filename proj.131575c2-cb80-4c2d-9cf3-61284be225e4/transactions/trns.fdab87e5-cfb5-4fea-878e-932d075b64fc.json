@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"71.33221804317326",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:01.347+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-71.33221804317326",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:01.348+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:01.345+01:00",
+    "hidden":false,
+    "id":"trns.fdab87e5-cfb5-4fea-878e-932d075b64fc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"yLgFxYJ gU CJpZ OFAC oJgCY ",
+    "notes":"ez vPTDAd HVFxPZP QdVpSCfomcN iqq uR FMMBfuT VBVcpRcmszj Pg CyraWY ",
+    "reference":"57869"
+  },
+  "trader":"su.1f435cfb-7c3c-4d4f-b687-93199c0c6588",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":811544,
+    "validationErrorCode":""
+  }
+}

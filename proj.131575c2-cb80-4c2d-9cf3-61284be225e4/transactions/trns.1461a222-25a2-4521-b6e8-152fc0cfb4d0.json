@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"56.25788698147948",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:15.458+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-56.25788698147948",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:15.459+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:15.455+01:00",
+    "hidden":false,
+    "id":"trns.1461a222-25a2-4521-b6e8-152fc0cfb4d0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BHec mnSZJ CbNxwhiUSLG bYM DKq ",
+    "notes":"pctgvbd swFk mrUXRbuX RPXG dvMoRmnQ ELJDD eGEX NfGut EAQzoVf jaS ",
+    "reference":"15776"
+  },
+  "trader":"su.941da454-52ac-4f5e-a0e9-11a8a08d1b77",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":380408,
+    "validationErrorCode":""
+  }
+}

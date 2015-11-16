@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"76.11607551264876",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:02.8+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5024782e-d5f6-4438-9bc2-105fa17e89b6",
+      "amount":"-76.11607551264876",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:02.801+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:02.797+01:00",
+    "hidden":false,
+    "id":"trns.69ab8d47-b778-4aec-b280-0cdc500ee9de",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"IPDZkzab mtfzznO tzKsU CNuTg fnEScaFDPo ",
+    "notes":"djqgNl ZHY fFj oYyI DgQj SX qaV imx Ha MY ",
+    "reference":"79837"
+  },
+  "trader":"su.4a03e90f-ca77-4b31-adc1-942f905817ef",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":812534,
+    "validationErrorCode":""
+  }
+}

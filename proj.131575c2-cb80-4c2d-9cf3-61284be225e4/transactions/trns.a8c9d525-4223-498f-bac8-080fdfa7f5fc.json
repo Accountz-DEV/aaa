@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"98.51753716883552",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-98.51753716883552",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:28.554+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:28.545+01:00",
+    "hidden":false,
+    "id":"trns.a8c9d525-4223-498f-bac8-080fdfa7f5fc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-08-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"YGp pnNDpJCFyc tp MfwblRXat LVR ",
+    "notes":"NXeCdoQgy RPCznANAHLS IrAN ogZixPO MKUYaaIJdD JJOIFNtitMs WYDrqXhHGJ bXEs ydMEs Mbagso ",
+    "reference":"19626"
+  },
+  "trader":"su.5d4e5324-ea33-4aa8-ae58-b1e48a50842c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":893192,
+    "validationErrorCode":""
+  }
+}

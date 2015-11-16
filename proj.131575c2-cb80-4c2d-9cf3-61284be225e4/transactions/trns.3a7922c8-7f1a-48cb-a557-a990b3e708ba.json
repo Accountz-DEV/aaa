@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"13.15232102151377",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:42.753+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"-13.15232102151377",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:42.753+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:42.75+01:00",
+    "hidden":false,
+    "id":"trns.3a7922c8-7f1a-48cb-a557-a990b3e708ba",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tVMaogAdRz KOFnDrMy dQoO EiUqbqv ZKclekUt ",
+    "notes":"jCq RDpOxORGty nCixbYdUtvm gd iGR qWFBVvM sJpNEDhlKR IoT WSgHsUOxqrY YIjqrV ",
+    "reference":"89472"
+  },
+  "trader":"su.0d6691b6-4e0e-43db-96f8-c0985456292b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":737240,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"63.60065279863476",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:30.44+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-63.60065279863476",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:30.441+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:30.437+01:00",
+    "hidden":false,
+    "id":"trns.f055bc30-e41c-4316-a0e3-b51f5ef1eb18",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nm AAMLpK Nt aKWClj KdJloq ",
+    "notes":"MIvnvMYlE ZGRmr xabZAFvZk CRo FGI tQUGJ PbJoaJW oNTQnvpsEIV LeAMc ECLA ",
+    "reference":"21502"
+  },
+  "trader":"su.d93de1bc-3e2d-45e8-bc91-b31768870b6d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":62780,
+    "validationErrorCode":""
+  }
+}

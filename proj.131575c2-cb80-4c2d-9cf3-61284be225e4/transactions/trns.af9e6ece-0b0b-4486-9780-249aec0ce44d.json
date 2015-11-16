@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"15.020266873941534",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:59.047+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"-15.020266873941534",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:59.044+01:00",
+    "hidden":false,
+    "id":"trns.af9e6ece-0b0b-4486-9780-249aec0ce44d",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jjQiETvOsf OoBs ADQAxRd RGdeFY KZzbmz ",
+    "notes":"VneDhpJm XBWeZbfJ RP KCy UEABwzQIN BZAhdrvvN XyqIDzftOf RXjxKb eWA dDqkonivZ ",
+    "reference":"65581"
+  },
+  "trader":"su.7ee1716c-b2ad-4d37-87d9-65d9f22ed3e8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":254786,
+    "validationErrorCode":""
+  }
+}

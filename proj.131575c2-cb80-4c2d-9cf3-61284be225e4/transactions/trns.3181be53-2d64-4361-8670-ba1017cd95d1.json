@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"58.073776501399045",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:24.789+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-58.073776501399045",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:24.79+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:24.785+01:00",
+    "hidden":false,
+    "id":"trns.3181be53-2d64-4361-8670-ba1017cd95d1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"IS NkFkoyHQIg RMyg NAyqXpqZ GJnYuAHVzq ",
+    "notes":"LjJxko GjxM QRFoDxW iFeFE rtY Mvrbu xkhBGhJGf qx PN LGl ",
+    "reference":"61615"
+  },
+  "trader":"su.9bb0cd6c-4e6b-4d32-a802-794d2e2d7f69",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":278582,
+    "validationErrorCode":""
+  }
+}

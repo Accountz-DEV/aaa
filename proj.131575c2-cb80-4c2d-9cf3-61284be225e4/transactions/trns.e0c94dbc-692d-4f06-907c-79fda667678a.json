@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"84.23253421237789",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:35.18+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-84.23253421237789",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:35.178+01:00",
+    "hidden":false,
+    "id":"trns.e0c94dbc-692d-4f06-907c-79fda667678a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rfApanKolEI efHJhTmZGwD DjU jIvKMcJHGD Yd ",
+    "notes":"DmnTQxRByLL FZuj ZpL kbhdDxtvNOx vCazx leeTuFsXb IRQlRgy GBLjpWSYszq PIb dXlFlLB ",
+    "reference":"06914"
+  },
+  "trader":"su.68f32699-38e6-45e6-a8c6-a9e338111f33",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":455288,
+    "validationErrorCode":""
+  }
+}

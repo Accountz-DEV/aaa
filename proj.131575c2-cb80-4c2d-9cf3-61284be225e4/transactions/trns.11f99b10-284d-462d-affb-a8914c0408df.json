@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"99.01071831128239",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:03.093+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-99.01071831128239",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:03.093+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:03.091+01:00",
+    "hidden":false,
+    "id":"trns.11f99b10-284d-462d-affb-a8914c0408df",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-15T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"fxqYwmi NdQLYzTlxv jPzuBGV bWiMaA MynETHrF ",
+    "notes":"cZyYOjkqKy cI zHZeg pDRs TC MibBfvr pJZ KohvRF zaKLQvitdFw YvufN ",
+    "reference":"49458"
+  },
+  "trader":"su.c9e2231a-d195-418b-a241-7a7f9c13b0af",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":645332,
+    "validationErrorCode":""
+  }
+}

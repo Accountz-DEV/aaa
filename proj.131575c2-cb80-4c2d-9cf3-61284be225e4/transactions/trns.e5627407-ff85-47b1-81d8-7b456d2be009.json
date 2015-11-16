@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"4.850522691104131",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:41.003+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-4.850522691104131",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:41+01:00",
+    "hidden":false,
+    "id":"trns.e5627407-ff85-47b1-81d8-7b456d2be009",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"pMDaBAiox xeR GsC fRMZrNbLMQ UXEWwUAfh ",
+    "notes":"dQOzrKh BWbQxSaw wArOINXnPth aes NujhOOPUXS uOC mVKuwCF hYJQHMqQXgI FGFEKYjB Wwkz ",
+    "reference":"55903"
+  },
+  "trader":"su.bbe3f4f2-1e3f-464b-889d-dd3224ac7043",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":126104,
+    "validationErrorCode":""
+  }
+}

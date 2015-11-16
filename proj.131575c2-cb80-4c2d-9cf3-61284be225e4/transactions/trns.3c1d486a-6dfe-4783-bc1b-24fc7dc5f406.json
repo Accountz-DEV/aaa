@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"2.033613404293655",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:01.413+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-2.033613404293655",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:01.414+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:01.409+01:00",
+    "hidden":false,
+    "id":"trns.3c1d486a-6dfe-4783-bc1b-24fc7dc5f406",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SkVhvDAk abQqCPXuk VJtI JssNPEAlf hOSAoTzkLDO ",
+    "notes":"MsGY kLbUc Gu OBx JOu fS HFABUDNKNWq GR nxIn Rhb ",
+    "reference":"82948"
+  },
+  "trader":"su.27a93680-f5a4-49c5-be1e-24e17e8c9ce0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":868532,
+    "validationErrorCode":""
+  }
+}

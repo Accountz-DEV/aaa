@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"42.2926585971931",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:53.647+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"-42.2926585971931",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:53.647+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:53.644+01:00",
+    "hidden":false,
+    "id":"trns.22d98df2-cd64-41d8-aa82-4bfc5cfefe2f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LJQMIKfo vjYmc NYsWyANGZ LMV Fc ",
+    "notes":"JkSj GN jyl mrP YwfmBDwEo UoslayGsAYS cx EyA xkR KmI ",
+    "reference":"70213"
+  },
+  "trader":"su.c3177546-f817-45e4-beb4-a1b54801eeb6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":689846,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"71.22977367476871",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:53.857+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-71.22977367476871",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:53.858+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:53.852+01:00",
+    "hidden":false,
+    "id":"trns.fcd3792f-10ee-42c3-a5bb-9c9f77b3d1cc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"qvcldx zLopja DRG dFV byNXauIOr ",
+    "notes":"jA ZsbMQbIRzl HVGEi wBDuZPzKgXB UG HIJSnurwL aK ob EloSeya IVjIG ",
+    "reference":"35573"
+  },
+  "trader":"su.96963b32-cfd7-4da1-9ead-fc9342d00bc9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":690314,
+    "validationErrorCode":""
+  }
+}

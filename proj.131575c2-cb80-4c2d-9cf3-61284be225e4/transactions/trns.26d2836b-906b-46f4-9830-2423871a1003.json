@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"89.19833674293443",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:30.681+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-89.19833674293443",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:30.682+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:30.679+01:00",
+    "hidden":false,
+    "id":"trns.26d2836b-906b-46f4-9830-2423871a1003",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-10-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BT Onx aHgj LinkMTPvH tuI ",
+    "notes":"VUn KlPqmKH pGvWCOMnp RDgD riDTsk SygnlNhwc IRdnxFtgp nt gfMUA TfLPM ",
+    "reference":"89835"
+  },
+  "trader":"su.10d32728-dda6-4381-8ff4-041b57c7ca37",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":561848,
+    "validationErrorCode":""
+  }
+}

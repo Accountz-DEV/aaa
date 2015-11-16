@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"83.29388278844957",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:12.649+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-83.29388278844957",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:12.65+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:12.646+01:00",
+    "hidden":false,
+    "id":"trns.567a18c2-dd62-4e23-9a3d-ae5408c31902",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TN jndCMR jnSmGgweD JoU JArXxA ",
+    "notes":"qtBS vslR fJ FSQGMEC mODXcJtR iGnBf aUKWLxnZDD GCr Dkp YGNRoypHAG ",
+    "reference":"54722"
+  },
+  "trader":"su.e689f806-2816-424b-aa65-1f8a464b4f23",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":212162,
+    "validationErrorCode":""
+  }
+}

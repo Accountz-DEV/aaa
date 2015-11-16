@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"41.61294383194776",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:58.26+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-41.61294383194776",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:58.262+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:58.256+01:00",
+    "hidden":false,
+    "id":"trns.8bdb21ab-85e4-4875-a4b4-4383b39b4675",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-14T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Bzmm SAhGmFFGXIq OWWQ fhlwh KanLAilgw ",
+    "notes":"ftnSGxSoEW isEMnwe wnzF RGMBc WaiTnmMWKfa AkPmD Om LOzjn qgifqcA vLt ",
+    "reference":"55747"
+  },
+  "trader":"su.244f9200-f974-479e-b077-30ba238dee6b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":365000,
+    "validationErrorCode":""
+  }
+}

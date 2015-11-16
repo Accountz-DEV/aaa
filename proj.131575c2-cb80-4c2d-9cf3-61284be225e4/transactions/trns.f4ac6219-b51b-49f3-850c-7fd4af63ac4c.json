@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"69.4028913846534",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:11.965+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-69.4028913846534",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:11.966+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:11.962+01:00",
+    "hidden":false,
+    "id":"trns.f4ac6219-b51b-49f3-850c-7fd4af63ac4c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wLqiESHem nwBhJV xdK lZYEIa agvGYiUeTx ",
+    "notes":"bpKLxHmVz sRM tm KzruKmZ ZGtWB lDFgkMET wsIAM SwMIX NALOG wJIMyIt ",
+    "reference":"15773"
+  },
+  "trader":"su.41305510-734d-4729-86d6-229c20b2755c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":489488,
+    "validationErrorCode":""
+  }
+}

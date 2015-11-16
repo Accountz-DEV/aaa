@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"64.75009714861902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:39.508+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-64.75009714861902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:39.509+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:39.506+01:00",
+    "hidden":false,
+    "id":"trns.bf7accdf-82ca-4a06-8898-fccc36a2a26f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"iVGbjWPhX OBvAzQ iyp RKZIRkfbRa ePOpyuLDi ",
+    "notes":"mpfPM eEIybQvhx ztmH GwbTIf Ra Dqmrc aLBW jNzfp bSgvhEUmfD hLXfh ",
+    "reference":"79495"
+  },
+  "trader":"su.37b4dd3d-f9d3-4f79-be06-36d7136cb8da",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":181022,
+    "validationErrorCode":""
+  }
+}

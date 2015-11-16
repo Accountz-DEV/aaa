@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"26.662587824507312",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:53.494+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-26.662587824507312",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:53.495+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:53.492+01:00",
+    "hidden":false,
+    "id":"trns.d7d9a2be-40b4-431d-a155-ff988966ccbc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"eOAb XVEskIg sHym lW rfjDojrL ",
+    "notes":"fj ElZXjsSri UTXK hJL lFIowpV VTlS YWbAOYpHu QU svZ DyrGe ",
+    "reference":"55988"
+  },
+  "trader":"su.c369cae7-2afa-4b8c-8b57-00e545c8b653",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":860648,
+    "validationErrorCode":""
+  }
+}

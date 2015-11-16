@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"61.774528112359306",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:06.892+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-61.774528112359306",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:06.893+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:06.888+01:00",
+    "hidden":false,
+    "id":"trns.915eaa5e-67e8-4291-8aac-c30beafc0154",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"akPLnJaG CW REMniOVCtKX TcsTHmOy qUggLBXAkb ",
+    "notes":"EzjDZsWWYv uqf tUe ER rHal tL sy JGnnD FDlW KEuJhOnudMP ",
+    "reference":"47525"
+  },
+  "trader":"su.09aaedc4-1d2e-4514-832f-13db807543cb",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":40424,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"67.51416822692994",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:25.462+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"-67.51416822692994",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:25.463+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:25.459+01:00",
+    "hidden":false,
+    "id":"trns.33b53845-7fbc-4007-a4ca-29d13dbbc5b1",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZZq Qe dFpBoZPntPP EHQPbPcd sY ",
+    "notes":"iSIo iE igqoxifQdfv pZJJLCWonjp RjP uclKdMzv PqcFs fbT GzFsum GoeoG ",
+    "reference":"62727"
+  },
+  "trader":"su.c39cd37d-b366-422e-ab86-ae1bac86be17",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":501674,
+    "validationErrorCode":""
+  }
+}

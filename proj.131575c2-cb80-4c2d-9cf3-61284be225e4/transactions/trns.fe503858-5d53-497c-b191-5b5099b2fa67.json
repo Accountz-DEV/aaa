@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"13.708520581880123",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:20.306+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-13.708520581880123",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:20.304+01:00",
+    "hidden":false,
+    "id":"trns.fe503858-5d53-497c-b191-5b5099b2fa67",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-03-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CUQJHlsnyUC usn qOXqKXmYmFm tmOCJN DoKGPUoynMb ",
+    "notes":"ignlhfLCwkO yPfvoIimn jGZmzAHVlRO CxVaygiFQ laz rQLGQlroM Yydr WjPajX wH PjknKQNmD ",
+    "reference":"47794"
+  },
+  "trader":"su.7a011b68-a7bb-441e-bcbe-4fee3c502852",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":608972,
+    "validationErrorCode":""
+  }
+}

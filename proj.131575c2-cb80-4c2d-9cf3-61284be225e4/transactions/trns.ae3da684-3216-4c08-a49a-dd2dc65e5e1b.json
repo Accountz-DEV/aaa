@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"62.681311801931884",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:45.979+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-62.681311801931884",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:45.977+01:00",
+    "hidden":false,
+    "id":"trns.ae3da684-3216-4c08-a49a-dd2dc65e5e1b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"RIQYAnto QcNdAACw URFvJZOkcQ KBq NBCTeyrd ",
+    "notes":"pgd gnSqT ttDJ xtIzbdt TcXyzmhRpv VUp Hq xJUEnweHCMV iaHFBoeitCW rozoRTe ",
+    "reference":"41845"
+  },
+  "trader":"su.b14885d7-6576-4a75-84d6-c6ce75508b10",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":853466,
+    "validationErrorCode":""
+  }
+}

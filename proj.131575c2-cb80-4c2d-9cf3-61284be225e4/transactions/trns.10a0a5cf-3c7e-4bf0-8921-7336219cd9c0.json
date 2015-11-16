@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"45.153590814794995",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-45.153590814794995",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:23.792+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:23.789+01:00",
+    "hidden":false,
+    "id":"trns.10a0a5cf-3c7e-4bf0-8921-7336219cd9c0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"uAkFPbqwF MWtZiurOJQT yC sbVitOajpXV wjTWvF ",
+    "notes":"BakSiAM vWuEqOD aJ AtIrMMGmC QiJujstGFb YvsbtDQf vhCFRK xErpBMq Ca cL ",
+    "reference":"50475"
+  },
+  "trader":"su.b704e8d8-22f6-47f4-8773-9234aed72a7a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":718988,
+    "validationErrorCode":""
+  }
+}

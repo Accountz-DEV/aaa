@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"54.58902779013245",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:52.419+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-54.58902779013245",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:52.42+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:52.417+01:00",
+    "hidden":false,
+    "id":"trns.b349f3e4-409e-4427-a522-01e1bef77ef7",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"lLX DFfsQI bEMn ZoOfHvxHF LnmpPMdXb ",
+    "notes":"hc OMTquluR mOV ucGdYnQvOGR RKHt PEVh ZC YpShq MWA mhEl ",
+    "reference":"24861"
+  },
+  "trader":"su.82d3e3b2-d9fc-459d-8fd1-bb18be498242",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":136850,
+    "validationErrorCode":""
+  }
+}

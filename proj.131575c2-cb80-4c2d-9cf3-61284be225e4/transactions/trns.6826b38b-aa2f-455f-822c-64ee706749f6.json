@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"78.01630083499012",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-78.01630083499012",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:31.408+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:31.403+01:00",
+    "hidden":false,
+    "id":"trns.6826b38b-aa2f-455f-822c-64ee706749f6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-08-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"JgYQy BBhCviXnFkS FIdrsef amvfKFP HFencrZjZfC ",
+    "notes":"iwZyPPev AZdAZ YIHo scaxnuo yK pnQRD ntaiUbk ofjeLNSNoXE lQyqRzxqdU eDIU ",
+    "reference":"82073"
+  },
+  "trader":"su.f2adecdf-7b35-477e-a60a-76e3337f52ef",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":395312,
+    "validationErrorCode":""
+  }
+}

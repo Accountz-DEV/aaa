@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"78.1336420974885",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:00.246+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-78.1336420974885",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:00.247+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:00.243+01:00",
+    "hidden":false,
+    "id":"trns.7403f3a9-1263-4ebd-83f4-e1c9321349dc",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"wT aJPqXjBrPtG BnqOuRpm CpYjLmMIgXg DQqZDKyTtKB ",
+    "notes":"VqV EX ghr LQutgq DBHid WE gKdTyp rjaZVkQ voDbez lMegwKms ",
+    "reference":"52422"
+  },
+  "trader":"su.dab9c15a-f483-49db-b989-dbd2a8d56227",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":144248,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"78.29556498037292",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-78.29556498037292",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:03.959+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:03.955+01:00",
+    "hidden":false,
+    "id":"trns.ca0dd814-7f11-4bfb-b043-c97543e56f4a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-11-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"GahDRgoIb xvabzE VVbGbgHwq gcZWSMVcS oQtwrGRp ",
+    "notes":"iJgccYmt XOgznybGcz VoRzcgphF dtQVnD tx nTn eTdHYheFJ emkA eJs YBWaLDErWpK ",
+    "reference":"60435"
+  },
+  "trader":"su.64e5e7ec-d2be-4144-8859-22ae219b268e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":92300,
+    "validationErrorCode":""
+  }
+}

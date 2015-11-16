@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"2.630012417069316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.296+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-2.630012417069316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:13.297+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:13.293+01:00",
+    "hidden":false,
+    "id":"trns.3c942f75-5bec-4f5d-a39c-92c88006ce04",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"GCsg YBROVglUocH aCqwsVPr BlhN cRCQEJ ",
+    "notes":"psnWVrh OtTjsI fulrlTKOfG HFnf iOGiOoms EJWA NyvtMsU TqUtDoca oGMNes EUgYakZ ",
+    "reference":"95041"
+  },
+  "trader":"su.88c794b4-eaf5-488b-ad7d-f315b6a07c2f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":765914,
+    "validationErrorCode":""
+  }
+}

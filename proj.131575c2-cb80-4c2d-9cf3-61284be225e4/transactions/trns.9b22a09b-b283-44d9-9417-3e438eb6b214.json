@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"5.15288159428181",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:57.324+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-5.15288159428181",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:57.322+01:00",
+    "hidden":false,
+    "id":"trns.9b22a09b-b283-44d9-9417-3e438eb6b214",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-06-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"BofKbhTmRNA jEQ uyypEtiIq xK BcpX ",
+    "notes":"CaRdO QToVbwgDfKW LfVStDYWOC fJAOtNw DQknhLWfA XYcsjiIpPFu dfPqgJR kBSP VLavk nXEE ",
+    "reference":"86549"
+  },
+  "trader":"su.09f85574-1833-43c3-867d-4298a6290e04",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":693518,
+    "validationErrorCode":""
+  }
+}

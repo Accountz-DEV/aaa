@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"41.36933972690628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:21.968+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-41.36933972690628",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:21.969+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:21.965+01:00",
+    "hidden":false,
+    "id":"trns.9e5147e7-cf8b-4561-94ee-a121da6e03ea",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lVQajNSx hOnNC kkoAr qhIfYu JIfi ",
+    "notes":"JzIUIS ImxLigKf XloANi blzlNNf kJ vPruNfmRL ugTIkG DM gbZ CO ",
+    "reference":"12637"
+  },
+  "trader":"su.c0d4d401-1116-4466-b61f-bba80649a244",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":108896,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"85.37331694006095",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:52.166+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-85.37331694006095",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:52.166+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:52.13+01:00",
+    "hidden":false,
+    "id":"trns.259feb78-172d-482e-94ce-12f82810081b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-03-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"wKZFUw scxwiDbqcWt ZCXfBE bRpS xUhkLFDxyQ ",
+    "notes":"ndu SJETjG xhcsVX xAiz WPUjsPM hYi GTV Ch ZPseKeZ silqQX ",
+    "reference":"95067"
+  },
+  "trader":"su.14152d7d-5e60-4727-9e47-9c1a37af0294",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":358970,
+    "validationErrorCode":""
+  }
+}

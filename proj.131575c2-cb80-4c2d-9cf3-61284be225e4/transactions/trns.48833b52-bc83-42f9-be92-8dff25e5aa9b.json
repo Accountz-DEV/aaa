@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"30.103542674385096",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:25.014+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-30.103542674385096",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:25.016+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:25.011+01:00",
+    "hidden":false,
+    "id":"trns.48833b52-bc83-42f9-be92-8dff25e5aa9b",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"uCK Cb oiJDqVgkf qEN YwvpNYnTsVs ",
+    "notes":"IQAuG HZxMbLseY nCRNGyQQ nQhJoHDrs Do LHWS YwWYBWatD AwWHuGIE ufjclr JruvtcmWH ",
+    "reference":"71458"
+  },
+  "trader":"su.4e2c4737-abb3-4af3-8284-56b366ba270e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":278924,
+    "validationErrorCode":""
+  }
+}

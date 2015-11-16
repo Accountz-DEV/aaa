@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"27.90545749470831",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:31.416+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-27.90545749470831",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:31.417+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:31.414+01:00",
+    "hidden":false,
+    "id":"trns.6af8258b-096d-476b-a586-fe3591534d7e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"bmCaBNv kp REx FQm LuyNpxTrGL ",
+    "notes":"iJ KukWxuzxB cGquDPbT bqQvBT VIVAx CRBUiSjId nILbduuJMcn VhU Oxi IBkes ",
+    "reference":"73316"
+  },
+  "trader":"su.b4ae470d-94bd-4dc0-b55a-bb4cdb50d197",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":228866,
+    "validationErrorCode":""
+  }
+}

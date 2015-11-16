@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"86.71307302882903",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-86.71307302882903",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:01.283+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:01.279+01:00",
+    "hidden":false,
+    "id":"trns.217a824f-e41c-4c5f-ae36-34f680db0e88",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-16T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TsFGzkwHVul HTERZsh fwdoFjVf NRvLsPkWMsF IlGNbrplX ",
+    "notes":"hVSUeGHoKm XAJSNA HlgRiinsRnZ SVkref qm GSJIbhwYh fpcPZ yy ZiguZUB DoEZpDDhR ",
+    "reference":"18350"
+  },
+  "trader":"su.8fdb986a-403c-4f29-9330-9c744b5eab4b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":35474,
+    "validationErrorCode":""
+  }
+}

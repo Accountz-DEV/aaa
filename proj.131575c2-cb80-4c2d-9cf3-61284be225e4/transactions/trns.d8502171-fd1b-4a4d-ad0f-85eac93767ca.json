@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"41.67573647784244",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-41.67573647784244",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:38.253+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:38.249+01:00",
+    "hidden":false,
+    "id":"trns.d8502171-fd1b-4a4d-ad0f-85eac93767ca",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"OQkGv YLGgzyybZ zPRuvwJpNX jsJKFprHsUq RaLNQRhTF ",
+    "notes":"lVRV nVwFDMoEBIb RAezlOXsSYR kphGtNZAPV GlOxYqQFxp kdx aOcNC PlEaUzejVK vLMI msaQ ",
+    "reference":"80389"
+  },
+  "trader":"su.e180c045-8671-4be5-9e77-083d139898cf",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":846338,
+    "validationErrorCode":""
+  }
+}

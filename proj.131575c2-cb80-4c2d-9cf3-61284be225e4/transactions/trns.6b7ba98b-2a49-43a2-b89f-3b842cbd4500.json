@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"92.35359554366165",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:50.003+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-92.35359554366165",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:50.003+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:50+01:00",
+    "hidden":false,
+    "id":"trns.6b7ba98b-2a49-43a2-b89f-3b842cbd4500",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"xpG PvpTkJAZhP oWnFb tib DQggtheSFt ",
+    "notes":"FSlNXFtin APAgZ WtFA zuJAOzEkQq qPdIP mIaADd FC rd JMudrcMDDyr pb ",
+    "reference":"31299"
+  },
+  "trader":"su.c81595f8-cc9f-4678-b815-7ba258a6d8ba",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":580460,
+    "validationErrorCode":""
+  }
+}

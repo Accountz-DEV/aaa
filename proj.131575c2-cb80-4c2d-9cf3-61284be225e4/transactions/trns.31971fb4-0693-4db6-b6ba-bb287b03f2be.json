@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"29.645684478239964",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-29.645684478239964",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:27.586+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:27.583+01:00",
+    "hidden":false,
+    "id":"trns.31971fb4-0693-4db6-b6ba-bb287b03f2be",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"ZKmvLgfXnAl kuqledK pDmOolZg YeHxAdHT dIfumUHn ",
+    "notes":"UQbripNl Jryb omOwtxejh Hc rommC ntAsThLw TstD QfJrSqd WRr VVHP ",
+    "reference":"86279"
+  },
+  "trader":"su.379376ca-09a7-4625-bc20-520b8bba6f19",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":559688,
+    "validationErrorCode":""
+  }
+}

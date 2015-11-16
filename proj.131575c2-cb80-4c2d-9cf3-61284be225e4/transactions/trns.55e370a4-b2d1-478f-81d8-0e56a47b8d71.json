@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"79.24808768085114",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-79.24808768085114",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:28.79+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:28.784+01:00",
+    "hidden":false,
+    "id":"trns.55e370a4-b2d1-478f-81d8-0e56a47b8d71",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-08-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"eOkgWmgUYxs jQMSiDtFEy FT bNtKJcJ xYXDNqshrV ",
+    "notes":"GNTlentpx zm jgKFLHL pzfK mcxMyYFYA nYrnK aLXpDAwi gyfrkJbc Rkr MgwdV ",
+    "reference":"96865"
+  },
+  "trader":"su.ef554e01-165a-4f47-86fe-5fd91acfd8e3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":337154,
+    "validationErrorCode":""
+  }
+}

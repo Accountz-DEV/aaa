@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.d85895d1-cd33-420f-b538-76890ca8d679",
+      "amount":"12.91364839226744",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:13.987+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-12.91364839226744",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:13.987+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:13.984+01:00",
+    "hidden":false,
+    "id":"trns.ed761419-5787-454d-96d4-2eb69ed3f3c3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-14T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"LQzR yO zag KqW sXwlkrzUKce ",
+    "notes":"uSfjstm AgJEMwuK UfqomLHL DtHNky gQVNCdsAeKL ZDzHL WJr hn WidoUx AS ",
+    "reference":"50863"
+  },
+  "trader":"su.50727bdf-1957-4fd6-9f9e-5f1baf3729a5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":491252,
+    "validationErrorCode":""
+  }
+}

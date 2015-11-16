@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cdb5506c-5e56-48ab-9182-65d260674aaf",
+      "amount":"12.66071340045276",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:37.387+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-12.66071340045276",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:37.389+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:37.384+01:00",
+    "hidden":false,
+    "id":"trns.a9d50527-19c0-4f84-b5d6-ef4c6cd0d759",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rmFoCBuPfUq DdSeVxjL PSP CueAx VcFNwUDD ",
+    "notes":"LTeVcrOVen cQKX iakoBu lj ZPMis ORuv LZD MZvXXK gMB sqL ",
+    "reference":"17012"
+  },
+  "trader":"su.bd6b0de0-0aa7-4211-942e-0099d576018b",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":401072,
+    "validationErrorCode":""
+  }
+}

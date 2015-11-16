@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"40.81743945884403",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-40.81743945884403",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:20.982+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:20.976+01:00",
+    "hidden":false,
+    "id":"trns.cc761ea9-1fea-4158-bd23-ec27a3f71041",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"Za CfQvjq ZuDyhV yivsWj mVSZwSW ",
+    "notes":"uGiT cpiIYwmu fqFFypJhqpy pBWMmZSMJKU FMvHDzwQ ETRlFzHUEMf FAwqMF BShAHU wCiDRqbl Hgl ",
+    "reference":"09570"
+  },
+  "trader":"su.266b5852-d17f-40bc-ae56-e23ef65e8ff0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":212,
+    "validationErrorCode":""
+  }
+}

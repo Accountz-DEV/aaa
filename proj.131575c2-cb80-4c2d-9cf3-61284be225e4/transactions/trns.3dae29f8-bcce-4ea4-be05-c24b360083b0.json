@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"30.020254997677686",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:13.943+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-30.020254997677686",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:13.94+01:00",
+    "hidden":false,
+    "id":"trns.3dae29f8-bcce-4ea4-be05-c24b360083b0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Krc WfTHNsptJv aQmknsvnOG AMmFkpikwwe JnwebBBknG ",
+    "notes":"AJTmebXRMK vpoXfEq sbGN afwUQHXm qmVpTmeu RMnGQJkyfe ArksuqZ vPIBT GfGiWK ewUL ",
+    "reference":"55935"
+  },
+  "trader":"su.186c7bfd-a981-4519-b405-eba741094cee",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":655610,
+    "validationErrorCode":""
+  }
+}

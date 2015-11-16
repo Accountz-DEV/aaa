@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"58.409864386923836",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:33.366+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-58.409864386923836",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:33.367+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:33.363+01:00",
+    "hidden":false,
+    "id":"trns.b8b69420-511e-498e-9d75-7376c7b662ee",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-19T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZGIsehZl iSPFf SNogWv JY yfajUsTMg ",
+    "notes":"gDiPapkvV PXSI wTF GpLNj BRZ SxW hFH FRGmKL tQ PlTIB ",
+    "reference":"93289"
+  },
+  "trader":"su.e6accd3b-0fd4-446a-8195-c188c9cd4f22",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":453506,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"98.58333163850325",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:26.1+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-98.58333163850325",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:26.101+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:26.098+01:00",
+    "hidden":false,
+    "id":"trns.4f2bee2b-c74b-41c2-b1a0-0d0eb9ceb5d6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TLV dyBinELGO BqJwpYL dPKbPiGO gW ",
+    "notes":"tnNCKrN zz hoOQPmqW BSSiPvjmRW ZBaVgwB CEWKs lZQTCMxc GdBtfqu ejxrNStl ifxtVibsUdb ",
+    "reference":"07484"
+  },
+  "trader":"su.6fbb68b6-a36d-4eed-88f7-10295207f778",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":58280,
+    "validationErrorCode":""
+  }
+}

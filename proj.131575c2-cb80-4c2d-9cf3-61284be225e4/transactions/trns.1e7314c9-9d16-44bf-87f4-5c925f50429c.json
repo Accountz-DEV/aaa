@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"57.791172280825876",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.018+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-57.791172280825876",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:12.02+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:12.016+01:00",
+    "hidden":false,
+    "id":"trns.1e7314c9-9d16-44bf-87f4-5c925f50429c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dEWTwFYWbRD GuASXlpWlHZ ffEKEKI soGI ca ",
+    "notes":"TPer WkJs zIKHJa LRUrQMvXXkH AK LWHe DjOivnxw AEU bqo lspRuiZie ",
+    "reference":"66743"
+  },
+  "trader":"su.fc4ddcea-5d83-4215-9339-fdd85bba2acd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":821246,
+    "validationErrorCode":""
+  }
+}

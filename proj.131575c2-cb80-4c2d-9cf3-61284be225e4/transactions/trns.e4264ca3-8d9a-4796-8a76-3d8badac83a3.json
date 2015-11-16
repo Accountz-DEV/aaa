@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"18.291212256829546",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:06.868+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-18.291212256829546",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:06.869+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:06.867+01:00",
+    "hidden":false,
+    "id":"trns.e4264ca3-8d9a-4796-8a76-3d8badac83a3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QnrpQwm WVO qPqqaFQ uv IIkdnDnwgq ",
+    "notes":"VamS QPQ zLwLdPAU qozovucQI WIDjwWiIn REfaNcAtyz Ftbu egB BREJhLja SbJfYGGgpm ",
+    "reference":"55243"
+  },
+  "trader":"su.feba6083-8dad-4a72-890e-1989ae78e9f3",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":873176,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"20.520791692740282",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:23.478+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-20.520791692740282",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:23.475+01:00",
+    "hidden":false,
+    "id":"trns.bf584118-0494-42c2-a8fb-511f4d497fb4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WwtrtEoO MAy vKrQ DvsTqyTBnCv BfZdQ ",
+    "notes":"iVM UwfhDLWW nYYPM mnDDBr RRPAHLQZvS AMSiGK fmnRVfzj CPhGfKbYqY ndvrhyHA Rnny ",
+    "reference":"32937"
+  },
+  "trader":"su.099b3fdb-f55e-4d78-b782-98076faf52bd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":555476,
+    "validationErrorCode":""
+  }
+}

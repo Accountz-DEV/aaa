@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"8.932330352303019",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.475+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-8.932330352303019",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:21.476+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:21.473+01:00",
+    "hidden":false,
+    "id":"trns.53de07e5-27b1-4cf1-b13e-f0936b477899",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-05-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CZBMvBI WZgQNd qQybR xxPD PpDWGyT ",
+    "notes":"IrvZefj MjFtOCcWHuf cGxMHMj SStwFXoDPx QfX uwCpngLL JWeq ZF KlfMNKmd pfMPdER ",
+    "reference":"07275"
+  },
+  "trader":"su.5f9d4474-04ed-4591-9ade-ed00fe5635a7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":830516,
+    "validationErrorCode":""
+  }
+}

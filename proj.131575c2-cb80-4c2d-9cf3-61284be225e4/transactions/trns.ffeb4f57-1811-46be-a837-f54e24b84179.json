@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"25.537437738039326",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:55.063+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-25.537437738039326",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:55.065+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:55.06+01:00",
+    "hidden":false,
+    "id":"trns.ffeb4f57-1811-46be-a837-f54e24b84179",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-09-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"fktHRKrg NI CRPx FBk Xw ",
+    "notes":"qloVZPk Qn trvFLm uQnegCkCla mDZy wREc SP lgTpYflTYSZ chjVlby eLx ",
+    "reference":"45694"
+  },
+  "trader":"su.dbbf43cb-1030-4fe9-a107-88d8ea530c84",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":251024,
+    "validationErrorCode":""
+  }
+}

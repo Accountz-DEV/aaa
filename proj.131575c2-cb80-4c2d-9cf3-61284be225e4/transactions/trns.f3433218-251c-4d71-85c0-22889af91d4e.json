@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"52.01932693451947",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:19.574+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-52.01932693451947",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:19.575+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:19.57+01:00",
+    "hidden":false,
+    "id":"trns.f3433218-251c-4d71-85c0-22889af91d4e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-06-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jLk UXuB RFTqfFNNzPA VKvPYhXOn BvRILTVFsRT ",
+    "notes":"SR SDEGLluc cBMEuYZjF jfmRbLti ObrHN kGln BAie AfbBpB HAuCapu vMOjM ",
+    "reference":"00836"
+  },
+  "trader":"su.765cc488-129a-48ec-b448-ecc2f42a9ce1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":384152,
+    "validationErrorCode":""
+  }
+}

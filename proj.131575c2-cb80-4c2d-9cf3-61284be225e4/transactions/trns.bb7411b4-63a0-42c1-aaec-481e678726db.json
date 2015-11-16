@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"89.83972156233972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:26.81+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-89.83972156233972",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:26.812+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:26.807+01:00",
+    "hidden":false,
+    "id":"trns.bb7411b4-63a0-42c1-aaec-481e678726db",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-30T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"xI npEQF zowaYyo UENypEc tmKYGL ",
+    "notes":"MAMqmexcA ZZYrKMGW kaxRuJi knfyDpN cd SvhAJ Ll sqeryt OpET iBVrWzlpG ",
+    "reference":"61863"
+  },
+  "trader":"su.ccf3a529-63cf-4a6d-b3e6-f9b59f915831",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":335300,
+    "validationErrorCode":""
+  }
+}

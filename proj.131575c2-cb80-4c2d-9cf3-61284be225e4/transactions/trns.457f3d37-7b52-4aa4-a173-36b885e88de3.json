@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"73.3587213067974",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:25.176+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-73.3587213067974",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:25.177+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:25.174+01:00",
+    "hidden":false,
+    "id":"trns.457f3d37-7b52-4aa4-a173-36b885e88de3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-05-24T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"KM EOrwDnXXYDM aO zPqX wFintXVFpgB ",
+    "notes":"zLpXBegu Ysg RlVvTM kjAGkdfEhc LJ iSJfHIqzOYF MsZ LVwyU SkT tDLY ",
+    "reference":"35780"
+  },
+  "trader":"su.f7179a42-c786-4c2d-a5ba-9e0301ca8330",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":666536,
+    "validationErrorCode":""
+  }
+}

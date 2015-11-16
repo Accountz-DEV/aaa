@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"53.950753376884606",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:43.867+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-53.950753376884606",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:43.868+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:43.864+01:00",
+    "hidden":false,
+    "id":"trns.2a4ac174-017f-4b7e-93ff-4ecc3cad5668",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-21T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gw oroDkOMdRx rgpcf ADvcPkYkxtC QNrre ",
+    "notes":"IM MXl gHM SYnWoQks OjrRmr Allbt jr pd hsXeK jsC ",
+    "reference":"67312"
+  },
+  "trader":"su.8bb1e115-9804-4bb2-8e81-88cf270a374f",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":794876,
+    "validationErrorCode":""
+  }
+}

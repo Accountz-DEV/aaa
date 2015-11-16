@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"63.24380824920247",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.026+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"-63.24380824920247",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.027+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:51.023+01:00",
+    "hidden":false,
+    "id":"trns.e8137f2b-f529-491c-9a5e-69a378604f77",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"NhfZvwcxLh LKglXLyN rG MaUnZeFKTGy hiUReKp ",
+    "notes":"hOjllRJU BzpP ZouWILeFM avjy tG bym pVE mNofDfBQJ wqXomgmhqM BWYMVep ",
+    "reference":"80911"
+  },
+  "trader":"su.fa4d9eba-276d-4003-9379-c2924b97b897",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25556,
+    "validationErrorCode":""
+  }
+}

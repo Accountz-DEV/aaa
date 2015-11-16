@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"25.009116146157407",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:36.447+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-25.009116146157407",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:36.448+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:36.445+01:00",
+    "hidden":false,
+    "id":"trns.ea8322cb-b24a-45a4-90b2-56aeb7594a64",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-07T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"dHALhzKV kMipb FQdprvD ppjoz kFrQ ",
+    "notes":"GFeRvARM YjF IYjkN EQFg NRAEpsSM mUPEcXdg ESV EAnT GX bR ",
+    "reference":"46500"
+  },
+  "trader":"su.96cbf96a-f1e3-467d-bdf6-8b93b485dbba",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":567356,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"52.24465318739902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:29.029+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-52.24465318739902",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:29.03+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:29.025+01:00",
+    "hidden":false,
+    "id":"trns.c6d59875-cbb9-44d9-bc58-3b4d19099268",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-01-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"JNJqQOpwAv yiGdU ZEDhbFIife DqaQKrX pUXyGrs ",
+    "notes":"Lbbumsy CKGd fIlEHRRaYqn leBI DcmBtoIj lm VoS OFF LFABoReED gUbMWwwx ",
+    "reference":"65064"
+  },
+  "trader":"su.60787d5d-cb38-4ca8-abeb-8cd589618455",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":837878,
+    "validationErrorCode":""
+  }
+}

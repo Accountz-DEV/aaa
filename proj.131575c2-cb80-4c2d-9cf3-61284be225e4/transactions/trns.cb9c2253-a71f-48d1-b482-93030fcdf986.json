@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"27.545532318598486",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:40.665+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-27.545532318598486",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:40.666+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:40.662+01:00",
+    "hidden":false,
+    "id":"trns.cb9c2253-a71f-48d1-b482-93030fcdf986",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-04-05T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WbXifUKwxK kwF JMZIRdzHukG Te LJkDjPtQxA ",
+    "notes":"hOw WBYGWiv jTfN VF YS xrxZ ycOYlO GxG su XS ",
+    "reference":"56337"
+  },
+  "trader":"su.c426528f-d6ca-402d-b5ba-1a5feef1211c",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":460058,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"64.52682948279353",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.783+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-64.52682948279353",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:49.784+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:49.777+01:00",
+    "hidden":false,
+    "id":"trns.d4d95494-5b04-4c89-b0fc-123d98aba613",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"STxmDwytGg mdEV ijb dKVvCo HbzgwHfiG ",
+    "notes":"sf rSURaosOv qiCobkfRnJ xKFdsMbhgs fDraxRx AKtG hJQdIiDI XsKzJy hmGmwHu EAVS ",
+    "reference":"68714"
+  },
+  "trader":"su.a77acb83-fe6e-4b88-a3c1-3aee72c48773",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25124,
+    "validationErrorCode":""
+  }
+}

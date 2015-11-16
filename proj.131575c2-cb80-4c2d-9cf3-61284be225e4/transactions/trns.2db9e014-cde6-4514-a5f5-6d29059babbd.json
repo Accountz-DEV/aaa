@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"73.68300810788395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:15.074+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-73.68300810788395",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:15.076+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:15.071+01:00",
+    "hidden":false,
+    "id":"trns.2db9e014-cde6-4514-a5f5-6d29059babbd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-12-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"CtqfvokLF GsZSZRZs QzsNUbCkjMm IfpWhcxQyfs znfHIMi ",
+    "notes":"AHkfJsID awXDDaXEgAx gELF LDxTaRXzxA ZJdeWJhMqw NSzwZCTKX AmeSx jk PNgaFA KdIFjo ",
+    "reference":"27068"
+  },
+  "trader":"su.e0886b5c-e28a-4b55-b0d9-fb829fc13f50",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":48488,
+    "validationErrorCode":""
+  }
+}

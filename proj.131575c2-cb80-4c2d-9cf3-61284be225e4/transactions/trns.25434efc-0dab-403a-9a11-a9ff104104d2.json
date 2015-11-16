@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"52.060860652159704",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-52.060860652159704",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:51.477+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:51.472+01:00",
+    "hidden":false,
+    "id":"trns.25434efc-0dab-403a-9a11-a9ff104104d2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-07-31T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"tHWUjLDdR vTgFfOH HJZRmPufgs cmWlNHtbv OntHjdb ",
+    "notes":"ZYjEMyWlFpK yjgiRvneFm ayyWn rRGqbCQA tItyozaeV iVxU mvyEL zYw svpAluiDj JRvjdNrCr ",
+    "reference":"72732"
+  },
+  "trader":"su.eb971bf4-d97b-43a1-824d-4a837881837d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":26384,
+    "validationErrorCode":""
+  }
+}

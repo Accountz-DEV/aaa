@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"61.84102573876464",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.662+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-61.84102573876464",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.663+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:34.659+01:00",
+    "hidden":false,
+    "id":"trns.b576f1ab-fe9d-44f3-8e24-003be461f98f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-04-20T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"uQiYvaHpli mrGD pkY gZsLNegWiER tqbC ",
+    "notes":"SNoMKUblWr XuJrMyqAO cLiKP FH NIJM hH PqL twPSku HFg WCWUZIi ",
+    "reference":"55854"
+  },
+  "trader":"su.1d3f59a1-8890-414a-b328-a37ceb193465",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":786470,
+    "validationErrorCode":""
+  }
+}

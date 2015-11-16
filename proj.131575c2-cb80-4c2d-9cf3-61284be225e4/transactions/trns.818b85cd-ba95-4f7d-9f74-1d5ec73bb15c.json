@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"86.30056863554093",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.281+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-86.30056863554093",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:46.282+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:46.278+01:00",
+    "hidden":false,
+    "id":"trns.818b85cd-ba95-4f7d-9f74-1d5ec73bb15c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"BsTb imGsCVsyPM it QRvLjm rNJlFIYn ",
+    "notes":"mt ulmwTn Wvk Uel VRcbyHTP XPEaJbghoX Eg udi iCCck nVPoTxL ",
+    "reference":"46206"
+  },
+  "trader":"su.27e7de88-1170-4003-a522-8a6d7d3501f1",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":520286,
+    "validationErrorCode":""
+  }
+}

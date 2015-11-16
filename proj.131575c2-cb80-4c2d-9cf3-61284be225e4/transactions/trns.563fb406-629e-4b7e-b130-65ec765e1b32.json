@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"42.70356080234763",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:00.88+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"-42.70356080234763",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:00.881+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:00.878+01:00",
+    "hidden":false,
+    "id":"trns.563fb406-629e-4b7e-b130-65ec765e1b32",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-07-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"MDKHzOGgvP HCYvCY fLmaa xOwMreg cMtiruGNuNv ",
+    "notes":"SvUsPC YdejCfWxO fDyqbC nS cmLLC gonbegogJ dZpk SIR VXhTVCjAb LZcro ",
+    "reference":"64195"
+  },
+  "trader":"su.e0886b5c-e28a-4b55-b0d9-fb829fc13f50",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":34574,
+    "validationErrorCode":""
+  }
+}

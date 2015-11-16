@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"98.11277848176316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:49.257+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.72135c98-dc7b-4243-8b64-ef3315d63917",
+      "amount":"-98.11277848176316",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:49.259+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:49.255+01:00",
+    "hidden":false,
+    "id":"trns.8115d6fa-bb8b-433d-abb5-93d358e2e216",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-06-02T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"SU wMhd yuVhs qEJ livSH ",
+    "notes":"AKwaWV JYqaciTOahT YoSzHfD fF eV cxYtICImH QinyY JgCkdQxUPcp Vea yTPDu ",
+    "reference":"29020"
+  },
+  "trader":"su.96adf3ca-5842-4020-90b6-93b065c9bfd4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":799628,
+    "validationErrorCode":""
+  }
+}

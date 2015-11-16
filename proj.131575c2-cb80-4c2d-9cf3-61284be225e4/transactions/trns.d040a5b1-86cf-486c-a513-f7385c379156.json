@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"50.38729480203651",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:46.211+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"-50.38729480203651",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:46.212+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:46.209+01:00",
+    "hidden":false,
+    "id":"trns.d040a5b1-86cf-486c-a513-f7385c379156",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"clbKYJvvbzp dBbavAVrZt UnHEbiAPb SbNF tEgCQTEcy ",
+    "notes":"ylsKFDXlqX PNvS Vci LXzoR oKvZLvtQR UARRIyo nwYuWRmrjEA sljrOrD OH tOdroSzcj ",
+    "reference":"57666"
+  },
+  "trader":"su.2b8c18ba-1f18-4363-9a35-0681e9aacb9d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":353318,
+    "validationErrorCode":""
+  }
+}

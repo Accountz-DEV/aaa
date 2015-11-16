@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"75.84171523184244",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-75.84171523184244",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.434+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:24.421+01:00",
+    "hidden":false,
+    "id":"trns.5e30dc24-6bf0-47d3-8e67-10f4a2f07d08",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-03-15T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ymBICw MDC grGfbcMSoW MsuoJnM vcqyILTrLH ",
+    "notes":"EIkSnSW vPERx KIHpcsSFU kgFKnyc KwsqdrMZm YCCsmNQk uCqFF JkMpg EAM ieKee ",
+    "reference":"36025"
+  },
+  "trader":"su.3b0cf4c7-4a86-4884-8f6c-7186c5f15520",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":889592,
+    "validationErrorCode":""
+  }
+}

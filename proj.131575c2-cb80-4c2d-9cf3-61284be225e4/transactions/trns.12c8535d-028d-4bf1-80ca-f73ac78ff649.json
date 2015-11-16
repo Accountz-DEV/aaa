@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"90.1722128793854",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:57.695+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-90.1722128793854",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:57.696+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:57.69+01:00",
+    "hidden":false,
+    "id":"trns.12c8535d-028d-4bf1-80ca-f73ac78ff649",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-08-30T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"WZTuzvwj UwYfVVWwkM IWUSsAGzA GWXHvzx pw ",
+    "notes":"RbF zNzgFgKB kZzX yAN udv DIgV KLyISDkx llKjmfOJ GYYbHzft uBoRXQezhFd ",
+    "reference":"51365"
+  },
+  "trader":"su.647259f4-b0b1-4720-af56-710592123bc6",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":32378,
+    "validationErrorCode":""
+  }
+}

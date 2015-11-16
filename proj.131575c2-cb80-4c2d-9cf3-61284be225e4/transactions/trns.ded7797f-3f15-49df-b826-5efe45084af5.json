@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"99.58421710651663",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:29.682+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-99.58421710651663",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:29.683+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:29.679+01:00",
+    "hidden":false,
+    "id":"trns.ded7797f-3f15-49df-b826-5efe45084af5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-06-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CpJGZ mNCNVqJ fVSALh ZyA OSg ",
+    "notes":"mbx qFeuCsNoj dTmmvtFjz KnY ptBYGSg ZPkOSl TGdas ZrqAtxb RV RHKsO ",
+    "reference":"61106"
+  },
+  "trader":"su.753abd97-6347-4cf4-90fb-521c415a7460",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":61340,
+    "validationErrorCode":""
+  }
+}

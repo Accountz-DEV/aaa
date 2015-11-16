@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a72e36dd-20f4-4ea7-ae7c-7bd5290bd07f",
+      "amount":"21.025189887126583",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:20.936+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"-21.025189887126583",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:20.938+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:20.934+01:00",
+    "hidden":false,
+    "id":"trns.5504930c-6674-48e2-a6f8-981af8061641",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"mDKvRE TtBMCEsYg sCR fLgNyUJkt ZtBDfbtnjZr ",
+    "notes":"RXarPCmp gNmcDYnMb pOPqCnyn KlZ wyXouzi WhPBfiAYm loopjc zbcJQ iKWKduES RtbqA ",
+    "reference":"05627"
+  },
+  "trader":"su.25bcfc82-c4e5-43cc-a985-4df9ea08dc02",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":329900,
+    "validationErrorCode":""
+  }
+}

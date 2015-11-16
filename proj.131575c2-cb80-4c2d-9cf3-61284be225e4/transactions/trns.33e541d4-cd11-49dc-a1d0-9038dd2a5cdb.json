@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"45.91108271983965",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.248+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-45.91108271983965",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:56.249+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:56.246+01:00",
+    "hidden":false,
+    "id":"trns.33e541d4-cd11-49dc-a1d0-9038dd2a5cdb",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"lbiq LmG rJqSgkxcO WXvduoAqndt gyMu ",
+    "notes":"MffUhBfNC Ty MKpgyzTVYdy HELN HCXJMA QSuNgEO kjzeEZv KAOH ce YAtL ",
+    "reference":"16905"
+  },
+  "trader":"su.00f94176-9bb2-4ade-9679-b2df4843a4f7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":750182,
+    "validationErrorCode":""
+  }
+}

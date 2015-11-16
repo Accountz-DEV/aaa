@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"17.245705632937426",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.852+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-17.245705632937426",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:03.853+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:03.848+01:00",
+    "hidden":false,
+    "id":"trns.e4e2761c-cd6c-4d5f-880b-342bb92efaf4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-02-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"urOIdOZSsRB XRDn txjA dADzam cGnHvO ",
+    "notes":"bVGdtuBLjn LalHO vPhXnXnDWG TWnt ieX Yqx AVAmqM Gm HjC tmRMIH ",
+    "reference":"22011"
+  },
+  "trader":"su.df43ec1b-d685-4d8d-b9f5-ce96204e4d53",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":314888,
+    "validationErrorCode":""
+  }
+}

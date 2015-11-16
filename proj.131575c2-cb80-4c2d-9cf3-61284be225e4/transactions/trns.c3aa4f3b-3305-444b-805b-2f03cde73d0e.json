@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"53.45317905116135",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:24.06+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"-53.45317905116135",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:24.061+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:24.057+01:00",
+    "hidden":false,
+    "id":"trns.c3aa4f3b-3305-444b-805b-2f03cde73d0e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-31T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"MZxyk zUCZKnb iWgtAmoUl UtAmPQm stuHXngMU ",
+    "notes":"icAWCcHzgKS obVNfGO vPHosDk pfnHcx uisAyAt luvYa oHTEuhhZ OzIaGpJl BdHK etya ",
+    "reference":"56606"
+  },
+  "trader":"su.341c0a7a-afaf-4d45-811e-0525cd113503",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":2552,
+    "validationErrorCode":""
+  }
+}

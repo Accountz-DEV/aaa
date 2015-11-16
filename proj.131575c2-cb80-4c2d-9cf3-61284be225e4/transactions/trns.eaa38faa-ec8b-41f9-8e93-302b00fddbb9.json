@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"51.0364280364195",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:26.008+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6833f7fa-201d-4f72-9f5c-f48e861d84ed",
+      "amount":"-51.0364280364195",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:26.009+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:26.005+01:00",
+    "hidden":false,
+    "id":"trns.eaa38faa-ec8b-41f9-8e93-302b00fddbb9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-12-05T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"PUnkSsWME dt ZpRFEIsP ABeQtGgwWA CfglSywqUe ",
+    "notes":"XaGPKfCme bdC vBikuLgPBl RLcRH nX nooEHVozId ow xzJEutWEBT vsZP AmHvClH ",
+    "reference":"98681"
+  },
+  "trader":"su.f8998d50-db39-4ab1-8295-f37033a98772",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":112802,
+    "validationErrorCode":""
+  }
+}

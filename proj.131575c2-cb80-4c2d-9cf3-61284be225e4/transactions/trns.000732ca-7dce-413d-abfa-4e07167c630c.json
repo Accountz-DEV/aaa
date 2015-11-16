@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"4.801112907597371",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-4.801112907597371",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:42.552+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:42.548+01:00",
+    "hidden":false,
+    "id":"trns.000732ca-7dce-413d-abfa-4e07167c630c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nKxHKDZdvyJ RkuRxYuGY jnfpqmPNLDR rqFLsDlnK FgrrCogfNbg ",
+    "notes":"QFHeE wja btmbuMjwJ PzBC BhvvsLJe PzyNrR ZHcirLye XnPnIPflM mu gaSF ",
+    "reference":"12497"
+  },
+  "trader":"su.a539ae23-b506-4504-a272-f5c1a0cbed36",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":679100,
+    "validationErrorCode":""
+  }
+}

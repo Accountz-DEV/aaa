@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"47.19449417459691",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13c58907-b34c-4c7d-a073-14cf677b3f4c",
+      "amount":"-47.19449417459691",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:23.95+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:23.947+01:00",
+    "hidden":false,
+    "id":"trns.ad8e3da1-9c4d-48f9-8ee3-79148de26a79",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-29T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"aPUXbtYP pyoG FSLdKeLAW QZdKWGZDvX RPHHg ",
+    "notes":"Unfl BqfBDO lJeBpl WMjXvUATk YwYpT QVV LndWa CNnDOfn PvoRdZzjRm Iht ",
+    "reference":"64619"
+  },
+  "trader":"su.9c7864f2-fc98-45bc-bbc2-b9bc5ecf1b50",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":222152,
+    "validationErrorCode":""
+  }
+}

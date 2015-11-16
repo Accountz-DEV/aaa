@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.e032ff76-8084-4226-85fd-33418fc4d73c",
+      "amount":"11.223424935041715",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:23.403+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.05c19bb2-5fb5-4353-9078-1a8e83f8713c",
+      "amount":"-11.223424935041715",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:23.404+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:23.4+01:00",
+    "hidden":false,
+    "id":"trns.00e35a7a-b4f5-400f-97b4-cf41894ed90c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-11-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"fRoRKSlV AfH IFHRdqMzhM PYhBawcS nMNpE ",
+    "notes":"OL Mkil QV nxG fx ks ytR BzFdUeTTW TxGLea yBEXCUAT ",
+    "reference":"88734"
+  },
+  "trader":"su.929ea445-362c-4cfa-91a7-be036fed16b5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":332744,
+    "validationErrorCode":""
+  }
+}

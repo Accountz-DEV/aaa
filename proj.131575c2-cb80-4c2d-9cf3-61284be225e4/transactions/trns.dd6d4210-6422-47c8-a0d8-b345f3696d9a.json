@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"38.823132643838356",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:50.892+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"-38.823132643838356",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:50.893+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:50.889+01:00",
+    "hidden":false,
+    "id":"trns.dd6d4210-6422-47c8-a0d8-b345f3696d9a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-10-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"QtTrBvsrq uCek VLpANx BfTXXcXAAw ctOdb ",
+    "notes":"wRmlSSCFyW IXQz Dji CDizn nJXrV gyn nteN UTCLb Afyfpi QzR ",
+    "reference":"47863"
+  },
+  "trader":"su.be42519f-130c-4996-83e7-07d9ccad087e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":25304,
+    "validationErrorCode":""
+  }
+}

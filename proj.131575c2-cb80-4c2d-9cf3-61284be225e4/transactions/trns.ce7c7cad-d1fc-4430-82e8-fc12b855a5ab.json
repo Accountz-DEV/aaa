@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"14.145992144538933",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-14.145992144538933",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:13.517+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:13.512+01:00",
+    "hidden":false,
+    "id":"trns.ce7c7cad-d1fc-4430-82e8-fc12b855a5ab",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"gKmbv jVPUrLvLLYL bKo lsWd RFIxfbbK ",
+    "notes":"aZNIjQcvWvG fHLu hHTQXUhfWcQ EkluMjA FVcize ZEWqsPwMCh OYYcWKbrI Os ozemlAX ccwoczEGLeL ",
+    "reference":"70532"
+  },
+  "trader":"su.bfe881a6-113f-4398-9701-5203899e1112",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":490388,
+    "validationErrorCode":""
+  }
+}

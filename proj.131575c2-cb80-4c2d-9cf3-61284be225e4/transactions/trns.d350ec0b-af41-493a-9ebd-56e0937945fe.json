@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"71.26067191852911",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:27.42+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-71.26067191852911",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:27.421+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:27.417+01:00",
+    "hidden":false,
+    "id":"trns.d350ec0b-af41-493a-9ebd-56e0937945fe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"DGBc RSrSz JyTOLwJp dEqIAh sDXbpqotN ",
+    "notes":"zL bcuqjZYdI VukacZA ruouSv YgT fPCJTSxJ qJD JMz Bynxc vHLx ",
+    "reference":"53406"
+  },
+  "trader":"su.9097b54e-2b27-4e15-988a-bcc3badf947d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":503330,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"89.78261581497239",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:26.92+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"-89.78261581497239",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:26.921+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:26.916+01:00",
+    "hidden":false,
+    "id":"trns.e8f8ef50-03d6-468f-94af-813a473a296f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-27T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"kzm zlvm rdYrlvzT TusQXZZwvd FUdbVXxPl ",
+    "notes":"frBKDhel XhusCyuSqAG wXO seaNycR cazjnzwWEM yXhnjfiDOy PtiIgVMZs zFrYLvf oWrfSRmeNaT QXuX ",
+    "reference":"59126"
+  },
+  "trader":"su.fabb0e02-1917-47e2-8671-21c72206d626",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":558374,
+    "validationErrorCode":""
+  }
+}

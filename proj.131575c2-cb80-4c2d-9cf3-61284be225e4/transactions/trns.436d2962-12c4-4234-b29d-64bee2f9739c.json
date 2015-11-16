@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"88.08607842409627",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.112+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-88.08607842409627",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:46:21.114+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:46:21.1+01:00",
+    "hidden":false,
+    "id":"trns.436d2962-12c4-4234-b29d-64bee2f9739c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-18T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"KCb Va piWKVJVXZs EaF QQzK ",
+    "notes":"Bxm HHGXnWuH lVGapc dWy gxh ajafK VTwqr mAYf Rn NokhszXSP ",
+    "reference":"21155"
+  },
+  "trader":"su.2cd49e0a-0f47-4793-a4fc-7c0ef3e37c45",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":302,
+    "validationErrorCode":""
+  }
+}

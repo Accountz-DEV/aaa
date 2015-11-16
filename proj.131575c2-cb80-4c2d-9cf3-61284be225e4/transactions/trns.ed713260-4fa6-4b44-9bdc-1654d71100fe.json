@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"1.3254696962265",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:20.312+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7e17d06-a279-4b03-b7c4-4bba5dc87dd0",
+      "amount":"-1.3254696962265",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:20.313+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:20.31+01:00",
+    "hidden":false,
+    "id":"trns.ed713260-4fa6-4b44-9bdc-1654d71100fe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-12-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"NM IKdzXJsyYFp hBYu aon yMvK ",
+    "notes":"IbUjLqY iNUBKndxMU LC YlkiuDZAA DU PzfJhFszEc SrsAuU vaUGEr rtgbDzoKhiY mrcm ",
+    "reference":"06710"
+  },
+  "trader":"su.bb83a595-985e-4d64-8a2f-c573aa1209d9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":608990,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"52.86377791534987",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:51.928+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-52.86377791534987",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:51.929+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:51.925+01:00",
+    "hidden":false,
+    "id":"trns.d59eb346-cbde-4c11-984a-ddc2c582a4b5",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-24T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"srm QVKFt FVZtzA AppCRYQSFRM YymLl ",
+    "notes":"ugErLsnwHP khzOt zyF NJAHG KITdFc hukhKAzt Bdow WUi nGrtop VuUg ",
+    "reference":"09989"
+  },
+  "trader":"su.9ca3519f-ae2c-4d20-8133-43b33973c634",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":358556,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"79.90173790316136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:23.826+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cc78d301-b643-4237-8c2c-e09c8ae2ac57",
+      "amount":"-79.90173790316136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:23.826+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:23.822+01:00",
+    "hidden":false,
+    "id":"trns.be10d3cb-1878-45ea-85a7-e1bc6793de42",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"FqEtDwZVUe RK zShkbG pLFo DNFxrBUQ ",
+    "notes":"PpfYle GlsjHF Dnf lxvLbZX BE rY PkRHA eRfqPCT zIgl uHycZefe ",
+    "reference":"86568"
+  },
+  "trader":"su.b49e50d1-c785-4239-af72-c61b9f965e47",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":665870,
+    "validationErrorCode":""
+  }
+}

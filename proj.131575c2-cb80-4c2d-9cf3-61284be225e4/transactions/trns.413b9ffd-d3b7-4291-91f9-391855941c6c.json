@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"77.16930502752393",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.33+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"-77.16930502752393",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.331+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:24.327+01:00",
+    "hidden":false,
+    "id":"trns.413b9ffd-d3b7-4291-91f9-391855941c6c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-02-04T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"bo keQGe ruuRsnFAuI YblVj kXcaufTH ",
+    "notes":"aKQnrTT kdfRUUTgEoN seHmHl gKRW isLLCle GE Ad JRV kkFD Xaa ",
+    "reference":"01059"
+  },
+  "trader":"su.fa8ca8f7-331a-411d-9fcc-fb0e8cf0361a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":889322,
+    "validationErrorCode":""
+  }
+}

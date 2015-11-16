@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.91d74964-cbf7-40d2-ae24-a784e22d9ed2",
+      "amount":"99.85208172970155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:31.232+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-99.85208172970155",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:31.233+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:31.228+01:00",
+    "hidden":false,
+    "id":"trns.2339070d-1d67-46da-be13-e56e01bf39aa",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-05-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"jC BspTEIqHhB sKt nGNtBwotiE AYktmdagh ",
+    "notes":"zCI ldiYeTRhV VV LFMejsWMti KzbmYN Perx QdiUVK gHIoUIknjK Iol SDS ",
+    "reference":"41521"
+  },
+  "trader":"su.50c5c85e-4274-4965-a9e9-742965ed00b9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":339962,
+    "validationErrorCode":""
+  }
+}

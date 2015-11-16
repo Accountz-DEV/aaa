@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"53.79085011508579",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.3d292b26-4db6-4134-8963-dffb85f5efb9",
+      "amount":"-53.79085011508579",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:58.293+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:58.289+01:00",
+    "hidden":false,
+    "id":"trns.3f7c7cf0-24c4-4489-9c39-4cc2fd5a6fab",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-10-08T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"nOlrAC ftBcLLK WJdPBLZsJuC ft wvLzdThwO ",
+    "notes":"vAsgR qfyswwOYIiW OiRDqbCN zNFpBbaBC gCRvijdQlVJ QyX Awl WjFHN cMgVSoK JC ",
+    "reference":"67613"
+  },
+  "trader":"su.30eb153e-bed0-4f00-aec7-951705b8072d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":531302,
+    "validationErrorCode":""
+  }
+}

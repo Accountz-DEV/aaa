@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"98.95660976405819",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"-98.95660976405819",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:29.036+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:29.031+01:00",
+    "hidden":false,
+    "id":"trns.98a4a894-404b-452d-8635-ca8df4da1537",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-13T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gUWTDuFRL StOjsQDSoL eZDu YqUHsZWOQ AMBgNm ",
+    "notes":"KeylTzE SAk Iy EDEbSxOFdHw UARxkm pDDANNI nCzZfLkWFoA Krebgao sJp NQoTauxaaC ",
+    "reference":"94275"
+  },
+  "trader":"su.418e5f76-504e-4143-a9d9-f46314eb42a2",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":449078,
+    "validationErrorCode":""
+  }
+}

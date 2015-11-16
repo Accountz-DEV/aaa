@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"92.12959910502647",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:26.064+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.cab9516c-ac30-45b9-94f9-21f35e1d2999",
+      "amount":"-92.12959910502647",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:26.065+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:26.061+01:00",
+    "hidden":false,
+    "id":"trns.a711906f-80df-4322-b0dd-1c82b6c8e403",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-29T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CJqnbpzw rKa eD VHLIPLAeb BdV ",
+    "notes":"JXIzb UzZXddgrP FRw XKnyIgRFCGF TFOizifF Rc yft OK WEMqL ezyAXv ",
+    "reference":"15140"
+  },
+  "trader":"su.b268c4fd-9691-46e0-b69f-652b9e188d87",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":112946,
+    "validationErrorCode":""
+  }
+}

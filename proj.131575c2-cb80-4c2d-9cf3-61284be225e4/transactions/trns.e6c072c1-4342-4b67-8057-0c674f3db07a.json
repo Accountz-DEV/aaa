@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"12.390399969192444",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:27.358+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"-12.390399969192444",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:27.355+01:00",
+    "hidden":false,
+    "id":"trns.e6c072c1-4342-4b67-8057-0c674f3db07a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-08T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"GwKsDoPL XgLwBuOxvl WEeK gScajfOPJp vCWJJnOTxT ",
+    "notes":"Kq FmVRrlCrL pnUiwltBHJ vWWwJEMYM pkkg ifQQpyaSQ mHjsUj NtVRQzJA VsXy subZmSL ",
+    "reference":"84618"
+  },
+  "trader":"su.c967978d-6610-428f-ae77-7f5c1273b1af",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":503204,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"3.673903986194338",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:21.205+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-3.673903986194338",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:21.206+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:21.202+01:00",
+    "hidden":false,
+    "id":"trns.ccd37724-c694-4cdf-a9dc-a5317e53abba",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-09-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rYj FSO UTy HDdeovDyzY wNTM ",
+    "notes":"wS HQTlL ocZjrxhepid zR EtrDnn yOCC hFSMJDCTVf qnHSPu lVAlks OINfnFe ",
+    "reference":"42910"
+  },
+  "trader":"su.527a76f9-d1b7-425f-ad2d-0852d0fb5383",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":773852,
+    "validationErrorCode":""
+  }
+}

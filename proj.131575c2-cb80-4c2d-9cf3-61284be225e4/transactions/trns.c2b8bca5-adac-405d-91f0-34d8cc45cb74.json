@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ac7f12c2-357e-47fa-aa98-bf254e93af5a",
+      "amount":"25.057806803489914",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.433+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe9145f5-6332-4dc1-969a-867562682d1f",
+      "amount":"-25.057806803489914",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:34.434+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:34.43+01:00",
+    "hidden":false,
+    "id":"trns.c2b8bca5-adac-405d-91f0-34d8cc45cb74",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-22T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nvEC kBGfZY XDxr PIx KgVTTjlj ",
+    "notes":"HMX Yvh Tpx hsczhSTlA swXBZFscKM QyqwBrgQgH NY VtEyMCGT mnmMPGswOp QQG ",
+    "reference":"30094"
+  },
+  "trader":"su.cb3519de-2396-4caa-8b00-4176a13dac56",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":786020,
+    "validationErrorCode":""
+  }
+}

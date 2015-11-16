@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"66.05614353077397",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.4413ed29-3ddd-4694-8bab-b5b24f3ebd69",
+      "amount":"-66.05614353077397",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:30.713+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:30.71+01:00",
+    "hidden":false,
+    "id":"trns.60a6f133-028b-4561-8dbd-928bb1d07606",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-08-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"rPmkvJNXZG jcgKZLW gmFhHyUlfay WdmjNKxvgy EefCLKOn ",
+    "notes":"mkiZ MuDsnfdPMnW djHQEhpT VeyYMQPed edTBHwgUWib Rdg joHjgjKwF kabwSMHb VAa JWKC ",
+    "reference":"46301"
+  },
+  "trader":"su.88ca9320-02c8-46e3-8740-add4dd768f68",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":450248,
+    "validationErrorCode":""
+  }
+}

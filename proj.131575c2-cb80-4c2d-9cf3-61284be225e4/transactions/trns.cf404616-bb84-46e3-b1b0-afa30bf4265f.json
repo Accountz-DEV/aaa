@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.6c2f1550-85dc-44df-bc31-68151ce3ebf6",
+      "amount":"60.39903352403259",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:48.454+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"-60.39903352403259",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:48.452+01:00",
+    "hidden":false,
+    "id":"trns.cf404616-bb84-46e3-b1b0-afa30bf4265f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-28T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"vRpmYJPof dyIxkHC FMWNis oAZFMVsI lgl ",
+    "notes":"RKmTVTGZzma HTOHNfvDK ITejWkKDj zMYlYzALuKl HRWWL xAxeNpWl rReBIFTQbM RP NCSsw ZkDK ",
+    "reference":"65151"
+  },
+  "trader":"su.885dd31a-c3d4-4886-acf6-ba2a24139e26",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":856796,
+    "validationErrorCode":""
+  }
+}

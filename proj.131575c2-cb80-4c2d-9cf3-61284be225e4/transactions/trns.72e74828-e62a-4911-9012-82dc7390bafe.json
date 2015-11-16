@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"81.11810578294836",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:42.637+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-81.11810578294836",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:42.638+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:42.635+01:00",
+    "hidden":false,
+    "id":"trns.72e74828-e62a-4911-9012-82dc7390bafe",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-07T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"YnLQyzyBmiP gWRNQApGq faEQDCyxk EQYu RJSbagFOz ",
+    "notes":"rGFY OrQMSahUT ysJaXfAa IsHAKSpYW EnIuWAMJ FPL Nk sDblAVlzf gysc sgahRQA ",
+    "reference":"47724"
+  },
+  "trader":"su.66c0126e-75b2-4644-bb12-a658b90d4017",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":405356,
+    "validationErrorCode":""
+  }
+}

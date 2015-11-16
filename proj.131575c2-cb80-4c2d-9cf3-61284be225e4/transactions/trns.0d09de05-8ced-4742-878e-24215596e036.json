@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"30.37978735534136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:10.927+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"-30.37978735534136",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:10.928+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:10.925+01:00",
+    "hidden":false,
+    "id":"trns.0d09de05-8ced-4742-878e-24215596e036",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-11-10T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"kIQGxQ fyhiEM OPPL RmSNX Fh ",
+    "notes":"ClXUsgh FkMuT zqkzffwU pWIF yqDBNgpyKq OhbyOg ZCTkI wR BAMQVl be ",
+    "reference":"42493"
+  },
+  "trader":"su.7d0ecc1b-39f0-4604-b979-127e1d127a76",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":600386,
+    "validationErrorCode":""
+  }
+}

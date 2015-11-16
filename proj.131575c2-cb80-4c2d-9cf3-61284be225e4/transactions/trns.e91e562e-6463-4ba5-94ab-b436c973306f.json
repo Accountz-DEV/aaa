@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"95.45058024945394",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:48.133+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-95.45058024945394",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:48.131+01:00",
+    "hidden":false,
+    "id":"trns.e91e562e-6463-4ba5-94ab-b436c973306f",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-08-26T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"PDkTCOnHoB McJSphx JJqGJAFdRIn WrqJ sc ",
+    "notes":"WfOdF hhwQYdmK ctbkkdZC XUhWZlZVK oOShzEp uaUpES DVhTWMpjIv TLbs cYdIFivR rkxZ ",
+    "reference":"66677"
+  },
+  "trader":"su.27a4b1a2-aa96-4359-956e-1991c912fd05",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":355226,
+    "validationErrorCode":""
+  }
+}

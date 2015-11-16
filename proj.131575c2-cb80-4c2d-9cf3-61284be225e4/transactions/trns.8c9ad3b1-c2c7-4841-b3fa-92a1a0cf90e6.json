@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"3.7876469378093525",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-3.7876469378093525",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:46.731+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:46.727+01:00",
+    "hidden":false,
+    "id":"trns.8c9ad3b1-c2c7-4841-b3fa-92a1a0cf90e6",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-01-27T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tttIbe JstOEPL Sy ugFKzdDBsR oUeNqBH ",
+    "notes":"TMWIriwToXA TACYkC GOuY atwapVDpYPm IFMZrzpaKC MKFb NWGkuDpWvU huvKPHER oZYEDn isBkG ",
+    "reference":"72193"
+  },
+  "trader":"su.aaa50316-f2a0-4eff-a552-502ff8c95f9a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":465890,
+    "validationErrorCode":""
+  }
+}

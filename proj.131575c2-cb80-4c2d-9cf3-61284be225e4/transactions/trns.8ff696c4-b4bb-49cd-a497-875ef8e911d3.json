@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.877ed712-2c3d-4bde-839d-75bca444e76a",
+      "amount":"53.89039343583464",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:57.092+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f4155872-ce23-477d-9e1e-1bf33463cab8",
+      "amount":"-53.89039343583464",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:57.093+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:57.09+01:00",
+    "hidden":false,
+    "id":"trns.8ff696c4-b4bb-49cd-a497-875ef8e911d3",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-02-01T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"BDk HN HmuPRaqOeR ObwwhZM cvKCHQQ ",
+    "notes":"QsWFt dcNvfqJCcdL KzmBWTc JYN ubZnrC bRFsg Jv gUytls VTiQbUaeDLC UdP ",
+    "reference":"77559"
+  },
+  "trader":"su.10c02cb2-7c65-404f-8b93-02f312021ce7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":807224,
+    "validationErrorCode":""
+  }
+}

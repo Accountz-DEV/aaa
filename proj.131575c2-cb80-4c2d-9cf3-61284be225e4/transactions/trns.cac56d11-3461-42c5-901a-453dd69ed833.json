@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"32.164497572505844",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:02.969+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-32.164497572505844",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:02.971+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:02.965+01:00",
+    "hidden":false,
+    "id":"trns.cac56d11-3461-42c5-901a-453dd69ed833",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-07-01T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"kb dhStKrNX siMK RSDu weYmpiqX ",
+    "notes":"yfqBaSVMp jkAtwqlMCr AnEFHVYAx FGFPrqeoAq ZFx CoKb PeXshVmCOrA URbpkYtco RBrivcmDY UvB ",
+    "reference":"51840"
+  },
+  "trader":"su.349ea27f-e72b-4e97-acae-fde405bd9aca",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":203072,
+    "validationErrorCode":""
+  }
+}

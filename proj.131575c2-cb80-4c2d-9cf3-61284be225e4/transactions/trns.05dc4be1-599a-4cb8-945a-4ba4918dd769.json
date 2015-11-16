@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"88.64971244244227",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:45.038+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"-88.64971244244227",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:58:45.039+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:58:45.035+01:00",
+    "hidden":false,
+    "id":"trns.05dc4be1-599a-4cb8-945a-4ba4918dd769",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-14T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"SpQ UjlwqtRQH lyzcbrBjPm Xv arKbgVxY ",
+    "notes":"bdgn elgIVAdQUO kSgxIKnA AiuCe JkPSsgaFRF YTGS Nu ow jhPoX tyuykdSKl ",
+    "reference":"80865"
+  },
+  "trader":"su.943bef63-4879-4020-9125-009b1149073d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":682016,
+    "validationErrorCode":""
+  }
+}

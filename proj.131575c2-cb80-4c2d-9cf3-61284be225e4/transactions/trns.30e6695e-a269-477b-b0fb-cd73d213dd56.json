@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a2764dc0-91cc-45ec-b43e-11a339ed9dbe",
+      "amount":"85.25088595743023",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:49.042+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.88ef1735-57f5-4552-94cf-2ae22aad141a",
+      "amount":"-85.25088595743023",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:49.043+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:49.039+01:00",
+    "hidden":false,
+    "id":"trns.30e6695e-a269-477b-b0fb-cd73d213dd56",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":false
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-11-28T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"TPLwlCb UMpF lWO DATn iQTQd ",
+    "notes":"VATUOApUl RfaVHRtvdL XczUh IVfR sMg lbsqFDms IXdjtlC ABBDrHsgyHQ IC aQum ",
+    "reference":"14221"
+  },
+  "trader":"su.f0fb264b-6b35-441f-a8e6-12cac7a65660",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":245084,
+    "validationErrorCode":""
+  }
+}

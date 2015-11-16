@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.37d9e10c-e083-41f0-8ea0-e4c349bfee92",
+      "amount":"64.24213909472756",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:35.039+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-64.24213909472756",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:35.04+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:35.035+01:00",
+    "hidden":false,
+    "id":"trns.0faf8567-52a8-4745-bc3f-3d6ddbef9411",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-22T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"opT DA UsRPBQoI xxBTlNDmS HYIMgPfFz ",
+    "notes":"AdQADtYB ScIf JLmKsN XXptzdl acf doIGQ OpcD WRyA BjkNcAthk QH ",
+    "reference":"20158"
+  },
+  "trader":"su.f6f0be3d-dc66-4594-a3d6-0c5fc5ff271d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":510404,
+    "validationErrorCode":""
+  }
+}

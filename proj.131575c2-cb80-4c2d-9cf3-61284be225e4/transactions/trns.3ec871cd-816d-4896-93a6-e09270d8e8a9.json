@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.12aae8c6-f7fd-4fd7-b528-52fa4a38f5d5",
+      "amount":"4.578707664070714",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:37.045+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-4.578707664070714",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:37.046+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:37.042+01:00",
+    "hidden":false,
+    "id":"trns.3ec871cd-816d-4896-93a6-e09270d8e8a9",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-04-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"hxmsFOPOakr fik lOkqvrUcdsA CHv ysRQ ",
+    "notes":"OnHqXFwX HIfHmn wwneExzdMf cmdTM odedVsOnplC lEUv YXEx arP gbXynuKZvMh vgvXSEeeG ",
+    "reference":"92850"
+  },
+  "trader":"su.9f81fa25-43b1-4e35-8081-e693146a6db9",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":456854,
+    "validationErrorCode":""
+  }
+}

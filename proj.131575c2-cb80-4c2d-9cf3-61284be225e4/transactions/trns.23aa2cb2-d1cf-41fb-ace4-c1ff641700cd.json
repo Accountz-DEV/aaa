@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.96903515-3441-4f0b-a040-5bf2afbd7a8c",
+      "amount":"29.02204553465563",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.8337a5bb-bc9a-42fb-93d8-00c31e48e762",
+      "amount":"-29.02204553465563",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:10.919+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:10.915+01:00",
+    "hidden":false,
+    "id":"trns.23aa2cb2-d1cf-41fb-ace4-c1ff641700cd",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-16T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZOKf Hetd hWBn uVzOyjE YoofZLhJWJI ",
+    "notes":"IXfDcVKwj KBNWfXrffem wCA dj tXV XMzCjui OdDepPc rjDyDce ZsvUYSYAi MOcgkDBweg ",
+    "reference":"78388"
+  },
+  "trader":"su.0c9c61ca-464a-44c9-9690-404fc24a66d8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":707036,
+    "validationErrorCode":""
+  }
+}

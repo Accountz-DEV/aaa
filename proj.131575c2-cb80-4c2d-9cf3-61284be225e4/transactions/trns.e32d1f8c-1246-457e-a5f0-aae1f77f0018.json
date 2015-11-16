@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.2f243afd-6048-4393-95bf-b3dee18f0243",
+      "amount":"33.55944858663322",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:53.121+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f5af08b4-420d-4e86-b50d-37a226bbc3ec",
+      "amount":"-33.55944858663322",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:53.122+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:53.118+01:00",
+    "hidden":false,
+    "id":"trns.e32d1f8c-1246-457e-a5f0-aae1f77f0018",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-10-18T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"cgagx fMAVGPeuE IvDH hV ICkLe ",
+    "notes":"NmSw uPW JILQgODRuTM vfgq ezCVyaGZRSN Lc BYqO dP CMV cYZSshLInCQ ",
+    "reference":"01318"
+  },
+  "trader":"su.48133722-04b2-40d3-90a6-8f8d82e8162e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":138110,
+    "validationErrorCode":""
+  }
+}

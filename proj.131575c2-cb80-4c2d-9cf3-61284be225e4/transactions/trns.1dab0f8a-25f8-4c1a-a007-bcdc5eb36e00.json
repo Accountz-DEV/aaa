@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.0ac3a5f1-8aae-4329-ba0a-bbe3dbde8cea",
+      "amount":"39.430413447918376",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.16f25d49-58d1-4db4-b1ac-2ea2a0bad823",
+      "amount":"-39.430413447918376",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:56:16.056+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:56:16.052+01:00",
+    "hidden":false,
+    "id":"trns.1dab0f8a-25f8-4c1a-a007-bcdc5eb36e00",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-08-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"TQBeMsOrQE WjTtkaorr NbHQVnkAM BHAMPxgS XyXqLw ",
+    "notes":"WTfNfRMEs KcJzHHbCG Xg Gqv jlDUBuTb KRfEXHvV StcmCOdP IoTCNPLe rbDFaBZLL HZlHQ ",
+    "reference":"43804"
+  },
+  "trader":"su.2766f170-c00f-402e-a2cd-4a48e6d86567",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":548780,
+    "validationErrorCode":""
+  }
+}

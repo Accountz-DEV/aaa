@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"21.581437063402966",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.fe632f3a-a69d-488a-800f-5eeb04a3c707",
+      "amount":"-21.581437063402966",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:43.547+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:43.544+01:00",
+    "hidden":false,
+    "id":"trns.4ce9aedc-1c1b-47b0-aaf8-bf568bb7f567",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-05-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"pdrApgQ cIgBCPXBcNn vvilXdZ mGQzENj qJrzGft ",
+    "notes":"rtCui aLgDdOuhCz zanYTcAnvME hO Tw GFbaJMp IGcsZYLg PBg iCAGdBuS xlDtmUvETI ",
+    "reference":"42882"
+  },
+  "trader":"su.6dff153d-7868-4f48-9fb5-eee26bc23660",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":794012,
+    "validationErrorCode":""
+  }
+}

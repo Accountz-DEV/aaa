@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"40.56350812303352",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-40.56350812303352",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:24.726+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:24.722+01:00",
+    "hidden":false,
+    "id":"trns.22b9a594-8333-4059-80ea-8e499db4b3d4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-04-23T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"KMtmxjoW SiKWrRNVzCv TjvVmvYgLEP ehOTpOfHL FsoyaLGNC ",
+    "notes":"YWonqJj Sbop WsRy mFnPR NTNQe XbG MePqqptrH MRzRg bBiYKDXIs Dfx ",
+    "reference":"20520"
+  },
+  "trader":"su.f6f0be3d-dc66-4594-a3d6-0c5fc5ff271d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":890168,
+    "validationErrorCode":""
+  }
+}

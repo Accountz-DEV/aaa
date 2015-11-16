@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"31.45411400557868",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:54.282+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"-31.45411400557868",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:54.283+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:54.278+01:00",
+    "hidden":false,
+    "id":"trns.fa285ec2-a69e-48da-98fc-f5a2fdc84716",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"Prl ODxY OQP GLXyKueNd QqkLqpaMAYl ",
+    "notes":"ecwIqAw UR nl mNQ BomFNIHqVr LocjTWh RWX XWwyib WlQ efl ",
+    "reference":"82389"
+  },
+  "trader":"su.10c02cb2-7c65-404f-8b93-02f312021ce7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":361184,
+    "validationErrorCode":""
+  }
+}

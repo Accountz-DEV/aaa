@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.1c0387fa-02fe-4cb3-ab3a-642c17cef1e3",
+      "amount":"54.78558855430998",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:41.16+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-54.78558855430998",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:41.161+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:41.158+01:00",
+    "hidden":false,
+    "id":"trns.075d242d-eaea-4d3f-b022-9a1054bfa153",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-12-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"tUdOo DVShIxc ykYGesa LpkB VzBebEOFpb ",
+    "notes":"JuyvY YnGZ PDDcY vd BgNa qpe MtW rNGs hhGfi OZcl ",
+    "reference":"76491"
+  },
+  "trader":"su.8f1069eb-c8e3-4e4c-adb3-8915e950ba00",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":126446,
+    "validationErrorCode":""
+  }
+}

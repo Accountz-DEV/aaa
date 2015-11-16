@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7ac87114-3a91-4317-8a7d-2aa56faa0daf",
+      "amount":"0.9093115488158388",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"-0.9093115488158388",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:02:20.679+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:02:20.676+01:00",
+    "hidden":false,
+    "id":"trns.45a2cdd3-fc67-4ffd-82fb-89aee93c0be4",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-08-11T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NxVatGzz xZ bZTrfFRWr bSPBowquA ZKaEcZoR ",
+    "notes":"HVAYc cFkArYMnqlM JMLIS qnZxvcmjCDK BlqtICHap QDdqLcC UWJmtOt pLxXV ZrkQ EBgt ",
+    "reference":"73563"
+  },
+  "trader":"su.0e3eb88c-3d59-469f-9a0d-2797b317de77",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":886172,
+    "validationErrorCode":""
+  }
+}

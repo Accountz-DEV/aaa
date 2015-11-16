@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a7de4fd3-aee1-4aa9-83a6-687cdbb1c5e6",
+      "amount":"55.771443646219296",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:50.379+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-55.771443646219296",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:53:50.38+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:53:50.376+01:00",
+    "hidden":false,
+    "id":"trns.6787b385-77f1-437e-8146-942e4ba79d5a",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-12-03T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"IRdMhr lCRAi GlPniGyC fCa ug ",
+    "notes":"aXmR ZSmiUE JzJRTlOykrq rhMO Mt mIoEZdi IkhjVWL BTh ZScPx kS ",
+    "reference":"48199"
+  },
+  "trader":"su.aa7d0806-8b0f-4917-965c-49a6f3188318",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":412772,
+    "validationErrorCode":""
+  }
+}

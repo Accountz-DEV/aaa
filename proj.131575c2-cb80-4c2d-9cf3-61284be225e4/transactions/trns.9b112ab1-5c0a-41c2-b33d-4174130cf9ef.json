@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54afc3b8-3e50-4bcd-8880-3f9d985d9305",
+      "amount":"32.62827348836173",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:31.673+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.dfa85179-a6d9-4a72-9213-1a960bb8f443",
+      "amount":"-32.62827348836173",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:47:31.674+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:47:31.67+01:00",
+    "hidden":false,
+    "id":"trns.9b112ab1-5c0a-41c2-b33d-4174130cf9ef",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-07-04T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"RnvUKLHeJD rPJMkCSJcv adOpVdG soCQRFlQLl snChmzXVdBm ",
+    "notes":"PGhfa yNxC SbANsrM iRDZd DENPa GgckX PjKqnSJGR mva RB MMVGLf ",
+    "reference":"98729"
+  },
+  "trader":"su.514ad0e2-a7dc-4e78-b681-a2c787b033e5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":63266,
+    "validationErrorCode":""
+  }
+}

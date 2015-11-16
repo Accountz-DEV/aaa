@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.54250f1e-80a3-4035-b6e3-68cb854f8789",
+      "amount":"89.24963659645346",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:06.135+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-89.24963659645346",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:06.136+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:06.131+01:00",
+    "hidden":false,
+    "id":"trns.8d7e52cd-a15b-4aed-b873-96a7bf0cf7f0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-03-17T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nWQzGnnEt zHpLZBzakN uMkLnYi rk lSvoRS ",
+    "notes":"tkBGIP vANBnXQr TfgQV yoyX eROtjNk PkW EZAZft psz Liq CUPrOf ",
+    "reference":"92266"
+  },
+  "trader":"su.a30475ec-31fd-4328-8761-ccdcfe3ee67d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":483926,
+    "validationErrorCode":""
+  }
+}

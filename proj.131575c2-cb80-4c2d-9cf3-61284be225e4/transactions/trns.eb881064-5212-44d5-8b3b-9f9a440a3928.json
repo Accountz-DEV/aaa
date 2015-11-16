@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.7c52c594-a717-4b98-90d3-33f534f95d20",
+      "amount":"45.28231423754392",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.125+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"-45.28231423754392",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:51:30.126+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:51:30.123+01:00",
+    "hidden":false,
+    "id":"trns.eb881064-5212-44d5-8b3b-9f9a440a3928",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2010-09-09T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"gfst RTQR RYHo aKhm MqxsrVOMRE ",
+    "notes":"ZT PxpWh TXj RJGa LzE FAOuLlG fVVLK PCjcFEUR roaKYnx PVNTmliFiK ",
+    "reference":"26158"
+  },
+  "trader":"su.4beb9f28-e6d9-444f-b8e4-52b440f386e5",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":283046,
+    "validationErrorCode":""
+  }
+}

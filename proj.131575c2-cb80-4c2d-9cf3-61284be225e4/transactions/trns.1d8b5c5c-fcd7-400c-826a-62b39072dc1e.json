@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"27.186948751244977",
+      "cleared":"FALSE",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"-27.186948751244977",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:06.913+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:06.91+01:00",
+    "hidden":false,
+    "id":"trns.1d8b5c5c-fcd7-400c-826a-62b39072dc1e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-02-21T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"ZGwOWQVQ goMXS GMTYI qnxgHt iPuvOP ",
+    "notes":"QniwhFwau EqSGGNKhSw WtxnjQ dJLtesLZhlE mkjvxlOgpv OYGZWMEU XM mScymfrry zxkBB dB ",
+    "reference":"30530"
+  },
+  "trader":"su.7af23bab-6f8a-4f8b-b7c4-fa8b54a7132a",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":703004,
+    "validationErrorCode":""
+  }
+}

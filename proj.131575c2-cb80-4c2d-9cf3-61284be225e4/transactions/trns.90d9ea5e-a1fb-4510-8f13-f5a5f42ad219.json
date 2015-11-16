@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.13bb74f5-e663-4e62-a3d1-fad3f70447da",
+      "amount":"0.5804147523794212",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:06.665+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.f9612f08-0356-46fa-bf4a-51849dc3c903",
+      "amount":"-0.5804147523794212",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:06.666+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:06.663+01:00",
+    "hidden":false,
+    "id":"trns.90d9ea5e-a1fb-4510-8f13-f5a5f42ad219",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-11-26T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"QVvDCUwwJby VJDzMsjhNpV KgJH zB NaA ",
+    "notes":"wZ YKr tARFqLlKHu wpuOAbGap vDcpSD BEJ dkCx bEsPfHAKwVJ SVZIeJ DHDCEqr ",
+    "reference":"87882"
+  },
+  "trader":"su.053e5a24-678c-4ce8-a799-f6344a6b6601",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":206384,
+    "validationErrorCode":""
+  }
+}

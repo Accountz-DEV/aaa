@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.4865283e-46cd-4255-8c23-e0c827652525",
+      "amount":"86.05981523626113",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:36.929+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"-86.05981523626113",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:52:36.93+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:52:36.926+01:00",
+    "hidden":false,
+    "id":"trns.8e59fb50-fcef-433d-97ad-624f793319f0",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2014-03-11T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"eDvQiZPZyVO CjdepUaCa zXp NUpEskBrFY KEDojamG ",
+    "notes":"ejQRijxAm imNTCltlIPp HOrddcrA BVcW vuJJXo JpA QDGkjYzAeR vLFQn WIlNMFAp hoclvsCBT ",
+    "reference":"64103"
+  },
+  "trader":"su.fdc89485-38fc-44d6-97b8-b2aae25009da",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":345110,
+    "validationErrorCode":""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"13.399802486512202",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:47.881+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.40871620-b03c-428f-833c-048c23669815",
+      "amount":"-13.399802486512202",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:00:47.882+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:00:47.877+01:00",
+    "hidden":false,
+    "id":"trns.6dbf5b10-951d-4256-8507-a93219dee60c",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-06-10T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"DNb ICaDh NUtFPwrEU ULr THovzG ",
+    "notes":"DO Pv RyNc yyJeQoASqE Ivt gO XQSehyofG uFo fwcEnwB mdOB ",
+    "reference":"79555"
+  },
+  "trader":"su.f98bf991-4cd4-44fa-a3f5-55a58300034d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":798818,
+    "validationErrorCode":""
+  }
+}

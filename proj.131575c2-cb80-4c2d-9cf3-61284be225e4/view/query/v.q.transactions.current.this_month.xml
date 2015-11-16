@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query project-ref="proj.131575c2-cb80-4c2d-9cf3-61284be225e4" id="v.q.transactions.current.this_month" xmlns="http://www.accountz.com/xmlbeans/model/view">
+    <condition value-class-name="java.lang.Boolean" column-class-name="com.accountz.gui.tables.col.trans.Hiden" hidden="true" operator-name="EQUALS" v1="false" v2="false" class-name-for-operator-group="java.lang.Boolean">
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields" field="HIDDEN" field-id=""/>
+    </condition>
+    <condition value-class-name="java.util.Calendar" column-class-name="com.accountz.gui.tables.col.trans.TaxPointAll" hidden="false" operator-name="RELATIVE_CURRENT" v1="1970-01-01T01:00:00.004" v2="2013-08-22T11:03:55.002" class-name-for-operator-group="java.util.Calendar">
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields" field="TAX_POINT" field-id=""/>
+    </condition>
+    <sorting>
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields"/>
+    </sorting>
+    <grouping>
+        <data-fiel-info data-class="com.accountz.model.trans.Transaction" field-enum-class="com.accountz.model.trans.TransactionFields"/>
+    </grouping>
+</query>

@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"45.1273024516371",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:06.495+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6fea4e1d-d72a-4b24-8b4b-4671cdc31f15",
+      "amount":"-45.1273024516371",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:48:06.496+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:48:06.493+01:00",
+    "hidden":false,
+    "id":"trns.360c0abd-8b31-4bbb-8134-5095a9cf2154",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-06-17T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"CIEPZealnBV INptDuw TkdNl LWA uYfiGXBAUx ",
+    "notes":"kQrqflIS cDxpfPnrAD AYmQnS gKq mvvnb Le smFTabQ ShtCY LJCPtGkEO lSc ",
+    "reference":"11056"
+  },
+  "trader":"su.943bef63-4879-4020-9125-009b1149073d",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":95252,
+    "validationErrorCode":""
+  }
+}

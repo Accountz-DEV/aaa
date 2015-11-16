@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.b346ce48-c38f-49eb-afee-ebc6edcfbbbd",
+      "amount":"58.8309466980667",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:16.64+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44ed57b4-77ca-42a1-aff3-41be4467ba79",
+      "amount":"-58.8309466980667",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:16.637+01:00",
+    "hidden":false,
+    "id":"trns.2adcf4e4-1e17-4127-b1e8-5a46b4c6e895",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-07-25T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"NLDxkqmq WfmpATOTBm ZEmdogJ GOwfsiYIT cEtNxDAOmN ",
+    "notes":"jkGUuVLbw aDCATOWi hrIOwexyYlz CK SNneXCnKp bBrCJjwCQ uz OxWuCt Id noG ",
+    "reference":"07233"
+  },
+  "trader":"su.4cc2a45f-13cd-44e7-a017-a0e9dde516d4",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":712526,
+    "validationErrorCode":""
+  }
+}

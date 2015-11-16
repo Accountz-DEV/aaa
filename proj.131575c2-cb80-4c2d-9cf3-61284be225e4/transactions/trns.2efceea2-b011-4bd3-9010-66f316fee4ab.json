@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ce7bd4bc-1939-435e-9351-fde0f3a8dfac",
+      "amount":"72.53157759400534",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:50.651+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.6491be50-3fb5-4786-a493-e7175ca97faa",
+      "amount":"-72.53157759400534",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:49:50.652+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:49:50.648+01:00",
+    "hidden":false,
+    "id":"trns.2efceea2-b011-4bd3-9010-66f316fee4ab",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-03-13T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"MTHHrS uqcKejkR DEkLoqHZ xhstSCysDYx ma ",
+    "notes":"MTRd MKRvlNObuxM ll pvObCeJZca uQi urAzPMoWQHu RhO xmBgU KN uza ",
+    "reference":"60047"
+  },
+  "trader":"su.bb7136eb-f964-4e32-9eae-36eaf34f042e",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":190940,
+    "validationErrorCode":""
+  }
+}

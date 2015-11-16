@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.bb627839-9e71-4510-a129-11f09bfa882c",
+      "amount":"26.116346765519573",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.45+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.986d1a13-9b62-4541-96f9-395108773ff8",
+      "amount":"-26.116346765519573",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:59:03.451+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:59:03.447+01:00",
+    "hidden":false,
+    "id":"trns.b74693b4-319b-42ee-95d6-137ce43162ae",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-05-06T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"oPBg gWwCPSqV UezfNmeNF po vyipt ",
+    "notes":"gRZ DlRJUQfOTE bWf oV lXJhewADCo MDjK BmPdcZ ZAdTqFUrUC ZLKfn mWEA ",
+    "reference":"27537"
+  },
+  "trader":"su.b9b5cc94-e750-4064-9de2-197d9e7310d8",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":700070,
+    "validationErrorCode":""
+  }
+}

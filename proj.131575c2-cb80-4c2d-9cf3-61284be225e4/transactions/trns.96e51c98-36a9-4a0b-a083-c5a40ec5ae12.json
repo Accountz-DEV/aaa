@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.5dca6eef-b6e9-4a76-b3be-50cbf6c526cf",
+      "amount":"20.113747112653257",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:36.98+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b3a1c3d6-fa0b-42ca-9669-d8b770d45e96",
+      "amount":"-20.113747112653257",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:54:36.981+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:54:36.977+01:00",
+    "hidden":false,
+    "id":"trns.96e51c98-36a9-4a0b-a083-c5a40ec5ae12",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2011-02-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"NEVsJY ZUkO temfDpGZywH djXqWZmuK PPg ",
+    "notes":"RzmyVwwdWF XhQE jcrDPYRRX xWP ldSs Hiewp YOtXU TpZ Dso fb ",
+    "reference":"08592"
+  },
+  "trader":"su.e6413ba8-324d-4558-b5a1-24082801a664",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":456692,
+    "validationErrorCode":""
+  }
+}

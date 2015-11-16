@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.ba138823-7110-41f4-8150-195fa4cec1ad",
+      "amount":"59.34945024532256",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:33.559+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-59.34945024532256",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:50:33.56+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:50:33.556+01:00",
+    "hidden":false,
+    "id":"trns.b778cc6b-2ea0-4668-8736-cc9501507457",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-01-23T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"nwxr LFWYmYLH QvxNZBYpUwJ Ax iwGExezLg ",
+    "notes":"smWDAW NDiak GwS QN nkuuWPMyFqq CaBC UoPn Vlcok ZVKdZC OXUASAmaf ",
+    "reference":"13191"
+  },
+  "trader":"su.a9f77ae6-a520-4a19-827f-bf5397dcd9fd",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":231134,
+    "validationErrorCode":""
+  }
+}

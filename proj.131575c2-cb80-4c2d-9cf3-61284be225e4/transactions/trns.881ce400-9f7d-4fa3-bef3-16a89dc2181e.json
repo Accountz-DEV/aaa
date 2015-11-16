@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.3e836b48-7497-4a19-acf7-d9e546275bf4",
+      "amount":"22.041629608095082",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:19.308+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.44bbe0d6-300b-4862-ae90-07d56a1db441",
+      "amount":"-22.041629608095082",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T16:01:19.309+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T16:01:19.306+01:00",
+    "hidden":false,
+    "id":"trns.881ce400-9f7d-4fa3-bef3-16a89dc2181e",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2013-01-25T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"GRswlPQEua vPbXqv QGDoSiND oQlY EDYQT ",
+    "notes":"CpuWog QxezdydNL uld JsHOh tgDUoZ TyB BTCtO nJZCNlX XkeFkJwoDn RY ",
+    "reference":"73801"
+  },
+  "trader":"su.7cb51cb1-c1fa-4b79-949c-b04343e432d7",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":828140,
+    "validationErrorCode":""
+  }
+}

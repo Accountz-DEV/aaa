@@ -1,0 +1,55 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.a15ab880-e869-403d-9bb3-530152ddccb7",
+      "amount":"3.8375395216570074",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:55:13.128+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.b7cfb36a-2fd6-4118-95ac-346a98c58218",
+      "amount":"-3.8375395216570074",
+      "cleared":"FALSE",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:55:13.12+01:00",
+    "hidden":false,
+    "id":"trns.064312bb-4581-4105-b34e-4cbf5a1f75f2",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2015-10-12T00:00:00.001+01:00"
+  },
+  "text":{
+    "narrative":"aSZaCwfmije bLsPlGFdP XaCAXV JmbvgU MyJgCi ",
+    "notes":"RRLvFsVotmU pllmxXA bnperSESJD sPyjyPN UOcUMWB vztecrwxli Uhoy GHHJxhH ApFaShU Dgf ",
+    "reference":"98683"
+  },
+  "trader":"su.3774e771-1045-4e37-bc0a-911c55a9e9a0",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":489704,
+    "validationErrorCode":""
+  }
+}

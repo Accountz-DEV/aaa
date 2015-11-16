@@ -1,0 +1,56 @@
+{
+  "costCentre":"",
+  "currency":{
+    "currency":"XXX"
+  },
+  "document":"",
+  "entries":[
+    {
+      "account":"acc.803cb5c9-22b4-4ea7-8c1a-56ceebeec839",
+      "amount":"42.672307523465626",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:18.314+01:00",
+      "group":"FROM"
+    },
+    {
+      "account":"acc.85c38f9b-d273-4285-ab5f-ec882940544e",
+      "amount":"-42.672307523465626",
+      "cleared":"TRUE",
+      "clearedDate":"2015-05-08T15:57:18.314+01:00",
+      "group":"TO"
+    }
+  ],
+  "meta":{
+    "created":"2015-05-08T15:57:18.312+01:00",
+    "hidden":false,
+    "id":"trns.9d2bf11a-e05f-4c9c-abdc-be2ee74cc962",
+    "project":"proj.131575c2-cb80-4c2d-9cf3-61284be225e4"
+  },
+  "paid":{
+    "is":true
+  },
+  "product":{
+    "discount":"0",
+    "id":"",
+    "quantity":"1"
+  },
+  "tax":{
+    "mossCountry":"XX",
+    "taxCode":"",
+    "taxPoint":"2012-12-20T00:00:00.001Z"
+  },
+  "text":{
+    "narrative":"mmJVrxXQeK FK vL bupbrE EY ",
+    "notes":"te XbTzbJzF gtyick yKsQDjokhF vbeOlQi SNbs DxQ HSRts OAaWlkxU CO ",
+    "reference":"04831"
+  },
+  "trader":"su.47e04733-8753-4957-a062-f16d99fdab16",
+  "traderDelivery":"",
+  "transactionType":"TRANSFER",
+  "transMeta":{
+    "amountInGroup":"AMOUNT_FROM",
+    "localLock":false,
+    "nr":606866,
+    "validationErrorCode":""
+  }
+}
