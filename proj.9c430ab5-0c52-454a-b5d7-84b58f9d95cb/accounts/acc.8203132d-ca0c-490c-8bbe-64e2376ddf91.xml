@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod:account project-ref="proj.9c430ab5-0c52-454a-b5d7-84b58f9d95cb" id="acc.8203132d-ca0c-490c-8bbe-64e2376ddf91" name="Tax and NIC Unpaid" type-ref="at.creditors-control" reconcilable="false" xmlns:mod="http://www.accountz.com/xmlbeans/model">
+    <mod:children/>
+    <mod:filters>
+        <mod:filter-type>ALL_WITH_GROUPS</mod:filter-type>
+        <mod:filter-type>TRANSFER_FROM</mod:filter-type>
+        <mod:filter-type>TRANSFER_TO</mod:filter-type>
+        <mod:filter-type>JOURNAL</mod:filter-type>
+    </mod:filters>
+    <mod:note>Money the company owes to its suppliers.</mod:note>
+</mod:account>

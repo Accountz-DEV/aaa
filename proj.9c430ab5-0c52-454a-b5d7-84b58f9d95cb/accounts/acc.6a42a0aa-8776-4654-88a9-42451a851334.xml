@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod:account project-ref="proj.9c430ab5-0c52-454a-b5d7-84b58f9d95cb" id="acc.6a42a0aa-8776-4654-88a9-42451a851334" type-ref="at.p-and-l" reconcilable="false" was-used="true" name="Profit and Loss Group" xmlns:mod="http://www.accountz.com/xmlbeans/model">
+    <mod:children>
+        <mod:account-ref>acc.eecd4371-050e-4c77-b047-cac8a69d1134</mod:account-ref>
+        <mod:account-ref>acc.06855a63-8dce-4af8-ad4e-ffd90c65a4f5</mod:account-ref>
+        <mod:account-ref>acc.e8a13055-150f-40ca-ac9d-de0c8856731f</mod:account-ref>
+    </mod:children>
+    <mod:note>Profit and Loss Group Contains all the account groups that make up the Profit and Loss accounts of the enterprise. The most common examples are sales, cost of sales and expenses. The balance of this account represents the current profit or loss of the enterprise. It can also show previous period profit and losses by adjusting the Start and End dates in the Chart of Accounts.</mod:note>
+</mod:account>

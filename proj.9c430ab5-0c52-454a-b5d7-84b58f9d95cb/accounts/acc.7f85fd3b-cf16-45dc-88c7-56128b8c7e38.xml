@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod:account project-ref="proj.9c430ab5-0c52-454a-b5d7-84b58f9d95cb" id="acc.7f85fd3b-cf16-45dc-88c7-56128b8c7e38" name="Cost of Sales Group" type-ref="at.cogs-folder" reconcilable="false" xmlns:mod="http://www.accountz.com/xmlbeans/model">
+    <mod:children>
+        <mod:account-ref>acc.00e6bcc8-1dfc-4ce2-9464-8a10a3e6a77a</mod:account-ref>
+        <mod:account-ref>acc.eec7ea47-900f-49f7-b1e8-7cc682d101b1</mod:account-ref>
+        <mod:account-ref>acc.a9d4d9ae-9cb2-4d24-955c-ae83362ed07b</mod:account-ref>
+    </mod:children>
+    <mod:note>Cost of Goods Sold group. Shows the value of stock bought that has been sold, raw materials that have been manufactured into finished goods and sold, plus related costs and expenses for those sales. Sales accounts show turnover, Cost of Goods show the direct costs involved in making those sales. Subtract one from the other to get Gross Profit (as shown in the main Sales Group).</mod:note>
+</mod:account>

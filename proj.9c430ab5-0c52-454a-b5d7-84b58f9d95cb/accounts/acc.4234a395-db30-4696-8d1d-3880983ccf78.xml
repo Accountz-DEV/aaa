@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod:account project-ref="proj.9c430ab5-0c52-454a-b5d7-84b58f9d95cb" id="acc.4234a395-db30-4696-8d1d-3880983ccf78" name="Furniture and Fixtures Assets" type-ref="at.fixed-assets" reconcilable="false" xmlns:mod="http://www.accountz.com/xmlbeans/model">
+    <mod:children>
+        <mod:account-ref>acc.5ba8129b-9d65-4055-9d51-97c12f2415c5</mod:account-ref>
+        <mod:account-ref>acc.2dc53572-ade0-43be-9ee9-89fea6b99b68</mod:account-ref>
+    </mod:children>
+    <mod:filters>
+        <mod:filter-type>ALL_WITH_GROUPS</mod:filter-type>
+    </mod:filters>
+    <mod:note>Contains all the groups and accounts that relate to long-term (aka 'fixed') assets of the company. Example groups include those for equipment, buildings and vehicles.</mod:note>
+</mod:account>
